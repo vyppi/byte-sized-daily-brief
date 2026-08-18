@@ -25,6 +25,12 @@ const managementFeeds = [
   ['Scott Berkun', 'https://scottberkun.com/feed/', 'Leadership']
 ]
 
+const newsFeeds = [
+  ['BBC News India', 'https://feeds.bbci.co.uk/news/world/asia/india/rss.xml', 'India', 'india'],
+  ['BBC News World', 'https://feeds.bbci.co.uk/news/world/rss.xml', 'World', 'world'],
+  ['UN News', 'https://news.un.org/feed/subscribe/en/news/all/rss.xml', 'World', 'world']
+]
+
 const today = new Date()
 const editionDate = today.toISOString().slice(0, 10)
 const dayOfYear = Math.floor((today - new Date(today.getFullYear(), 0, 0)) / 86400000)
@@ -226,15 +232,15 @@ const jobs = [
   ...engineeringFeeds.map((feed) => [feed[0], async () => normalizeFeed(await fetchText(feed[1]), feed, 'engineering')]),
   ...managementFeeds.map((feed) => [feed[0], async () => normalizeFeed(await fetchText(feed[1]), feed, 'management')]),
   ['GDELT India', () => fetchGdelt('sourcecountry:IN', 'india')],
-  ['UN News Asia Pacific', async () => {
-    const feed = ['UN News', 'https://news.un.org/feed/subscribe/en/news/region/asia-pacific/feed/rss.xml', 'Asia Pacific']
-    return normalizeFeed(await fetchText(feed[1]), feed, 'both').map((item) => ({ ...item, section: 'india' }))
-  }],
   ['GDELT World', () => fetchGdelt('sourcelang:english -sourcecountry:IN', 'world')],
-  ['UN News World', async () => {
-    const feed = ['UN News', 'https://news.un.org/feed/subscribe/en/news/all/rss.xml', 'World']
-    return normalizeFeed(await fetchText(feed[1]), feed, 'both').map((item) => ({ ...item, section: 'world' }))
-  }]
+  ...newsFeeds.map((feed) => [
+    feed[0],
+    async () =>
+      normalizeFeed(await fetchText(feed[1]), feed, 'both').map((item) => ({
+        ...item,
+        section: feed[3]
+      }))
+  ])
 ]
 
 const results = await Promise.allSettled(jobs.map(([, run]) => run()))
@@ -252,7 +258,15 @@ results.forEach((result, index) => {
 
 const fallback = await loadFallback()
 const merged = deduplicate([...fetchedItems, ...fallback.items])
-const ranked = capSources(merged.sort((a, b) => score(b) - score(a)))
+const ranked = capSources(
+  merged
+    .filter((item) => {
+      if (!['india', 'world'].includes(item.section)) return true
+      const publishedAt = new Date(item.publishedAt).getTime()
+      return Number.isFinite(publishedAt) && Date.now() - publishedAt <= 48 * 60 * 60 * 1000
+    })
+    .sort((a, b) => score(b) - score(a))
+)
 
 const selected = [
   ...ranked.filter((item) => item.section === 'brief' && item.track === 'engineering').slice(0, 12),

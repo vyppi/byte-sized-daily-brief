@@ -1,69 +1,81 @@
 {
   "editionDate": "2026-08-18",
   "edition": "2026.231",
-  "generatedAt": "2026-08-18T18:40:58.717Z",
+  "generatedAt": "2026-08-18T20:50:59.937Z",
   "items": [
     {
-      "id": "hn-49349147",
-      "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
-      "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
+      "id": "hn-49351330",
+      "title": "Norway Should Buy OpenAI",
+      "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
       "source": "Hacker News",
       "topic": "Community signal",
       "track": "engineering",
       "section": "brief",
-      "summary": "106 points and 87 comments on Hacker News.",
-      "publishedAt": "2026-08-18T17:24:53.000Z",
+      "summary": "135 points and 142 comments on Hacker News.",
+      "publishedAt": "2026-08-18T19:30:29.000Z",
       "readingMinutes": 5,
-      "signal": 106
+      "signal": 135
     },
     {
-      "id": "hn-49348751",
-      "title": "Claude Code weekly limits reduce by a third tomorrow",
-      "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+      "id": "hn-49351324",
+      "title": "Beware Management Consultants",
+      "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
       "source": "Hacker News",
       "topic": "Community signal",
       "track": "engineering",
       "section": "brief",
-      "summary": "200 points and 138 comments on Hacker News.",
-      "publishedAt": "2026-08-18T17:02:15.000Z",
+      "summary": "163 points and 31 comments on Hacker News.",
+      "publishedAt": "2026-08-18T19:29:51.000Z",
       "readingMinutes": 5,
-      "signal": 200
+      "signal": 163
     },
     {
-      "id": "hn-49345476",
-      "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
-      "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
+      "id": "hn-49349984",
+      "title": "How does IKEA come up with names for its products?",
+      "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
       "source": "Hacker News",
       "topic": "Community signal",
       "track": "engineering",
       "section": "brief",
-      "summary": "109 points and 16 comments on Hacker News.",
-      "publishedAt": "2026-08-18T13:38:23.000Z",
+      "summary": "138 points and 90 comments on Hacker News.",
+      "publishedAt": "2026-08-18T18:11:53.000Z",
       "readingMinutes": 5,
-      "signal": 109
+      "signal": 138
     },
     {
-      "id": "f1296ab78fdcac",
-      "title": "Kakoune code editor",
-      "url": "https://kakoune.org/",
+      "id": "1085b5c5b0d91e",
+      "title": "Odin's New Inline Assembly Templates",
+      "url": "https://odin-lang.org/docs/inline-asm/",
       "source": "Lobsters",
       "topic": "Programming",
       "track": "engineering",
       "section": "brief",
       "summary": "Comments",
-      "publishedAt": "Tue, 18 Aug 2026 13:16:56 -0500",
+      "publishedAt": "Tue, 18 Aug 2026 14:20:45 -0500",
       "readingMinutes": 5
     },
     {
-      "id": "ec37a2e9ca5e01",
-      "title": "Mojo is now open source",
-      "url": "https://www.modular.com/blog/mojo-open-source",
+      "id": "4ef54729ff0e64",
+      "title": "Organizing in Layer 8 – Building Tech in Democratic Socialists of America",
+      "url": "https://www.youtube.com/watch?v=-koLM6yT5FY",
       "source": "Lobsters",
       "topic": "Programming",
       "track": "engineering",
       "section": "brief",
       "summary": "Comments",
-      "publishedAt": "Tue, 18 Aug 2026 11:34:21 -0500",
+      "publishedAt": "Tue, 18 Aug 2026 13:39:18 -0500",
+      "readingMinutes": 5
+    },
+    {
+      "id": "52bedbab21b361",
+      "title": "Experiment in reducing target directory size on nightly",
+      "url": "https://blog.rust-lang.org/inside-rust/2026/08/18/reducing-target-dir-size-on-nightly/",
+      "source": "Lobsters",
+      "topic": "Programming",
+      "track": "engineering",
+      "section": "brief",
+      "summary": "Comments",
+      "publishedAt": "Tue, 18 Aug 2026 13:39:06 -0500",
       "readingMinutes": 5
     },
     {
@@ -76,18 +88,6 @@
       "section": "brief",
       "summary": "Part of the reason why I’m at Thoughtworks is because I’d like to see a software development organization founded on technical excellence as an example for the rest of the industry. The trouble is that I have little aptitude or inclination for the hard work of",
       "publishedAt": "2026-08-18T11:04:00-04:00",
-      "readingMinutes": 5
-    },
-    {
-      "id": "44cba083f1ebea",
-      "title": "What software do you use daily in 2026?",
-      "url": "https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026",
-      "source": "Lobsters",
-      "topic": "Programming",
-      "track": "engineering",
-      "section": "brief",
-      "summary": "There was a similar thread here six years ago, and I'm curious how people's daily setups have changed since then. What does the software side of your daily setup look like in 2026? Operating system, desktop environment or window manager, terminal, shell, edito",
-      "publishedAt": "Tue, 18 Aug 2026 09:31:11 -0500",
       "readingMinutes": 5
     },
     {
@@ -295,28 +295,76 @@
       "readingMinutes": 5
     },
     {
-      "id": "581e9b0d36443b",
-      "title": "Singapore: Independent rights experts urge immediate end to ‘unlawful use’ of death penalty",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168159",
-      "source": "UN News",
-      "topic": "Asia Pacific",
-      "track": "both",
-      "section": "india",
-      "summary": "Independent UN Human Rights Council-appointed experts on Tuesday condemned the execution of at least 16 people in Singapore for drug-related offences this year and urged the country to end its “continued and unlawful use of capital punishment.”",
-      "publishedAt": "Tue, 18 Aug 2026 12:00:00 +0000",
-      "readingMinutes": 5
-    },
-    {
-      "id": "fallback-india-1",
-      "title": "Latest releases from the Government of India",
-      "url": "https://pib.gov.in/AllRelease.aspx",
-      "source": "Press Information Bureau",
+      "id": "82e5ecb9d6ce6e",
+      "title": "Jharkhand student leader ends hunger strike after 16 days",
+      "url": "https://www.bbc.co.uk/news/articles/cly8m31nvmgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News India",
       "topic": "India",
       "track": "both",
       "section": "india",
-      "summary": "Official announcements and press releases from ministries and Government of India departments.",
-      "publishedAt": "2026-08-18T03:00:00Z",
-      "readingMinutes": 4
+      "summary": "Devendra Nath Mahto was part of a larger protest which began weeks ago, demanding exam reforms in Jharkhand state.",
+      "publishedAt": "Tue, 18 Aug 2026 07:27:32 GMT",
+      "readingMinutes": 5
+    },
+    {
+      "id": "161602e5362b1b",
+      "title": "Why Indian law students don't want top judge at their graduation ceremony",
+      "url": "https://www.bbc.co.uk/news/articles/c171j0k74d8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News India",
+      "topic": "India",
+      "track": "both",
+      "section": "india",
+      "summary": "Students from two premier law universities say they don't want Chief Justice Surya Kant to attend their convocations.",
+      "publishedAt": "Tue, 18 Aug 2026 04:16:42 GMT",
+      "readingMinutes": 5
+    },
+    {
+      "id": "f48ef568cb313f",
+      "title": "India built the world's biggest digital payments miracle. Now comes the bill",
+      "url": "https://www.bbc.co.uk/news/articles/c8xnwqe00v1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News India",
+      "topic": "India",
+      "track": "both",
+      "section": "india",
+      "summary": "India's UPI may finally face merchant fees, raising questions over who pays and whether users will resist.",
+      "publishedAt": "Sun, 16 Aug 2026 23:26:30 GMT",
+      "readingMinutes": 5
+    },
+    {
+      "id": "85805a93318e53",
+      "title": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rzr49vr2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News World",
+      "topic": "World",
+      "track": "both",
+      "section": "world",
+      "summary": "The network accuses the administration of retaliating against ABC because it \"disapproves of what ABC broadcasts\".",
+      "publishedAt": "Tue, 18 Aug 2026 20:39:36 GMT",
+      "readingMinutes": 5
+    },
+    {
+      "id": "b176b518b29b67",
+      "title": "Man in Chucky-style mask terrorises Philadelphia residents",
+      "url": "https://www.bbc.co.uk/news/articles/c39em89z4vmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News World",
+      "topic": "World",
+      "track": "both",
+      "section": "world",
+      "summary": "\"It was just weird, like some twisted game.\"",
+      "publishedAt": "Tue, 18 Aug 2026 20:27:44 GMT",
+      "readingMinutes": 5
+    },
+    {
+      "id": "3f0141e197ab4e",
+      "title": "US announces new sanctions on top ICC figures",
+      "url": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News World",
+      "topic": "World",
+      "track": "both",
+      "section": "world",
+      "summary": "The Trump administration has vowed to dismantle the international court \"brick by brick\".",
+      "publishedAt": "Tue, 18 Aug 2026 20:21:49 GMT",
+      "readingMinutes": 5
     },
     {
       "id": "a1496e2cb38c87",
@@ -343,16 +391,16 @@
       "readingMinutes": 5
     },
     {
-      "id": "fallback-world-1",
-      "title": "Explore today's global events through open news data",
-      "url": "https://www.gdeltproject.org/",
-      "source": "GDELT Project",
+      "id": "581e9b0d36443b",
+      "title": "Singapore: Independent rights experts urge immediate end to ‘unlawful use’ of death penalty",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168159",
+      "source": "UN News",
       "topic": "World",
       "track": "both",
       "section": "world",
-      "summary": "An open view of events and reporting patterns collected across countries and languages.",
-      "publishedAt": "2026-08-18T02:00:00Z",
-      "readingMinutes": 4
+      "summary": "Independent UN Human Rights Council-appointed experts on Tuesday condemned the execution of at least 16 people in Singapore for drug-related offences this year and urged the country to end its “continued and unlawful use of capital punishment.”",
+      "publishedAt": "Tue, 18 Aug 2026 12:00:00 +0000",
+      "readingMinutes": 5
     }
   ]
 }

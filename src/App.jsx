@@ -15,7 +15,13 @@ import {
   Users,
   X
 } from 'lucide-react'
-import { TRACKS, filterItems, formatEditionDate, readingTime } from './lib/brief.js'
+import {
+  TRACKS,
+  filterItems,
+  formatEditionDate,
+  formatPublishedDate,
+  readingTime
+} from './lib/brief.js'
 
 const STORAGE_KEYS = {
   track: 'byte-sized-track',
@@ -64,6 +70,8 @@ function ArticleCard({ item, isRead, isSaved, onOpen, onSave, compact = false })
       <div className="article-meta">
         <span className="source">{item.source}</span>
         <span>{item.topic}</span>
+        <span className="dot" />
+        <span>{formatPublishedDate(item.publishedAt)}</span>
         <span className="dot" />
         <span>{readingTime(item)} min</span>
       </div>
@@ -374,16 +382,23 @@ export default function App() {
               </button>
             </div>
             <div className="news-grid">
-              {newsItems.map((item) => (
-                <ArticleCard
-                  item={item}
-                  isRead={read.has(item.id)}
-                  isSaved={saved.has(item.id)}
-                  key={item.id}
-                  onOpen={markRead}
-                  onSave={toggleSave}
+              {newsItems.length ? (
+                newsItems.map((item) => (
+                  <ArticleCard
+                    item={item}
+                    isRead={read.has(item.id)}
+                    isSaved={saved.has(item.id)}
+                    key={item.id}
+                    onOpen={markRead}
+                    onSave={toggleSave}
+                  />
+                ))
+              ) : (
+                <EmptyState
+                  title="No fresh headlines"
+                  detail="Nothing from the approved feeds was published in the last 48 hours. Older news is deliberately excluded."
                 />
-              ))}
+              )}
             </div>
           </section>
         )}

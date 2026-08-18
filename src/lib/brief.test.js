@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { filterItems, readingTime } from './brief.js'
+import { filterItems, formatPublishedDate, readingTime } from './brief.js'
 
 const items = [
   { title: 'Runtime design', track: 'engineering', section: 'brief', source: 'A' },
@@ -21,5 +21,12 @@ describe('readingTime', () => {
   it('keeps estimates within the product range', () => {
     expect(readingTime({ readingMinutes: 1 })).toBe(3)
     expect(readingTime({ readingMinutes: 20 })).toBe(12)
+  })
+})
+
+describe('formatPublishedDate', () => {
+  it('formats valid feed dates and ignores invalid values', () => {
+    expect(formatPublishedDate('2026-08-18T12:00:00Z')).toBe('18 Aug')
+    expect(formatPublishedDate('not-a-date')).toBe('')
   })
 })

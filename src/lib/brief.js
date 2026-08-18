@@ -36,3 +36,13 @@ export function formatEditionDate(dateValue) {
     month: 'long'
   }).format(new Date(`${dateValue}T00:00:00`))
 }
+
+export function formatPublishedDate(dateValue) {
+  const date = new Date(dateValue)
+  if (Number.isNaN(date.getTime())) return ''
+
+  return new Intl.DateTimeFormat('en-IN', {
+    day: 'numeric',
+    month: 'short'
+  }).format(date)
+}
