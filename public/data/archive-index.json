@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-19T12:06:44.506Z",
+  "generatedAt": "2026-08-19T12:09:46.687Z",
   "editions": [
     {
       "editionDate": "2026-08-19",
       "edition": "2026.231",
-      "generatedAt": "2026-08-19T12:06:44.506Z",
+      "generatedAt": "2026-08-19T12:09:46.687Z",
       "itemCount": 30,
       "items": [
         {
@@ -16,12 +16,12 @@
           "track": "engineering",
           "section": "brief",
           "kind": "current",
-          "summary": "154 points and 174 comments on Hacker News.",
+          "summary": "154 points and 176 comments on Hacker News.",
           "publishedAt": "2026-08-18T23:51:49.000Z",
           "readingMinutes": 5,
           "signal": 154,
-          "comments": 174,
-          "whyRead": "154 points and 174 comments make this an active technical discussion."
+          "comments": 176,
+          "whyRead": "154 points and 176 comments make this an active technical discussion."
         },
         {
           "id": "570538198e4abd",
@@ -80,20 +80,20 @@
           "whyRead": "Enterprise Java developers have a new superpower—drive GitHub Copilot from idiomatic Java code with annotations, virtual threads, and more. "
         },
         {
-          "id": "hn-49353432",
-          "title": "AI usage patterns in software teams",
-          "url": "https://linear.app/data",
+          "id": "hn-49353221",
+          "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+          "url": "https://github.com/DenisSergeevitch/desktop-fly",
           "source": "Hacker News",
           "topic": "Community signal",
           "track": "engineering",
           "section": "brief",
           "kind": "current",
-          "summary": "154 points and 102 comments on Hacker News.",
-          "publishedAt": "2026-08-18T22:08:07.000Z",
+          "summary": "308 points and 117 comments on Hacker News.",
+          "publishedAt": "2026-08-18T21:50:33.000Z",
           "readingMinutes": 5,
-          "signal": 154,
-          "comments": 102,
-          "whyRead": "154 points and 102 comments make this an active technical discussion."
+          "signal": 308,
+          "comments": 117,
+          "whyRead": "308 points and 117 comments make this an active technical discussion."
         },
         {
           "id": "31aafd14b6f9fc",
@@ -357,7 +357,7 @@
           "section": "world",
           "kind": "news",
           "summary": "The Aircraft Accident Investigation Department tells the BBC the identities of those on board are not yet known.",
-          "publishedAt": "Wed, 19 Aug 2026 11:32:51 GMT",
+          "publishedAt": "Wed, 19 Aug 2026 12:07:59 GMT",
           "readingMinutes": 5,
           "whyRead": "The Aircraft Accident Investigation Department tells the BBC the identities of those on board are not yet known."
         },
