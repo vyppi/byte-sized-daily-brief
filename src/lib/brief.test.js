@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { filterItems, formatPublishedDate, readingTime } from './brief.js'
+import { filterItems, formatPublishedDate, formatRefreshTime, readingTime } from './brief.js'
 
 const items = [
   { title: 'Runtime design', track: 'engineering', section: 'brief', source: 'A' },
@@ -27,6 +27,15 @@ describe('readingTime', () => {
 describe('formatPublishedDate', () => {
   it('formats valid feed dates and ignores invalid values', () => {
     expect(formatPublishedDate('2026-08-18T12:00:00Z')).toBe('18 Aug')
+    expect(formatPublishedDate(null)).toBe('Classic')
     expect(formatPublishedDate('not-a-date')).toBe('')
+  })
+})
+
+describe('formatRefreshTime', () => {
+  it('summarizes how recently an edition was generated', () => {
+    expect(formatRefreshTime('2026-08-18T12:00:00Z', Date.parse('2026-08-18T12:30:00Z'))).toBe(
+      '30 minutes ago'
+    )
   })
 })

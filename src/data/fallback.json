@@ -7,9 +7,9 @@
       "source": "Industrial Empathy",
       "topic": "Architecture",
       "track": "engineering",
-      "section": "brief",
+      "section": "evergreen",
       "summary": "A practical structure for explaining context, goals, alternatives, trade-offs and implementation plans before code is written.",
-      "publishedAt": "2026-08-18T05:00:00Z",
+      "publishedAt": null,
       "readingMinutes": 8
     },
     {
@@ -19,9 +19,9 @@
       "source": "12 Factor",
       "topic": "Systems",
       "track": "engineering",
-      "section": "brief",
+      "section": "evergreen",
       "summary": "Review the durable principles behind portable, observable and operationally sound web services.",
-      "publishedAt": "2026-08-17T05:00:00Z",
+      "publishedAt": null,
       "readingMinutes": 7
     },
     {
@@ -31,9 +31,9 @@
       "source": "Jeff Dean notes",
       "topic": "Performance",
       "track": "engineering",
-      "section": "brief",
+      "section": "evergreen",
       "summary": "A compact mental model for the relative cost of CPU, memory, networks and storage.",
-      "publishedAt": "2026-08-16T05:00:00Z",
+      "publishedAt": null,
       "readingMinutes": 4
     },
     {
@@ -43,9 +43,9 @@
       "source": "Paul Graham",
       "topic": "Team systems",
       "track": "management",
-      "section": "brief",
+      "section": "evergreen",
       "summary": "Why fragmented calendars impose a disproportionate cost on people whose work requires long periods of concentration.",
-      "publishedAt": "2026-08-18T04:00:00Z",
+      "publishedAt": null,
       "readingMinutes": 6
     },
     {
@@ -55,9 +55,9 @@
       "source": "Irrational Exuberance",
       "topic": "Leadership",
       "track": "management",
-      "section": "brief",
+      "section": "evergreen",
       "summary": "A field guide to making recurring one-on-ones useful for reports, managers and the wider organization.",
-      "publishedAt": "2026-08-17T04:00:00Z",
+      "publishedAt": null,
       "readingMinutes": 7
     },
     {
@@ -67,9 +67,9 @@
       "source": "O'Reilly",
       "topic": "Career",
       "track": "management",
-      "section": "brief",
+      "section": "evergreen",
       "summary": "A reference point for the changing responsibilities from mentorship through organizational leadership.",
-      "publishedAt": "2026-08-16T04:00:00Z",
+      "publishedAt": null,
       "readingMinutes": 5
     }
   ]

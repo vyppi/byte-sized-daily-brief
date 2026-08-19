@@ -19,7 +19,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -39,6 +39,16 @@ jobs:
       - run: npm ci
       - run: npm test
       - run: npm run build
+      - name: Persist daily edition
+        shell: bash
+        run: |
+          if [[ -n "$(git status --porcelain public/data public/editions public/archive public/sitemap.xml)" ]]; then
+            git config user.name "byte-sized-bot"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add public/data public/editions public/archive public/sitemap.xml
+            git commit -m "Refresh daily edition [skip ci]"
+            git push
+          fi
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:

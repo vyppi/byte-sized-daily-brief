@@ -17,7 +17,7 @@ export function filterItems(items, { track, query = '', section } = {}) {
     const sectionMatches = !section || item.section === section
     const queryMatches =
       !normalizedQuery ||
-      [item.title, item.source, item.topic, item.summary]
+      [item.title, item.source, item.topic, item.summary, item.whyRead]
         .filter(Boolean)
         .some((value) => value.toLowerCase().includes(normalizedQuery))
 
@@ -38,6 +38,7 @@ export function formatEditionDate(dateValue) {
 }
 
 export function formatPublishedDate(dateValue) {
+  if (!dateValue) return 'Classic'
   const date = new Date(dateValue)
   if (Number.isNaN(date.getTime())) return ''
 
@@ -45,4 +46,16 @@ export function formatPublishedDate(dateValue) {
     day: 'numeric',
     month: 'short'
   }).format(date)
+}
+
+export function formatRefreshTime(dateValue, now = Date.now()) {
+  const timestamp = new Date(dateValue).getTime()
+  if (!Number.isFinite(timestamp)) return 'recently'
+  const minutes = Math.max(0, Math.round((now - timestamp) / 60000))
+  if (minutes < 2) return 'just now'
+  if (minutes < 60) return `${minutes} minutes ago`
+  const hours = Math.round(minutes / 60)
+  if (hours < 24) return `${hours} hour${hours === 1 ? '' : 's'} ago`
+  const days = Math.round(hours / 24)
+  return `${days} day${days === 1 ? '' : 's'} ago`
 }
