@@ -15,7 +15,7 @@ export default defineConfig({
       manifest: {
         name: 'Byte Sized Daily Brief',
         short_name: 'Byte Sized',
-        description: 'A finite daily reading brief for engineers and engineering managers.',
+        description: 'Five software-engineering articles worth your attention every weekday.',
         theme_color: '#e63b2e',
         background_color: '#f5f3ee',
         display: 'standalone',

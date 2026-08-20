@@ -12,6 +12,7 @@
     "test": "vitest run"
   },
   "dependencies": {
+    "@microsoft/applicationinsights-web": "^3.4.3",
     "fast-xml-parser": "^5.2.5",
     "gsap": "^3.13.0",
     "lucide-react": "^0.468.0",

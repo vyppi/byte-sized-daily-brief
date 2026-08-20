@@ -10,29 +10,12 @@ const parser = new XMLParser({
 
 const SITE_URL = process.env.PUBLIC_SITE_URL || 'https://vyppi.github.io/byte-sized-daily-brief'
 const MAX_BRIEF_AGE_HOURS = 24 * 10
-const MAX_NEWS_AGE_HOURS = 48
-
 const engineeringFeeds = [
   ['GitHub Engineering', 'https://github.blog/engineering/feed/', 'Engineering'],
   ['Microsoft Dev Blogs', 'https://devblogs.microsoft.com/feed/', 'Developer tools'],
   ['Martin Fowler', 'https://martinfowler.com/feed.atom', 'Architecture'],
   ['Lobsters', 'https://lobste.rs/rss', 'Programming'],
   ['Stack Overflow Blog', 'https://stackoverflow.blog/feed/', 'Software']
-]
-
-const managementFeeds = [
-  ['The Pragmatic Engineer', 'https://newsletter.pragmaticengineer.com/feed', 'Leadership'],
-  ['LeadDev', 'https://leaddev.com/rss.xml', 'Management'],
-  ['Irrational Exuberance', 'https://lethain.com/feeds/', 'Leadership'],
-  ['Charity Majors', 'https://charity.wtf/feed/', 'Engineering culture'],
-  ['Atlassian Leadership', 'https://www.atlassian.com/blog/leadership/feed', 'Team systems'],
-  ['Scott Berkun', 'https://scottberkun.com/feed/', 'Leadership']
-]
-
-const newsFeeds = [
-  ['BBC News India', 'https://feeds.bbci.co.uk/news/world/asia/india/rss.xml', 'India', 'india'],
-  ['BBC News World', 'https://feeds.bbci.co.uk/news/world/rss.xml', 'World', 'world'],
-  ['UN News', 'https://news.un.org/feed/subscribe/en/news/all/rss.xml', 'World', 'world']
 ]
 
 const relevancePatterns = {
@@ -51,14 +34,6 @@ const relevancePatterns = {
     /\bcompiler|runtime|api|server|network|performance|testing\b/i,
     /\bopen source|github|framework|library|editor|terminal\b/i,
     /\bllm|ai agent|machine learning|model\b/i
-  ],
-  management: [
-    /\bengineering (?:leader|manager|management)\b/i,
-    /\bcto|vp of engineering|staff engineer\b/i,
-    /\bleadership|leader\b/i,
-    /\bteam|culture|hiring|career\b/i,
-    /\bdelivery|roadmap|strategy|product\b/i,
-    /\bone-on-one|burnout|organization|manager\b/i
   ]
 }
 
@@ -161,24 +136,6 @@ async function fetchText(url) {
   return response.text()
 }
 
-async function fetchWithRetry(url, options = {}, attempts = 3) {
-  let lastError
-  for (let attempt = 1; attempt <= attempts; attempt += 1) {
-    try {
-      const response = await fetch(url, options)
-      if (response.status === 429 && attempt < attempts) {
-        await new Promise((resolve) => setTimeout(resolve, attempt * 5000))
-        continue
-      }
-      return response
-    } catch (error) {
-      lastError = error
-      if (attempt < attempts) await new Promise((resolve) => setTimeout(resolve, attempt * 3000))
-    }
-  }
-  throw lastError || new Error(`Request failed after ${attempts} attempts: ${url}`)
-}
-
 async function fetchHackerNews() {
   const idsResponse = await fetch('https://hacker-news.firebaseio.com/v0/topstories.json', {
     signal: AbortSignal.timeout(15000)
@@ -212,39 +169,6 @@ async function fetchHackerNews() {
       signal: story.score || 0,
       comments: story.descendants || 0
     }))
-}
-
-async function fetchGdelt(query, section) {
-  const params = new URLSearchParams({
-    query,
-    mode: 'artlist',
-    maxrecords: '20',
-    format: 'json',
-    sort: 'hybridrel'
-  })
-  const response = await fetchWithRetry(
-    `https://api.gdeltproject.org/api/v2/doc/doc?${params}`,
-    {
-      headers: { 'User-Agent': 'ByteSizedDailyBrief/0.2 (+https://github.com/vyppi/byte-sized-daily-brief)' },
-      signal: AbortSignal.timeout(30000)
-    }
-  )
-  if (!response.ok) throw new Error(`GDELT ${section} returned ${response.status}`)
-  const payload = await response.json()
-
-  return (payload.articles || []).map((article) => ({
-    id: makeId(article.url, article.title),
-    title: article.title,
-    url: normalizeUrl(article.url),
-    source: article.domain || article.sourcecountry || 'News source',
-    topic: section === 'india' ? 'India' : 'World',
-    track: 'both',
-    section,
-    kind: 'news',
-    summary: `Published by ${article.domain || 'the original news source'}.`,
-    publishedAt: article.seendate || new Date().toISOString(),
-    readingMinutes: 4
-  }))
 }
 
 function relevanceScore(item, track) {
@@ -309,18 +233,6 @@ function selectTrack(items, track) {
   }))
 }
 
-function selectNews(items, section) {
-  const fresh = items
-    .filter((item) => item.section === section && ageHours(item.publishedAt) <= MAX_NEWS_AGE_HOURS)
-    .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt))
-
-  return diverseSelect(fresh, 8, 3).map((item) => ({
-    ...item,
-    kind: 'news',
-    whyRead: summarizeReason(item)
-  }))
-}
-
 function escapeHtml(value = '') {
   return String(value)
     .replaceAll('&', '&amp;')
@@ -332,10 +244,8 @@ function escapeHtml(value = '') {
 
 function editionHtml(edition) {
   const sections = [
-    ['Engineering', edition.items.filter((item) => item.track === 'engineering' && item.section === 'brief')],
-    ['Management', edition.items.filter((item) => item.track === 'management' && item.section === 'brief')],
-    ['India news', edition.items.filter((item) => item.section === 'india')],
-    ['World news', edition.items.filter((item) => item.section === 'world')]
+    ['Today’s five', edition.items.filter((item) => item.section === 'brief')],
+    ['One timeless idea', edition.items.filter((item) => item.section === 'evergreen')]
   ]
 
   const content = sections
@@ -350,7 +260,7 @@ function editionHtml(edition) {
     )
     .join('')
 
-  return `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Byte Sized Daily Brief — ${edition.editionDate}</title><meta name="description" content="Engineering, management, India and world reading brief for ${edition.editionDate}."><link rel="canonical" href="${SITE_URL}/editions/${edition.editionDate}/"><style>body{max-width:920px;margin:auto;padding:40px 22px;background:#f5f3ee;color:#111;font:18px/1.55 system-ui}h1{font-size:clamp(42px,8vw,82px);line-height:.9}h2{margin-top:60px;border-bottom:2px solid}article{padding:24px 0;border-bottom:1px solid #bbb}article p:first-child{font:12px monospace;text-transform:uppercase;color:#666}a{color:#b62419}nav a{color:#111}</style></head><body><nav><a href="${SITE_URL}/">Open the interactive PWA</a> · <a href="${SITE_URL}/archive/">All editions</a></nav><h1>Byte Sized<br>Daily Brief</h1><p>${edition.editionDate} · ${edition.items.length} selected links · updated ${edition.generatedAt}</p>${content}</body></html>`
+  return `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Byte Sized Daily Brief — ${edition.editionDate}</title><meta name="description" content="Five software-engineering articles worth your attention on ${edition.editionDate}."><link rel="canonical" href="${SITE_URL}/editions/${edition.editionDate}/"><style>body{max-width:920px;margin:auto;padding:40px 22px;background:#f5f3ee;color:#111;font:18px/1.55 system-ui}h1{font-size:clamp(42px,8vw,82px);line-height:.9}h2{margin-top:60px;border-bottom:2px solid}article{padding:24px 0;border-bottom:1px solid #bbb}article p:first-child{font:12px monospace;text-transform:uppercase;color:#666}a{color:#b62419}nav a{color:#111}</style></head><body><nav><a href="${SITE_URL}/">Open the interactive PWA</a> · <a href="${SITE_URL}/archive/">All editions</a></nav><h1>Byte Sized<br>Daily Brief</h1><p>${edition.editionDate} · five current stories and one timeless idea · updated ${edition.generatedAt}</p>${content}</body></html>`
 }
 
 async function loadEvergreen() {
@@ -366,18 +276,9 @@ async function loadEvergreen() {
 
 const jobs = [
   ['Hacker News', fetchHackerNews],
-  ...engineeringFeeds.map((feed) => [feed[0], async () => normalizeFeed(await fetchText(feed[1]), feed, 'engineering')]),
-  ...managementFeeds.map((feed) => [feed[0], async () => normalizeFeed(await fetchText(feed[1]), feed, 'management')]),
-  ['GDELT India', () => fetchGdelt('sourcecountry:IN', 'india')],
-  ['GDELT World', () => fetchGdelt('sourcelang:english -sourcecountry:IN', 'world')],
-  ...newsFeeds.map((feed) => [
+  ...engineeringFeeds.map((feed) => [
     feed[0],
-    async () =>
-      normalizeFeed(await fetchText(feed[1]), feed, 'both').map((item) => ({
-        ...item,
-        section: feed[3],
-        kind: 'news'
-      }))
+    async () => normalizeFeed(await fetchText(feed[1]), feed, 'engineering')
   ])
 ]
 
@@ -398,13 +299,11 @@ results.forEach((result, index) => {
 
 const currentItems = deduplicate(fetchedItems)
 const evergreenItems = await loadEvergreen()
+const engineeringEvergreen = evergreenItems.filter((item) => item.track === 'engineering')
 const selected = [
-  ...selectTrack(currentItems, 'engineering'),
-  ...selectTrack(currentItems, 'management'),
-  ...evergreenItems,
-  ...selectNews(currentItems, 'india'),
-  ...selectNews(currentItems, 'world')
-]
+  ...selectTrack(currentItems, 'engineering').slice(0, 5),
+  engineeringEvergreen[dayOfYear % engineeringEvergreen.length]
+].filter(Boolean)
 
 if (!selected.length) throw new Error('No daily brief items were generated.')
 
@@ -447,7 +346,7 @@ const archiveIndex = {
 }
 await writeFile(new URL('../public/data/archive-index.json', import.meta.url), JSON.stringify(archiveIndex, null, 2))
 
-const archiveHtml = `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Byte Sized Daily Brief Archive</title><meta name="description" content="Archive of daily engineering and management reading briefs."><style>body{max-width:800px;margin:auto;padding:40px 22px;background:#f5f3ee;color:#111;font:18px/1.6 system-ui}h1{font-size:clamp(48px,9vw,92px);line-height:.9}li{padding:14px 0}a{color:#b62419}</style></head><body><a href="${SITE_URL}/">Open the PWA</a><h1>Daily brief<br>archive.</h1><ul>${editions.map((edition) => `<li><a href="${SITE_URL}/editions/${edition.editionDate}/">${edition.editionDate}</a> — ${edition.items.length} selected links</li>`).join('')}</ul></body></html>`
+const archiveHtml = `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Byte Sized Daily Brief Archive</title><meta name="description" content="Archive of finite daily software-engineering briefs."><style>body{max-width:800px;margin:auto;padding:40px 22px;background:#f5f3ee;color:#111;font:18px/1.6 system-ui}h1{font-size:clamp(48px,9vw,92px);line-height:.9}li{padding:14px 0}a{color:#b62419}</style></head><body><a href="${SITE_URL}/">Open the PWA</a><h1>Daily brief<br>archive.</h1><ul>${editions.map((edition) => `<li><a href="${SITE_URL}/editions/${edition.editionDate}/">${edition.editionDate}</a> — ${edition.items.length} selected links</li>`).join('')}</ul></body></html>`
 await mkdir(new URL('../public/archive/', import.meta.url), { recursive: true })
 await writeFile(new URL('../public/archive/index.html', import.meta.url), archiveHtml)
 
