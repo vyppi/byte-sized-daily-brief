@@ -1,28 +1,12 @@
 {
-  "generatedAt": "2026-08-20T10:47:18.311Z",
+  "generatedAt": "2026-08-20T11:33:34.677Z",
   "editions": [
     {
       "editionDate": "2026-08-20",
       "edition": "2026.232",
-      "generatedAt": "2026-08-20T10:47:18.311Z",
+      "generatedAt": "2026-08-20T11:33:34.677Z",
       "itemCount": 6,
       "items": [
-        {
-          "id": "hn-49363668",
-          "title": "Extensible Software in the age of LLMs",
-          "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
-          "source": "Hacker News",
-          "topic": "Community signal",
-          "track": "engineering",
-          "section": "brief",
-          "kind": "current",
-          "summary": "153 points and 64 comments on Hacker News.",
-          "publishedAt": "2026-08-19T16:26:05.000Z",
-          "readingMinutes": 5,
-          "signal": 153,
-          "comments": 64,
-          "whyRead": "153 points and 64 comments make this an active technical discussion."
-        },
         {
           "id": "7fee0bb17285fb",
           "title": "Citizens Build, Agents Execute, Experts Govern",
@@ -36,6 +20,22 @@
           "publishedAt": "2026-08-19T14:30:00-04:00",
           "readingMinutes": 5,
           "whyRead": "TL;DR Why building an app over the weekend isn't the same as building enterprise software I’ve noticed an interesting gap opening up over the last six months. "
+        },
+        {
+          "id": "hn-49364745",
+          "title": "Google has stopped pushing Git tags for some Android source code",
+          "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+          "source": "Hacker News",
+          "topic": "Community signal",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "623 points and 245 comments on Hacker News.",
+          "publishedAt": "2026-08-19T17:47:29.000Z",
+          "readingMinutes": 5,
+          "signal": 623,
+          "comments": 245,
+          "whyRead": "623 points and 245 comments make this an active technical discussion."
         },
         {
           "id": "c126235b08e9cd",
