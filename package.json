@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite",
     "icons": "node scripts/generate-icons.mjs",
+    "store-assets": "node scripts/generate-store-assets.mjs",
     "generate": "node scripts/generate-brief.mjs",
     "build": "npm run icons && npm run generate && vite build",
     "preview": "vite preview",

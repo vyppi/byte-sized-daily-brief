@@ -13,8 +13,10 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.svg'],
       manifest: {
+        id: '.',
         name: 'Byte Sized Daily Brief',
         short_name: 'Byte Sized',
+        lang: 'en-US',
         description: 'Five software-engineering articles worth your attention every weekday.',
         theme_color: '#e63b2e',
         background_color: '#f5f3ee',
@@ -22,7 +24,24 @@ export default defineConfig({
         orientation: 'portrait-primary',
         start_url: '.',
         scope: '.',
+        prefer_related_applications: false,
         categories: ['news', 'productivity', 'education'],
+        screenshots: [
+          {
+            src: 'screenshots/daily-brief.png',
+            sizes: '1440x900',
+            type: 'image/png',
+            form_factor: 'wide',
+            label: 'The daily five-story engineering brief'
+          },
+          {
+            src: 'screenshots/evergreen-idea.png',
+            sizes: '1440x900',
+            type: 'image/png',
+            form_factor: 'wide',
+            label: 'One optional evergreen engineering recommendation'
+          }
+        ],
         icons: [
           {
             src: 'pwa-192x192.png',
