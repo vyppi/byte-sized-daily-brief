@@ -4,6 +4,11 @@
 
 - **Reserved product name:** Byte Sized Daily Brief
 - **Product type:** MSIX or PWA app
+- **Package ID:** Prequarto.ByteSizedDailyBrief
+- **Publisher ID:** CN=953DF968-4531-4D0A-8875-5FAE6E72A35C
+- **Publisher display name:** Vipul Bhojwani
+- **Store ID:** 9PP31RM5DNGM
+- **Store URL:** https://apps.microsoft.com/detail/9PP31RM5DNGM
 - **Website:** https://vyppi.github.io/byte-sized-daily-brief/
 - **Privacy policy:** https://vyppi.github.io/byte-sized-daily-brief/privacy/
 - **Support:** https://github.com/vyppi/byte-sized-daily-brief/issues
@@ -80,4 +85,11 @@ Use up to seven terms in Partner Center:
 ## Store logo
 
 - `assets/store-logo-300x300.png`
+
+## Submission packages
+
+Generated locally in `store-submission/package/Byte-Sized/`:
+
+- `Byte Sized Daily Brief.msixbundle`
+- `Byte Sized Daily Brief.classic.appxbundle`
 
