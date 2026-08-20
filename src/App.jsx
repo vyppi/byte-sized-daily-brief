@@ -279,7 +279,7 @@ export default function App() {
           Updated {formatRefreshTime(brief?.generatedAt)}
         </div>
         <p>
-          Anonymous, privacy-conscious usage analytics help improve the selection.
+          Privacy-conscious analytics can help improve the selection when enabled.
           {' '}<a href={`${import.meta.env.BASE_URL}privacy/`}>Privacy</a>
         </p>
       </footer>
