@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-20T10:45:01.699Z",
+  "generatedAt": "2026-08-20T10:45:32.566Z",
   "editions": [
     {
       "editionDate": "2026-08-20",
       "edition": "2026.232",
-      "generatedAt": "2026-08-20T10:45:01.699Z",
+      "generatedAt": "2026-08-20T10:45:32.566Z",
       "itemCount": 6,
       "items": [
         {
@@ -30,12 +30,12 @@
           "track": "engineering",
           "section": "brief",
           "kind": "current",
-          "summary": "588 points and 240 comments on Hacker News.",
+          "summary": "589 points and 240 comments on Hacker News.",
           "publishedAt": "2026-08-19T17:47:29.000Z",
           "readingMinutes": 5,
-          "signal": 588,
+          "signal": 589,
           "comments": 240,
-          "whyRead": "588 points and 240 comments make this an active technical discussion."
+          "whyRead": "589 points and 240 comments make this an active technical discussion."
         },
         {
           "id": "c126235b08e9cd",
