@@ -1,6 +1,102 @@
 {
-  "generatedAt": "2026-08-20T11:33:34.677Z",
+  "generatedAt": "2026-08-21T01:58:03.288Z",
   "editions": [
+    {
+      "editionDate": "2026-08-21",
+      "edition": "2026.233",
+      "generatedAt": "2026-08-21T01:58:03.288Z",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "hn-49379550",
+          "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+          "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+          "source": "Hacker News",
+          "topic": "Community signal",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "991 points and 227 comments on Hacker News.",
+          "publishedAt": "2026-08-20T20:07:26.000Z",
+          "readingMinutes": 5,
+          "signal": 991,
+          "comments": 227,
+          "whyRead": "991 points and 227 comments make this an active technical discussion."
+        },
+        {
+          "id": "96ba44a97e8a58",
+          "title": "AI Won&#x27;t Replace Project Managers, But It is Reshaping How Work Gets Done",
+          "url": "https://stackoverflow.blog/2026/08/20/ai-won-t-replace-project-managers-but-it-is-reshaping-how-work-gets-done/",
+          "source": "Stack Overflow Blog",
+          "topic": "Software",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "",
+          "publishedAt": "Thu, 20 Aug 2026 19:05:40 GMT",
+          "readingMinutes": 5,
+          "whyRead": "A fresh software perspective from Stack Overflow Blog."
+        },
+        {
+          "id": "8e196209917e4c",
+          "title": "Announcing Rust 1.98.0",
+          "url": "https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/",
+          "source": "Lobsters",
+          "topic": "Programming",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Comments",
+          "publishedAt": "Thu, 20 Aug 2026 19:38:21 -0500",
+          "readingMinutes": 5,
+          "whyRead": "A fresh programming perspective from Lobsters."
+        },
+        {
+          "id": "7fee0bb17285fb",
+          "title": "Citizens Build, Agents Execute, Experts Govern",
+          "url": "https://martinfowler.com/rachels-ramblings/citizens-agents-experts.html",
+          "source": "Martin Fowler",
+          "topic": "Architecture",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "TL;DR Why building an app over the weekend isn't the same as building enterprise software I’ve noticed an interesting gap opening up over the last six months. It isn’t really a gap in technology. It’s a gap in what different people think software engineering actually is. The conv",
+          "publishedAt": "2026-08-19T14:30:00-04:00",
+          "readingMinutes": 5,
+          "whyRead": "TL;DR Why building an app over the weekend isn't the same as building enterprise software I’ve noticed an interesting gap opening up over the last six months. "
+        },
+        {
+          "id": "hn-49378768",
+          "title": "Show HN: Huzzah – a novel approach to coding with AI",
+          "url": "https://www.danielvaughn.dev/posts/huzzah/",
+          "source": "Hacker News",
+          "topic": "Community signal",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "223 points and 127 comments on Hacker News.",
+          "publishedAt": "2026-08-20T19:05:36.000Z",
+          "readingMinutes": 5,
+          "signal": 223,
+          "comments": 127,
+          "whyRead": "223 points and 127 comments make this an active technical discussion."
+        },
+        {
+          "id": "fallback-eng-3",
+          "title": "Latency numbers every programmer should know",
+          "url": "https://gist.github.com/jboner/2841832",
+          "source": "Jeff Dean notes",
+          "topic": "Performance",
+          "track": "engineering",
+          "section": "evergreen",
+          "summary": "A compact mental model for the relative cost of CPU, memory, networks and storage.",
+          "publishedAt": null,
+          "readingMinutes": 4,
+          "kind": "evergreen",
+          "whyRead": "A compact mental model for the relative cost of CPU, memory, networks and storage."
+        }
+      ]
+    },
     {
       "editionDate": "2026-08-20",
       "edition": "2026.232",
