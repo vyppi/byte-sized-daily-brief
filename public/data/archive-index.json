@@ -1,6 +1,102 @@
 {
-  "generatedAt": "2026-08-23T02:00:21.395Z",
+  "generatedAt": "2026-08-24T01:58:30.398Z",
   "editions": [
+    {
+      "editionDate": "2026-08-24",
+      "edition": "2026.236",
+      "generatedAt": "2026-08-24T01:58:30.398Z",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "hn-49410932",
+          "title": "My agent.md to improve LLM-assisted code quality",
+          "url": "https://fabiensanglard.net/agent.md/index.html",
+          "source": "Hacker News",
+          "topic": "Community signal",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "167 points and 82 comments on Hacker News.",
+          "publishedAt": "2026-08-23T17:59:52.000Z",
+          "readingMinutes": 5,
+          "signal": 167,
+          "comments": 82,
+          "whyRead": "167 points and 82 comments make this an active technical discussion."
+        },
+        {
+          "id": "32be8fc69caac4",
+          "title": "eh: a minimalist vi-like editor",
+          "url": "https://codeberg.org/SirWumpus/eh",
+          "source": "Lobsters",
+          "topic": "Programming",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "eh is a minimalist vi-like editor written in C. It keeps the core vi editing model while adding UTF-8 support, regex search/replace, shell filters, and multi-level undo/redo. An earlier version was a winning entry in the 28th IOCCC (2024), receiving the “Nice accent eh-ward.” Com",
+          "publishedAt": "Sun, 23 Aug 2026 10:10:59 -0500",
+          "readingMinutes": 5,
+          "whyRead": "eh is a minimalist vi-like editor written in C. "
+        },
+        {
+          "id": "72a880f1137748",
+          "title": "Dispatches from O&#x27;Reilly: The right amount of spec for agentic development",
+          "url": "https://stackoverflow.blog/2026/08/21/dispatches-from-o-reilly-the-right-amount-of-spec-for-agentic-development/",
+          "source": "Stack Overflow Blog",
+          "topic": "Software",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "When code gets cheap, the hard part is deciding what “correct” means and building a reliable way to check it.",
+          "publishedAt": "Fri, 21 Aug 2026 14:00:00 GMT",
+          "readingMinutes": 5,
+          "whyRead": "When code gets cheap, the hard part is deciding what “correct” means and building a reliable way to check it."
+        },
+        {
+          "id": "7fee0bb17285fb",
+          "title": "Citizens Build, Agents Execute, Experts Govern",
+          "url": "https://martinfowler.com/rachels-ramblings/citizens-agents-experts.html",
+          "source": "Martin Fowler",
+          "topic": "Architecture",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "TL;DR Why building an app over the weekend isn't the same as building enterprise software I’ve noticed an interesting gap opening up over the last six months. It isn’t really a gap in technology. It’s a gap in what different people think software engineering actually is. The conv",
+          "publishedAt": "2026-08-19T14:30:00-04:00",
+          "readingMinutes": 5,
+          "whyRead": "TL;DR Why building an app over the weekend isn't the same as building enterprise software I’ve noticed an interesting gap opening up over the last six months. "
+        },
+        {
+          "id": "hn-49411102",
+          "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+          "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+          "source": "Hacker News",
+          "topic": "Community signal",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "228 points and 193 comments on Hacker News.",
+          "publishedAt": "2026-08-23T18:16:37.000Z",
+          "readingMinutes": 5,
+          "signal": 228,
+          "comments": 193,
+          "whyRead": "228 points and 193 comments make this an active technical discussion."
+        },
+        {
+          "id": "fallback-eng-3",
+          "title": "Latency numbers every programmer should know",
+          "url": "https://gist.github.com/jboner/2841832",
+          "source": "Jeff Dean notes",
+          "topic": "Performance",
+          "track": "engineering",
+          "section": "evergreen",
+          "summary": "A compact mental model for the relative cost of CPU, memory, networks and storage.",
+          "publishedAt": null,
+          "readingMinutes": 4,
+          "kind": "evergreen",
+          "whyRead": "A compact mental model for the relative cost of CPU, memory, networks and storage."
+        }
+      ]
+    },
     {
       "editionDate": "2026-08-23",
       "edition": "2026.235",
