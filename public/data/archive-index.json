@@ -1,6 +1,100 @@
 {
-  "generatedAt": "2026-08-25T01:53:16.382Z",
+  "generatedAt": "2026-08-26T01:59:19.722Z",
   "editions": [
+    {
+      "editionDate": "2026-08-26",
+      "edition": "2026.238",
+      "generatedAt": "2026-08-26T01:59:19.722Z",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "hn-49441033",
+          "title": "Python's pre-declared constants are kinda weird",
+          "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
+          "source": "Hacker News",
+          "topic": "Community signal",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "149 points and 123 comments on Hacker News.",
+          "publishedAt": "2026-08-25T21:39:02.000Z",
+          "readingMinutes": 5,
+          "signal": 149,
+          "comments": 123,
+          "whyRead": "149 points and 123 comments make this an active technical discussion."
+        },
+        {
+          "id": "f4583dbf9b5bf9",
+          "title": "Start here: Azure SQL Foundations series",
+          "url": "https://devblogs.microsoft.com/blog/start-here-azure-sql-foundations-series/",
+          "source": "Microsoft Dev Blogs",
+          "topic": "Developer tools",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Most developers I talk to aren’t asking whether Azure SQL Database can handle their next app. They’re asking where to start when it comes to modernization, migration, and AI in the database. If you’re reading this, you’re probably in a similar boat: you’ve got an existing schema ",
+          "publishedAt": "Tue, 25 Aug 2026 16:00:18 +0000",
+          "readingMinutes": 5,
+          "whyRead": "Most developers I talk to aren’t asking whether Azure SQL Database can handle their next app. "
+        },
+        {
+          "id": "0862010ab94a68",
+          "title": "Fuzzing The Gleam Compiler",
+          "url": "https://www.kurz.net/posts/fuzzing-gleam-compiler",
+          "source": "Lobsters",
+          "topic": "Programming",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Comments",
+          "publishedAt": "Tue, 25 Aug 2026 16:39:37 -0500",
+          "readingMinutes": 5,
+          "whyRead": "A fresh programming perspective from Lobsters."
+        },
+        {
+          "id": "2681f950c80da0",
+          "title": "Inside LinkedIn&#x27;s cognitive memory agent for agentic personalization",
+          "url": "https://stackoverflow.blog/2026/08/25/inside-linkedin-s-cognitive-memory-agent/",
+          "source": "Stack Overflow Blog",
+          "topic": "Software",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Ryan is joined by Praveen Bodigutla, Principal AI Researcher at LinkedIn, to chat about the four-layer memory system his team built to give LinkedIn&#x27;s hiring assistant a persistent, personalized state.",
+          "publishedAt": "Tue, 25 Aug 2026 07:40:00 GMT",
+          "readingMinutes": 5,
+          "whyRead": "Ryan is joined by Praveen Bodigutla, Principal AI Researcher at LinkedIn, to chat about the four-layer memory system his team built to give LinkedIn&#x27;s hiring as"
+        },
+        {
+          "id": "233fe443796e40",
+          "title": "Your alt text passes automated checks. That doesn’t mean it’s any good.",
+          "url": "https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/",
+          "source": "GitHub Engineering",
+          "topic": "Engineering",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "We built a plugin for the GitHub Accessibility Scanner to make sure your alt text is actually accessible. Here's how it works. The post Your alt text passes automated checks. That doesn’t mean it’s any good. appeared first on The GitHub Blog .",
+          "publishedAt": "Mon, 24 Aug 2026 20:56:32 +0000",
+          "readingMinutes": 5,
+          "whyRead": "We built a plugin for the GitHub Accessibility Scanner to make sure your alt text is actually accessible. "
+        },
+        {
+          "id": "fallback-eng-2",
+          "title": "The twelve-factor app methodology remains useful",
+          "url": "https://12factor.net/",
+          "source": "12 Factor",
+          "topic": "Systems",
+          "track": "engineering",
+          "section": "evergreen",
+          "summary": "Review the durable principles behind portable, observable and operationally sound web services.",
+          "publishedAt": null,
+          "readingMinutes": 7,
+          "kind": "evergreen",
+          "whyRead": "Review the durable principles behind portable, observable and operationally sound web services."
+        }
+      ]
+    },
     {
       "editionDate": "2026-08-25",
       "edition": "2026.237",
