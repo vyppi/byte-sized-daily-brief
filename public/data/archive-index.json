@@ -1,6 +1,100 @@
 {
-  "generatedAt": "2026-09-01T05:09:41.657Z",
+  "generatedAt": "2026-09-02T04:35:13.278Z",
   "editions": [
+    {
+      "editionDate": "2026-09-02",
+      "edition": "2026.245",
+      "generatedAt": "2026-09-02T04:35:13.278Z",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "hn-49529132",
+          "title": "My local model setup on an M4 Pro Mac Mini",
+          "url": "https://lws.io/blog/my-local-model-setup/",
+          "source": "Hacker News",
+          "topic": "Community signal",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "108 points and 53 comments on Hacker News.",
+          "publishedAt": "2026-09-01T22:30:52.000Z",
+          "readingMinutes": 5,
+          "signal": 108,
+          "comments": 53,
+          "whyRead": "108 points and 53 comments make this an active technical discussion."
+        },
+        {
+          "id": "741ccf64ee626c",
+          "title": "Fragments: September 1",
+          "url": "https://martinfowler.com/fragments/2026-09-01.html",
+          "source": "Martin Fowler",
+          "topic": "Architecture",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Like many readers, I’m wary of AI generated prose. Simon Wilison has written an LLM cliché highlighter - paste in some text, or a URL, and it will flag various patterns common to LLMs. It references a wikipedia page of signs of AI writing . That page points out that: Humans are n",
+          "publishedAt": "2026-09-01T15:50:00-04:00",
+          "readingMinutes": 5,
+          "whyRead": "Like many readers, I’m wary of AI generated prose. "
+        },
+        {
+          "id": "bb6b9bfc617a37",
+          "title": "The good ol’ days of building Java",
+          "url": "https://stackoverflow.blog/2026/09/01/the-good-ol-days-of-building-java/",
+          "source": "Stack Overflow Blog",
+          "topic": "Software",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Ryan sits down with Tim Lindholm, an early contributor to the Java language at Sun Microsystems, to chat about what it was like building one of the most popular programming languages ever at its inception, why it was strategically important for the Java team to create a cross-pla",
+          "publishedAt": "Tue, 01 Sep 2026 07:40:00 GMT",
+          "readingMinutes": 5,
+          "whyRead": "Ryan sits down with Tim Lindholm, an early contributor to the Java language at Sun Microsystems, to chat about what it was like building one of the most popular prog"
+        },
+        {
+          "id": "db3927fc036ac5",
+          "title": "The pattern language of software architecture",
+          "url": "https://metapatterns.io/",
+          "source": "Lobsters",
+          "topic": "Programming",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Comments",
+          "publishedAt": "Tue, 01 Sep 2026 12:53:50 -0500",
+          "readingMinutes": 5,
+          "whyRead": "A fresh programming perspective from Lobsters."
+        },
+        {
+          "id": "f4583dbf9b5bf9",
+          "title": "Start here: Azure SQL Foundations series",
+          "url": "https://devblogs.microsoft.com/blog/start-here-azure-sql-foundations-series/",
+          "source": "Microsoft Dev Blogs",
+          "topic": "Developer tools",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Most developers I talk to aren’t asking whether Azure SQL Database can handle their next app. They’re asking where to start when it comes to modernization, migration, and AI in the database. If you’re reading this, you’re probably in a similar boat: you’ve got an existing schema ",
+          "publishedAt": "Tue, 25 Aug 2026 16:00:18 +0000",
+          "readingMinutes": 5,
+          "whyRead": "Most developers I talk to aren’t asking whether Azure SQL Database can handle their next app. "
+        },
+        {
+          "id": "fallback-eng-3",
+          "title": "Latency numbers every programmer should know",
+          "url": "https://gist.github.com/jboner/2841832",
+          "source": "Jeff Dean notes",
+          "topic": "Performance",
+          "track": "engineering",
+          "section": "evergreen",
+          "summary": "A compact mental model for the relative cost of CPU, memory, networks and storage.",
+          "publishedAt": null,
+          "readingMinutes": 4,
+          "kind": "evergreen",
+          "whyRead": "A compact mental model for the relative cost of CPU, memory, networks and storage."
+        }
+      ]
+    },
     {
       "editionDate": "2026-09-01",
       "edition": "2026.244",
