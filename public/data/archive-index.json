@@ -1,6 +1,100 @@
 {
-  "generatedAt": "2026-09-02T04:35:13.278Z",
+  "generatedAt": "2026-09-03T04:34:21.725Z",
   "editions": [
+    {
+      "editionDate": "2026-09-03",
+      "edition": "2026.246",
+      "generatedAt": "2026-09-03T04:34:21.725Z",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "6d954ce30cb771",
+          "title": "The economics of agent scale: tokens, ROI, and building platforms for AI-first teams (Part 2)",
+          "url": "https://stackoverflow.blog/2026/09/03/the-economics-of-agent-scale/",
+          "source": "Stack Overflow Blog",
+          "topic": "Software",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Andi Gutmans, head of Agentic Data Cloud at Google, returns for the second half of his Leaders of Code conversation to talk through the cost and infrastructure side of agentic development. ICYMI, part one covered judgment, code review, and data activation.",
+          "publishedAt": "Thu, 03 Sep 2026 07:40:00 GMT",
+          "readingMinutes": 5,
+          "whyRead": "Andi Gutmans, head of Agentic Data Cloud at Google, returns for the second half of his Leaders of Code conversation to talk through the cost and infrastructure side "
+        },
+        {
+          "id": "ae0abf75f03382",
+          "title": "Bliki: Paracelsus Maxim",
+          "url": "https://martinfowler.com/bliki/ParacelsusMaxim.html",
+          "source": "Martin Fowler",
+          "topic": "Architecture",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "The difference between a medicine and a poison is dosage. Often we talk about certain habits, in programming or life, are good or bad. But few things are simple binaries. Some vary with context: reading a book is a good thing sitting in my garden, but not while driving my car. Bu",
+          "publishedAt": "2026-09-02T18:03:00-04:00",
+          "readingMinutes": 5,
+          "whyRead": "The difference between a medicine and a poison is dosage. "
+        },
+        {
+          "id": "hn-49536411",
+          "title": "WebLLM: high-performance in-browser LLM inference engine",
+          "url": "https://github.com/mlc-ai/web-llm",
+          "source": "Hacker News",
+          "topic": "Community signal",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "96 points and 17 comments on Hacker News.",
+          "publishedAt": "2026-09-02T14:02:35.000Z",
+          "readingMinutes": 5,
+          "signal": 96,
+          "comments": 17,
+          "whyRead": "96 points and 17 comments make this an active technical discussion."
+        },
+        {
+          "id": "22e9cec2a01061",
+          "title": "How we make AI coding more cost efficient without sacrificing task quality",
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
+          "source": "GitHub Engineering",
+          "topic": "Engineering",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task. The post How we make AI coding more cost efficient without sacrificing task quality appeared first on The GitHub Blog .",
+          "publishedAt": "Wed, 02 Sep 2026 18:00:00 +0000",
+          "readingMinutes": 5,
+          "whyRead": "Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task. "
+        },
+        {
+          "id": "706fe7948be915",
+          "title": "Security Incident – BGP Hijacking – Virtualizor",
+          "url": "https://www.virtualizor.com/blog/security-incident-bgp-hijacking/",
+          "source": "Lobsters",
+          "topic": "Programming",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Comments",
+          "publishedAt": "Wed, 02 Sep 2026 21:07:30 -0500",
+          "readingMinutes": 5,
+          "whyRead": "A fresh programming perspective from Lobsters."
+        },
+        {
+          "id": "fallback-eng-1",
+          "title": "How to write a good software design document",
+          "url": "https://www.industrialempathy.com/posts/design-docs-at-google/",
+          "source": "Industrial Empathy",
+          "topic": "Architecture",
+          "track": "engineering",
+          "section": "evergreen",
+          "summary": "A practical structure for explaining context, goals, alternatives, trade-offs and implementation plans before code is written.",
+          "publishedAt": null,
+          "readingMinutes": 8,
+          "kind": "evergreen",
+          "whyRead": "A practical structure for explaining context, goals, alternatives, trade-offs and implementation plans before code is written."
+        }
+      ]
+    },
     {
       "editionDate": "2026-09-02",
       "edition": "2026.245",
