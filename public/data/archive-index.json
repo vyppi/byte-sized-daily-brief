@@ -1,6 +1,100 @@
 {
-  "generatedAt": "2026-09-04T04:41:40.769Z",
+  "generatedAt": "2026-09-05T04:30:36.197Z",
   "editions": [
+    {
+      "editionDate": "2026-09-05",
+      "edition": "2026.248",
+      "generatedAt": "2026-09-05T04:30:36.197Z",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "hn-49567873",
+          "title": "The Rust React Compiler is now native in Vite",
+          "url": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
+          "source": "Hacker News",
+          "topic": "Community signal",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "125 points and 24 comments on Hacker News.",
+          "publishedAt": "2026-09-04T17:49:09.000Z",
+          "readingMinutes": 5,
+          "signal": 125,
+          "comments": 24,
+          "whyRead": "125 points and 24 comments make this an active technical discussion."
+        },
+        {
+          "id": "36211df85d6721",
+          "title": "Elevating security, control, and accessibility: Stack Internal 2026.6",
+          "url": "https://stackoverflow.blog/2026/09/03/security-control-and-accessibility-si-2026-6/",
+          "source": "Stack Overflow Blog",
+          "topic": "Software",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "In our 2026.6 release, we are shipping updates across administrative security, programmatic API control, developer portal integrations, and platform-wide accessibility—ensuring both your engineers and your AI agents act on verified, decision-grade knowledge.",
+          "publishedAt": "Thu, 03 Sep 2026 16:00:00 GMT",
+          "readingMinutes": 5,
+          "whyRead": "In our 2026.6 release, we are shipping updates across administrative security, programmatic API control, developer portal integrations, and platform-wide accessibili"
+        },
+        {
+          "id": "9eb27ec83aff8f",
+          "title": "MISRust: Mapping MISRA-C++ Coding Guidelines to the Rust Programming Language",
+          "url": "https://arxiv.org/abs/2605.23490",
+          "source": "Lobsters",
+          "topic": "Programming",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Comments",
+          "publishedAt": "Fri, 04 Sep 2026 19:29:30 -0500",
+          "readingMinutes": 5,
+          "whyRead": "A fresh programming perspective from Lobsters."
+        },
+        {
+          "id": "ae0abf75f03382",
+          "title": "Bliki: Paracelsus Maxim",
+          "url": "https://martinfowler.com/bliki/ParacelsusMaxim.html",
+          "source": "Martin Fowler",
+          "topic": "Architecture",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "The difference between a medicine and a poison is dosage. Often we talk about certain habits, in programming or life, are good or bad. But few things are simple binaries. Some vary with context: reading a book is a good thing sitting in my garden, but not while driving my car. Bu",
+          "publishedAt": "2026-09-02T18:03:00-04:00",
+          "readingMinutes": 5,
+          "whyRead": "The difference between a medicine and a poison is dosage. "
+        },
+        {
+          "id": "22e9cec2a01061",
+          "title": "How we make AI coding more cost efficient without sacrificing task quality",
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
+          "source": "GitHub Engineering",
+          "topic": "Engineering",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task. The post How we make AI coding more cost efficient without sacrificing task quality appeared first on The GitHub Blog .",
+          "publishedAt": "Wed, 02 Sep 2026 18:00:00 +0000",
+          "readingMinutes": 5,
+          "whyRead": "Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task. "
+        },
+        {
+          "id": "fallback-eng-3",
+          "title": "Latency numbers every programmer should know",
+          "url": "https://gist.github.com/jboner/2841832",
+          "source": "Jeff Dean notes",
+          "topic": "Performance",
+          "track": "engineering",
+          "section": "evergreen",
+          "summary": "A compact mental model for the relative cost of CPU, memory, networks and storage.",
+          "publishedAt": null,
+          "readingMinutes": 4,
+          "kind": "evergreen",
+          "whyRead": "A compact mental model for the relative cost of CPU, memory, networks and storage."
+        }
+      ]
+    },
     {
       "editionDate": "2026-09-04",
       "edition": "2026.247",
