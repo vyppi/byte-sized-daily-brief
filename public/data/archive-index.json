@@ -1,6 +1,100 @@
 {
-  "generatedAt": "2026-09-08T04:37:34.507Z",
+  "generatedAt": "2026-09-09T04:43:27.958Z",
   "editions": [
+    {
+      "editionDate": "2026-09-09",
+      "edition": "2026.252",
+      "generatedAt": "2026-09-09T04:43:27.958Z",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "hn-49615537",
+          "title": "Muse – Meta’s personal AI agent",
+          "url": "https://ai.meta.com/muse/",
+          "source": "Hacker News",
+          "topic": "Community signal",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "390 points and 411 comments on Hacker News.",
+          "publishedAt": "2026-09-08T19:25:00.000Z",
+          "readingMinutes": 5,
+          "signal": 390,
+          "comments": 411,
+          "whyRead": "390 points and 411 comments make this an active technical discussion."
+        },
+        {
+          "id": "612c157cf86e47",
+          "title": "Scaling your money safely with AI",
+          "url": "https://stackoverflow.blog/2026/09/08/scaling-your-money-safely-with-ai/",
+          "source": "Stack Overflow Blog",
+          "topic": "Software",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Ryan chats with Srini Venkatesan, CTO at PayPal, about validating AI-generated deterministic code for security, developing autonomous SDLC harnesses with iterative feedback loops, and creating a seamless headless checkout experience.",
+          "publishedAt": "Tue, 08 Sep 2026 07:40:00 GMT",
+          "readingMinutes": 5,
+          "whyRead": "Ryan chats with Srini Venkatesan, CTO at PayPal, about validating AI-generated deterministic code for security, developing autonomous SDLC harnesses with iterative f"
+        },
+        {
+          "id": "d8897dc0d361c1",
+          "title": "Fragments: September 8",
+          "url": "https://martinfowler.com/fragments/2026-09-08.html",
+          "source": "Martin Fowler",
+          "topic": "Architecture",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Christian Catalini says we’re in a situation where we are vastly reducing the cost of generating things, but not the cost of verifying them: . This explains why the first major AI products appeared in chat, image generation, and code assistance. Not because these were the hardest",
+          "publishedAt": "2026-09-08T11:22:00-04:00",
+          "readingMinutes": 5,
+          "whyRead": "Christian Catalini says we’re in a situation where we are vastly reducing the cost of generating things, but not the cost of verifying them: . "
+        },
+        {
+          "id": "99f3ce8c7382bb",
+          "title": "Sloc Cloc and Code - Did I just get Buster Scrugged?",
+          "url": "https://boyter.org/posts/did-i-just-get-buster-scrugged/",
+          "source": "Lobsters",
+          "topic": "Programming",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Comments",
+          "publishedAt": "Tue, 08 Sep 2026 20:13:32 -0500",
+          "readingMinutes": 5,
+          "whyRead": "A fresh programming perspective from Lobsters."
+        },
+        {
+          "id": "22e9cec2a01061",
+          "title": "How we make AI coding more cost efficient without sacrificing task quality",
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
+          "source": "GitHub Engineering",
+          "topic": "Engineering",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task. The post How we make AI coding more cost efficient without sacrificing task quality appeared first on The GitHub Blog .",
+          "publishedAt": "Wed, 02 Sep 2026 18:00:00 +0000",
+          "readingMinutes": 5,
+          "whyRead": "Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task. "
+        },
+        {
+          "id": "fallback-eng-1",
+          "title": "How to write a good software design document",
+          "url": "https://www.industrialempathy.com/posts/design-docs-at-google/",
+          "source": "Industrial Empathy",
+          "topic": "Architecture",
+          "track": "engineering",
+          "section": "evergreen",
+          "summary": "A practical structure for explaining context, goals, alternatives, trade-offs and implementation plans before code is written.",
+          "publishedAt": null,
+          "readingMinutes": 8,
+          "kind": "evergreen",
+          "whyRead": "A practical structure for explaining context, goals, alternatives, trade-offs and implementation plans before code is written."
+        }
+      ]
+    },
     {
       "editionDate": "2026-09-08",
       "edition": "2026.251",
