@@ -1,6 +1,100 @@
 {
-  "generatedAt": "2026-09-10T04:44:03.368Z",
+  "generatedAt": "2026-09-11T04:41:57.674Z",
   "editions": [
+    {
+      "editionDate": "2026-09-11",
+      "edition": "2026.254",
+      "generatedAt": "2026-09-11T04:41:57.674Z",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "b5ef9fff2de696",
+          "title": "AI cybersecurity is a cat and mouse game",
+          "url": "https://stackoverflow.blog/2026/09/11/ai-cybersecurity-is-a-cat-and-mouse-game/",
+          "source": "Stack Overflow Blog",
+          "topic": "Software",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Ryan chats with Sam Curry, CSO at Zscaler, about where human intelligence sits in the new security landscape with AI, why shifting security protections closer to applications helps limit probes for vulnerabilities, and why building more resilient code infrastructure is the best w",
+          "publishedAt": "Fri, 11 Sep 2026 07:40:00 GMT",
+          "readingMinutes": 5,
+          "whyRead": "Ryan chats with Sam Curry, CSO at Zscaler, about where human intelligence sits in the new security landscape with AI, why shifting security protections closer to app"
+        },
+        {
+          "id": "hn-49649213",
+          "title": "OpenAI Agents API",
+          "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+          "source": "Hacker News",
+          "topic": "Community signal",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "184 points and 116 comments on Hacker News.",
+          "publishedAt": "2026-09-10T19:43:22.000Z",
+          "readingMinutes": 5,
+          "signal": 184,
+          "comments": 116,
+          "whyRead": "184 points and 116 comments make this an active technical discussion."
+        },
+        {
+          "id": "dfecef5626f29e",
+          "title": "Soft-deprecating re.match()",
+          "url": "https://hugovk.dev/blog/2026/soft-deprecating-re.match/",
+          "source": "Lobsters",
+          "topic": "Programming",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Comments",
+          "publishedAt": "Thu, 10 Sep 2026 16:59:16 -0500",
+          "readingMinutes": 5,
+          "whyRead": "A fresh programming perspective from Lobsters."
+        },
+        {
+          "id": "a8a17f2ad65647",
+          "title": "Your work might not need the smartest model",
+          "url": "https://devblogs.microsoft.com/blog/your-work-might-not-need-the-smartest-model/",
+          "source": "Microsoft Dev Blogs",
+          "topic": "Developer tools",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "The smartest model can cost five times more and deliver the same result, or even a worse one. See how evaluating your own work helps you get more value from your agent budget. The post Your work might not need the smartest model appeared first on Microsoft for Developers .",
+          "publishedAt": "Wed, 09 Sep 2026 09:14:04 +0000",
+          "readingMinutes": 5,
+          "whyRead": "The smartest model can cost five times more and deliver the same result, or even a worse one. "
+        },
+        {
+          "id": "e843de525e422a",
+          "title": "Social Media Engagement: summer 2026",
+          "url": "https://martinfowler.com/articles/2026-social-traffic.html",
+          "source": "Martin Fowler",
+          "topic": "Architecture",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "A quick survey of recent engagement of my posts on social media, indicating which service has by far the most engagement, and which service has seen a precipitous decline since early 2025. more…",
+          "publishedAt": "2026-09-09T12:21:00-04:00",
+          "readingMinutes": 5,
+          "whyRead": "A quick survey of recent engagement of my posts on social media, indicating which service has by far the most engagement, and which service has seen a precipitous de"
+        },
+        {
+          "id": "fallback-eng-3",
+          "title": "Latency numbers every programmer should know",
+          "url": "https://gist.github.com/jboner/2841832",
+          "source": "Jeff Dean notes",
+          "topic": "Performance",
+          "track": "engineering",
+          "section": "evergreen",
+          "summary": "A compact mental model for the relative cost of CPU, memory, networks and storage.",
+          "publishedAt": null,
+          "readingMinutes": 4,
+          "kind": "evergreen",
+          "whyRead": "A compact mental model for the relative cost of CPU, memory, networks and storage."
+        }
+      ]
+    },
     {
       "editionDate": "2026-09-10",
       "edition": "2026.253",
