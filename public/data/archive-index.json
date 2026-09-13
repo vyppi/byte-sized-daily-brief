@@ -1,6 +1,100 @@
 {
-  "generatedAt": "2026-09-12T04:35:46.397Z",
+  "generatedAt": "2026-09-13T04:48:58.622Z",
   "editions": [
+    {
+      "editionDate": "2026-09-13",
+      "edition": "2026.256",
+      "generatedAt": "2026-09-13T04:48:58.622Z",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "hn-49676820",
+          "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+          "url": "https://withspecific.com/benchmarks/real-swe",
+          "source": "Hacker News",
+          "topic": "Community signal",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "171 points and 91 comments on Hacker News.",
+          "publishedAt": "2026-09-12T20:25:48.000Z",
+          "readingMinutes": 5,
+          "signal": 171,
+          "comments": 91,
+          "whyRead": "171 points and 91 comments make this an active technical discussion."
+        },
+        {
+          "id": "0912d1214de344",
+          "title": "a better way of blocking macOS updates",
+          "url": "https://zoey-on-github.github.io/blog/updates.html",
+          "source": "Lobsters",
+          "topic": "Programming",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Comments",
+          "publishedAt": "Sat, 12 Sep 2026 20:12:07 -0500",
+          "readingMinutes": 5,
+          "whyRead": "A fresh programming perspective from Lobsters."
+        },
+        {
+          "id": "b5ef9fff2de696",
+          "title": "AI cybersecurity is a cat and mouse game",
+          "url": "https://stackoverflow.blog/2026/09/11/ai-cybersecurity-is-a-cat-and-mouse-game/",
+          "source": "Stack Overflow Blog",
+          "topic": "Software",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Ryan chats with Sam Curry, CSO at Zscaler, about where human intelligence sits in the new security landscape with AI, why shifting security protections closer to applications helps limit probes for vulnerabilities, and why building more resilient code infrastructure is the best w",
+          "publishedAt": "Fri, 11 Sep 2026 07:40:00 GMT",
+          "readingMinutes": 5,
+          "whyRead": "Ryan chats with Sam Curry, CSO at Zscaler, about where human intelligence sits in the new security landscape with AI, why shifting security protections closer to app"
+        },
+        {
+          "id": "a8a17f2ad65647",
+          "title": "Your work might not need the smartest model",
+          "url": "https://devblogs.microsoft.com/blog/your-work-might-not-need-the-smartest-model/",
+          "source": "Microsoft Dev Blogs",
+          "topic": "Developer tools",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "The smartest model can cost five times more and deliver the same result, or even a worse one. See how evaluating your own work helps you get more value from your agent budget. The post Your work might not need the smartest model appeared first on Microsoft for Developers .",
+          "publishedAt": "Wed, 09 Sep 2026 09:14:04 +0000",
+          "readingMinutes": 5,
+          "whyRead": "The smartest model can cost five times more and deliver the same result, or even a worse one. "
+        },
+        {
+          "id": "d8897dc0d361c1",
+          "title": "Fragments: September 8",
+          "url": "https://martinfowler.com/fragments/2026-09-08.html",
+          "source": "Martin Fowler",
+          "topic": "Architecture",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Christian Catalini says we’re in a situation where we are vastly reducing the cost of generating things, but not the cost of verifying them: . This explains why the first major AI products appeared in chat, image generation, and code assistance. Not because these were the hardest",
+          "publishedAt": "2026-09-08T11:22:00-04:00",
+          "readingMinutes": 5,
+          "whyRead": "Christian Catalini says we’re in a situation where we are vastly reducing the cost of generating things, but not the cost of verifying them: . "
+        },
+        {
+          "id": "fallback-eng-2",
+          "title": "The twelve-factor app methodology remains useful",
+          "url": "https://12factor.net/",
+          "source": "12 Factor",
+          "topic": "Systems",
+          "track": "engineering",
+          "section": "evergreen",
+          "summary": "Review the durable principles behind portable, observable and operationally sound web services.",
+          "publishedAt": null,
+          "readingMinutes": 7,
+          "kind": "evergreen",
+          "whyRead": "Review the durable principles behind portable, observable and operationally sound web services."
+        }
+      ]
+    },
     {
       "editionDate": "2026-09-12",
       "edition": "2026.255",
