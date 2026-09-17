@@ -1,6 +1,100 @@
 {
-  "generatedAt": "2026-09-16T04:50:36.350Z",
+  "generatedAt": "2026-09-17T04:54:09.992Z",
   "editions": [
+    {
+      "editionDate": "2026-09-17",
+      "edition": "2026.260",
+      "generatedAt": "2026-09-17T04:54:09.992Z",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "hn-49734264",
+          "title": "OpenSpec – A lightweight and configurable AI spec framework",
+          "url": "https://openspec.dev/",
+          "source": "Hacker News",
+          "topic": "Community signal",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "100 points and 40 comments on Hacker News.",
+          "publishedAt": "2026-09-16T23:06:39.000Z",
+          "readingMinutes": 5,
+          "signal": 100,
+          "comments": 40,
+          "whyRead": "100 points and 40 comments make this an active technical discussion."
+        },
+        {
+          "id": "28c81abd1279e4",
+          "title": "Your AI coding agent evaluation is only as good as its sandbox",
+          "url": "https://devblogs.microsoft.com/blog/your-ai-coding-agent-evaluation-is-only-as-good-as-its-sandbox/",
+          "source": "Microsoft Dev Blogs",
+          "topic": "Developer tools",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Your AI coding agent passed the eval. But did the model know the answer, or did it find it somewhere on your machine? A correct answer can still invalidate your measurement. The post Your AI coding agent evaluation is only as good as its sandbox appeared first on Microsoft for De",
+          "publishedAt": "Wed, 16 Sep 2026 09:09:51 +0000",
+          "readingMinutes": 5,
+          "whyRead": "Your AI coding agent passed the eval. "
+        },
+        {
+          "id": "3656cbf99827bc",
+          "title": "Fragments: September 16",
+          "url": "https://martinfowler.com/fragments/2026-09-16.html",
+          "source": "Martin Fowler",
+          "topic": "Architecture",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Reports of agentic hacking continue, in this case it happened back in May and it seems OpenAI did not disclose that they were responsible. Simon Willison sees two options: After the Hugging Face and Wiki attacks OpenAI were still unable to review their previous logs and determine",
+          "publishedAt": "2026-09-16T16:05:00-04:00",
+          "readingMinutes": 5,
+          "whyRead": "Reports of agentic hacking continue, in this case it happened back in May and it seems OpenAI did not disclose that they were responsible. "
+        },
+        {
+          "id": "2cc633c5a1bcbb",
+          "title": "Original Sony PlayStation 2 security chip ‘broken wide open’ after 26 years",
+          "url": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
+          "source": "Lobsters",
+          "topic": "Programming",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Comments",
+          "publishedAt": "Wed, 16 Sep 2026 12:22:01 -0500",
+          "readingMinutes": 5,
+          "whyRead": "A fresh programming perspective from Lobsters."
+        },
+        {
+          "id": "b96360e4a4121a",
+          "title": "From better privacy to our new ChatGPT plugin, here&#x27;s what&#x27;s new on Stack Overflow for Agents",
+          "url": "https://stackoverflow.blog/2026/09/15/here-s-what-s-new-on-stack-overflow-for-agents/",
+          "source": "Stack Overflow Blog",
+          "topic": "Software",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "We&#x27;ve learned a lot in the last three months since launching Stack Overflow for Agents, our API-first knowledge exchange for agents. Here&#x27;s a few of our findings, what&#x27;s new on the platform (including our new ChatGPT plugin), and how we&#x27;re continuing to build ",
+          "publishedAt": "Tue, 15 Sep 2026 17:00:00 GMT",
+          "readingMinutes": 5,
+          "whyRead": "We&#x27;ve learned a lot in the last three months since launching Stack Overflow for Agents, our API-first knowledge exchange for agents. "
+        },
+        {
+          "id": "fallback-eng-3",
+          "title": "Latency numbers every programmer should know",
+          "url": "https://gist.github.com/jboner/2841832",
+          "source": "Jeff Dean notes",
+          "topic": "Performance",
+          "track": "engineering",
+          "section": "evergreen",
+          "summary": "A compact mental model for the relative cost of CPU, memory, networks and storage.",
+          "publishedAt": null,
+          "readingMinutes": 4,
+          "kind": "evergreen",
+          "whyRead": "A compact mental model for the relative cost of CPU, memory, networks and storage."
+        }
+      ]
+    },
     {
       "editionDate": "2026-09-16",
       "edition": "2026.259",
