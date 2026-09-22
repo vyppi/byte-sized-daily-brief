@@ -1,6 +1,100 @@
 {
-  "generatedAt": "2026-09-21T04:57:11.770Z",
+  "generatedAt": "2026-09-22T04:57:48.909Z",
   "editions": [
+    {
+      "editionDate": "2026-09-22",
+      "edition": "2026.265",
+      "generatedAt": "2026-09-22T04:57:48.909Z",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "2ab10ed604eb93",
+          "title": "Haters think AI agents can&#x27;t write GPU code? This&#x27;ll ROCm",
+          "url": "https://stackoverflow.blog/2026/09/22/haters-think-ai-can-t-gpu-code-this-ll-rocm/",
+          "source": "Stack Overflow Blog",
+          "topic": "Software",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Ryan chats with Anush Elangovan, VP of Software at AMD, about ROCm&#x27;s open-source unified toolchain for GPUs, how agentic AI is drastically lowering the barrier to entry for low-level hardware programming, and the rapid convergence of software and hardware development timelin",
+          "publishedAt": "Tue, 22 Sep 2026 07:40:00 GMT",
+          "readingMinutes": 5,
+          "whyRead": "Ryan chats with Anush Elangovan, VP of Software at AMD, about ROCm&#x27;s open-source unified toolchain for GPUs, how agentic AI is drastically lowering the barrier "
+        },
+        {
+          "id": "hn-49792067",
+          "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+          "url": "https://linear.app/now/ci-bottleneck-reworked",
+          "source": "Hacker News",
+          "topic": "Community signal",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "176 points and 183 comments on Hacker News.",
+          "publishedAt": "2026-09-21T19:23:33.000Z",
+          "readingMinutes": 5,
+          "signal": 176,
+          "comments": 183,
+          "whyRead": "176 points and 183 comments make this an active technical discussion."
+        },
+        {
+          "id": "5eda8d9ae01468",
+          "title": "Knowledge cutoff is a poor proxy for model capability",
+          "url": "https://devblogs.microsoft.com/blog/knowledge-cutoff-is-a-poor-proxy-for-model-capability/",
+          "source": "Microsoft Dev Blogs",
+          "topic": "Developer tools",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "A model can fail on features released before its knowledge cutoff, then succeed on ones released after it. We tested hundreds of product changes and found that the date tells you far less than the work does. The post Knowledge cutoff is a poor proxy for model capability appeared ",
+          "publishedAt": "Mon, 21 Sep 2026 07:51:46 +0000",
+          "readingMinutes": 5,
+          "whyRead": "A model can fail on features released before its knowledge cutoff, then succeed on ones released after it. "
+        },
+        {
+          "id": "d920cee8842e4c",
+          "title": "stack unwinding can lead to leakless code execution",
+          "url": "https://pepsipu.com/blog/2026-09-dwarf/",
+          "source": "Lobsters",
+          "topic": "Programming",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Comments",
+          "publishedAt": "Mon, 21 Sep 2026 18:01:34 -0500",
+          "readingMinutes": 5,
+          "whyRead": "A fresh programming perspective from Lobsters."
+        },
+        {
+          "id": "7197fc8174cc78",
+          "title": "I don't like LLMs",
+          "url": "https://martinfowler.com/articles/2026-dont-like-llms.html",
+          "source": "Martin Fowler",
+          "topic": "Architecture",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "I have a lot of mixed feelings about AI and LLM technology. I’m fascinated by its effect on our profession, excited by the potential gains in productivity - and thus the products we could rapidly build. On the other hand, I’m fearful of the damage AI might cause: agent swarms tak",
+          "publishedAt": "2026-09-17T09:50:00-04:00",
+          "readingMinutes": 5,
+          "whyRead": "I have a lot of mixed feelings about AI and LLM technology. "
+        },
+        {
+          "id": "fallback-eng-2",
+          "title": "The twelve-factor app methodology remains useful",
+          "url": "https://12factor.net/",
+          "source": "12 Factor",
+          "topic": "Systems",
+          "track": "engineering",
+          "section": "evergreen",
+          "summary": "Review the durable principles behind portable, observable and operationally sound web services.",
+          "publishedAt": null,
+          "readingMinutes": 7,
+          "kind": "evergreen",
+          "whyRead": "Review the durable principles behind portable, observable and operationally sound web services."
+        }
+      ]
+    },
     {
       "editionDate": "2026-09-21",
       "edition": "2026.264",
