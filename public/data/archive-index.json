@@ -1,6 +1,100 @@
 {
-  "generatedAt": "2026-09-23T04:46:08.565Z",
+  "generatedAt": "2026-09-24T04:52:20.159Z",
   "editions": [
+    {
+      "editionDate": "2026-09-24",
+      "edition": "2026.267",
+      "generatedAt": "2026-09-24T04:52:20.159Z",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "hn-49817524",
+          "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
+          "url": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol",
+          "source": "Hacker News",
+          "topic": "Community signal",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "129 points and 52 comments on Hacker News.",
+          "publishedAt": "2026-09-23T15:23:05.000Z",
+          "readingMinutes": 5,
+          "signal": 129,
+          "comments": 52,
+          "whyRead": "129 points and 52 comments make this an active technical discussion."
+        },
+        {
+          "id": "2ab10ed604eb93",
+          "title": "Haters think AI agents can&#x27;t write GPU code? This&#x27;ll ROCm",
+          "url": "https://stackoverflow.blog/2026/09/22/haters-think-ai-can-t-gpu-code-this-ll-rocm/",
+          "source": "Stack Overflow Blog",
+          "topic": "Software",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Ryan chats with Anush Elangovan, VP of Software at AMD, about ROCm&#x27;s open-source unified toolchain for GPUs, how agentic AI is drastically lowering the barrier to entry for low-level hardware programming, and the rapid convergence of software and hardware development timelin",
+          "publishedAt": "Tue, 22 Sep 2026 07:40:00 GMT",
+          "readingMinutes": 5,
+          "whyRead": "Ryan chats with Anush Elangovan, VP of Software at AMD, about ROCm&#x27;s open-source unified toolchain for GPUs, how agentic AI is drastically lowering the barrier "
+        },
+        {
+          "id": "c1b35c752814f8",
+          "title": "Rendering huge pull requests in the GitHub Copilot app",
+          "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/",
+          "source": "GitHub Engineering",
+          "topic": "Engineering",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "How we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments. The post Rendering huge pull requests in the GitHub Copilot app appeared first on The GitHub Blog .",
+          "publishedAt": "Wed, 23 Sep 2026 18:29:49 +0000",
+          "readingMinutes": 5,
+          "whyRead": "How we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments. "
+        },
+        {
+          "id": "84bc1ef2235d5d",
+          "title": "Why you should check your gem's lines of code",
+          "url": "https://spinel.coop/blog/why-you-should-check-your-gems-lines-of-code/",
+          "source": "Lobsters",
+          "topic": "Programming",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Comments",
+          "publishedAt": "Wed, 23 Sep 2026 19:48:47 -0500",
+          "readingMinutes": 5,
+          "whyRead": "A fresh programming perspective from Lobsters."
+        },
+        {
+          "id": "5eda8d9ae01468",
+          "title": "Knowledge cutoff is a poor proxy for model capability",
+          "url": "https://devblogs.microsoft.com/blog/knowledge-cutoff-is-a-poor-proxy-for-model-capability/",
+          "source": "Microsoft Dev Blogs",
+          "topic": "Developer tools",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "A model can fail on features released before its knowledge cutoff, then succeed on ones released after it. We tested hundreds of product changes and found that the date tells you far less than the work does. The post Knowledge cutoff is a poor proxy for model capability appeared ",
+          "publishedAt": "Mon, 21 Sep 2026 07:51:46 +0000",
+          "readingMinutes": 5,
+          "whyRead": "A model can fail on features released before its knowledge cutoff, then succeed on ones released after it. "
+        },
+        {
+          "id": "fallback-eng-1",
+          "title": "How to write a good software design document",
+          "url": "https://www.industrialempathy.com/posts/design-docs-at-google/",
+          "source": "Industrial Empathy",
+          "topic": "Architecture",
+          "track": "engineering",
+          "section": "evergreen",
+          "summary": "A practical structure for explaining context, goals, alternatives, trade-offs and implementation plans before code is written.",
+          "publishedAt": null,
+          "readingMinutes": 8,
+          "kind": "evergreen",
+          "whyRead": "A practical structure for explaining context, goals, alternatives, trade-offs and implementation plans before code is written."
+        }
+      ]
+    },
     {
       "editionDate": "2026-09-23",
       "edition": "2026.266",
