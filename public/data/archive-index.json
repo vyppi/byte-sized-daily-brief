@@ -1,6 +1,100 @@
 {
-  "generatedAt": "2026-09-24T04:52:20.159Z",
+  "generatedAt": "2026-09-25T04:59:06.953Z",
   "editions": [
+    {
+      "editionDate": "2026-09-25",
+      "edition": "2026.268",
+      "generatedAt": "2026-09-25T04:59:06.953Z",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "hn-49835531",
+          "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+          "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+          "source": "Hacker News",
+          "topic": "Community signal",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "101 points and 16 comments on Hacker News.",
+          "publishedAt": "2026-09-24T19:14:27.000Z",
+          "readingMinutes": 5,
+          "signal": 101,
+          "comments": 16,
+          "whyRead": "101 points and 16 comments make this an active technical discussion."
+        },
+        {
+          "id": "0944b782f402bb",
+          "title": "Fragments: September 24",
+          "url": "https://martinfowler.com/fragments/2026-09-24.html",
+          "source": "Martin Fowler",
+          "topic": "Architecture",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Rob Bowley is “flipping tables in his head” with anger at the current media coverage of the danger of AI killing us all The risk I’m worried about isn’t a future machine deciding to wipe us out. It’s today’s AI, being wired into everything, carelessly and fast. Cyber attacks have",
+          "publishedAt": "2026-09-24T11:35:00-04:00",
+          "readingMinutes": 5,
+          "whyRead": "Rob Bowley is “flipping tables in his head” with anger at the current media coverage of the danger of AI killing us all The risk I’m worried about isn’t a future mac"
+        },
+        {
+          "id": "b21ea3ba724c06",
+          "title": "File Notification Attacks: Side-Channel Leakage from the File-Notification System on Linux, Android, Windows, and macOS",
+          "url": "https://inoti.fyi/",
+          "source": "Lobsters",
+          "topic": "Programming",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Comments",
+          "publishedAt": "Thu, 24 Sep 2026 21:50:41 -0500",
+          "readingMinutes": 5,
+          "whyRead": "A fresh programming perspective from Lobsters."
+        },
+        {
+          "id": "2ab10ed604eb93",
+          "title": "Haters think AI agents can&#x27;t write GPU code? This&#x27;ll ROCm",
+          "url": "https://stackoverflow.blog/2026/09/22/haters-think-ai-can-t-gpu-code-this-ll-rocm/",
+          "source": "Stack Overflow Blog",
+          "topic": "Software",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Ryan chats with Anush Elangovan, VP of Software at AMD, about ROCm&#x27;s open-source unified toolchain for GPUs, how agentic AI is drastically lowering the barrier to entry for low-level hardware programming, and the rapid convergence of software and hardware development timelin",
+          "publishedAt": "Tue, 22 Sep 2026 07:40:00 GMT",
+          "readingMinutes": 5,
+          "whyRead": "Ryan chats with Anush Elangovan, VP of Software at AMD, about ROCm&#x27;s open-source unified toolchain for GPUs, how agentic AI is drastically lowering the barrier "
+        },
+        {
+          "id": "c1b35c752814f8",
+          "title": "Rendering huge pull requests in the GitHub Copilot app",
+          "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/",
+          "source": "GitHub Engineering",
+          "topic": "Engineering",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "How we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments. The post Rendering huge pull requests in the GitHub Copilot app appeared first on The GitHub Blog .",
+          "publishedAt": "Wed, 23 Sep 2026 18:29:49 +0000",
+          "readingMinutes": 5,
+          "whyRead": "How we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments. "
+        },
+        {
+          "id": "fallback-eng-2",
+          "title": "The twelve-factor app methodology remains useful",
+          "url": "https://12factor.net/",
+          "source": "12 Factor",
+          "topic": "Systems",
+          "track": "engineering",
+          "section": "evergreen",
+          "summary": "Review the durable principles behind portable, observable and operationally sound web services.",
+          "publishedAt": null,
+          "readingMinutes": 7,
+          "kind": "evergreen",
+          "whyRead": "Review the durable principles behind portable, observable and operationally sound web services."
+        }
+      ]
+    },
     {
       "editionDate": "2026-09-24",
       "edition": "2026.267",
