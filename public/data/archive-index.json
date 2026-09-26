@@ -1,6 +1,100 @@
 {
-  "generatedAt": "2026-09-25T04:59:06.953Z",
+  "generatedAt": "2026-09-26T04:59:05.431Z",
   "editions": [
+    {
+      "editionDate": "2026-09-26",
+      "edition": "2026.269",
+      "generatedAt": "2026-09-26T04:59:05.431Z",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "hn-49849985",
+          "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+          "url": "https://swarmtraces.org/",
+          "source": "Hacker News",
+          "topic": "Community signal",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "325 points and 187 comments on Hacker News.",
+          "publishedAt": "2026-09-25T21:09:27.000Z",
+          "readingMinutes": 5,
+          "signal": 325,
+          "comments": 187,
+          "whyRead": "325 points and 187 comments make this an active technical discussion."
+        },
+        {
+          "id": "eeb24baef82db5",
+          "title": "Professional skepticism is a dev’s best skill",
+          "url": "https://stackoverflow.blog/2026/09/25/professional-skepticism-is-a-dev-s-best-skill/",
+          "source": "Stack Overflow Blog",
+          "topic": "Software",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Ryan chats with David Burns, Head of Developer Advocacy and Open Source at BrowserStack, about the value of professional skepticism in an AI-driven world, applying test-driven development to agentic engineering, and why fixing flaky tests comes down to managing application state.",
+          "publishedAt": "Fri, 25 Sep 2026 07:40:00 GMT",
+          "readingMinutes": 5,
+          "whyRead": "Ryan chats with David Burns, Head of Developer Advocacy and Open Source at BrowserStack, about the value of professional skepticism in an AI-driven world, applying t"
+        },
+        {
+          "id": "eb780d396d64c0",
+          "title": "Improving site performance by shipping more CSS",
+          "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
+          "source": "GitHub Engineering",
+          "topic": "Engineering",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "How we fully migrated github.com away from CSS-in-JS. The post Improving site performance by shipping more CSS appeared first on The GitHub Blog .",
+          "publishedAt": "Fri, 25 Sep 2026 15:00:00 +0000",
+          "readingMinutes": 5,
+          "whyRead": "How we fully migrated github.com away from CSS-in-JS. "
+        },
+        {
+          "id": "9c5cb1ddd8c752",
+          "title": "How to keep enjoying programming in a world of LLMs",
+          "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+          "source": "Lobsters",
+          "topic": "Programming",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Comments",
+          "publishedAt": "Fri, 25 Sep 2026 18:22:27 -0500",
+          "readingMinutes": 5,
+          "whyRead": "A fresh programming perspective from Lobsters."
+        },
+        {
+          "id": "0944b782f402bb",
+          "title": "Fragments: September 24",
+          "url": "https://martinfowler.com/fragments/2026-09-24.html",
+          "source": "Martin Fowler",
+          "topic": "Architecture",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Rob Bowley is “flipping tables in his head” with anger at the current media coverage of the danger of AI killing us all The risk I’m worried about isn’t a future machine deciding to wipe us out. It’s today’s AI, being wired into everything, carelessly and fast. Cyber attacks have",
+          "publishedAt": "2026-09-24T11:35:00-04:00",
+          "readingMinutes": 5,
+          "whyRead": "Rob Bowley is “flipping tables in his head” with anger at the current media coverage of the danger of AI killing us all The risk I’m worried about isn’t a future mac"
+        },
+        {
+          "id": "fallback-eng-3",
+          "title": "Latency numbers every programmer should know",
+          "url": "https://gist.github.com/jboner/2841832",
+          "source": "Jeff Dean notes",
+          "topic": "Performance",
+          "track": "engineering",
+          "section": "evergreen",
+          "summary": "A compact mental model for the relative cost of CPU, memory, networks and storage.",
+          "publishedAt": null,
+          "readingMinutes": 4,
+          "kind": "evergreen",
+          "whyRead": "A compact mental model for the relative cost of CPU, memory, networks and storage."
+        }
+      ]
+    },
     {
       "editionDate": "2026-09-25",
       "edition": "2026.268",
