@@ -1,6 +1,100 @@
 {
-  "generatedAt": "2026-09-27T05:19:51.194Z",
+  "generatedAt": "2026-09-28T05:25:40.563Z",
   "editions": [
+    {
+      "editionDate": "2026-09-28",
+      "edition": "2026.271",
+      "generatedAt": "2026-09-28T05:25:40.563Z",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "hn-49868404",
+          "title": "Don't couple your Go code to GitHub",
+          "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
+          "source": "Hacker News",
+          "topic": "Community signal",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "192 points and 93 comments on Hacker News.",
+          "publishedAt": "2026-09-27T16:50:58.000Z",
+          "readingMinutes": 5,
+          "signal": 192,
+          "comments": 93,
+          "whyRead": "192 points and 93 comments make this an active technical discussion."
+        },
+        {
+          "id": "27715dacf417af",
+          "title": "What Improves Developer Productivity at Google? Code Quality (2022)",
+          "url": "https://dl.acm.org/doi/pdf/10.1145/3540250.3558940",
+          "source": "Lobsters",
+          "topic": "Programming",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Abstract: Understanding what affects software developer productivity can help organizations choose wise investments in their technical and social environment. But the research literature either focuses on what correlates with developer productivity in ecologically valid settings ",
+          "publishedAt": "Sun, 27 Sep 2026 07:52:57 -0500",
+          "readingMinutes": 5,
+          "whyRead": "Abstract: Understanding what affects software developer productivity can help organizations choose wise investments in their technical and social environment. "
+        },
+        {
+          "id": "2ab10ed604eb93",
+          "title": "Haters think AI agents can&#x27;t write GPU code? This&#x27;ll ROCm",
+          "url": "https://stackoverflow.blog/2026/09/22/haters-think-ai-can-t-gpu-code-this-ll-rocm/",
+          "source": "Stack Overflow Blog",
+          "topic": "Software",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Ryan chats with Anush Elangovan, VP of Software at AMD, about ROCm&#x27;s open-source unified toolchain for GPUs, how agentic AI is drastically lowering the barrier to entry for low-level hardware programming, and the rapid convergence of software and hardware development timelin",
+          "publishedAt": "Tue, 22 Sep 2026 07:40:00 GMT",
+          "readingMinutes": 5,
+          "whyRead": "Ryan chats with Anush Elangovan, VP of Software at AMD, about ROCm&#x27;s open-source unified toolchain for GPUs, how agentic AI is drastically lowering the barrier "
+        },
+        {
+          "id": "eb780d396d64c0",
+          "title": "Improving site performance by shipping more CSS",
+          "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
+          "source": "GitHub Engineering",
+          "topic": "Engineering",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "How we fully migrated github.com away from CSS-in-JS. The post Improving site performance by shipping more CSS appeared first on The GitHub Blog .",
+          "publishedAt": "Fri, 25 Sep 2026 15:00:00 +0000",
+          "readingMinutes": 5,
+          "whyRead": "How we fully migrated github.com away from CSS-in-JS. "
+        },
+        {
+          "id": "5eda8d9ae01468",
+          "title": "Knowledge cutoff is a poor proxy for model capability",
+          "url": "https://devblogs.microsoft.com/blog/knowledge-cutoff-is-a-poor-proxy-for-model-capability/",
+          "source": "Microsoft Dev Blogs",
+          "topic": "Developer tools",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "A model can fail on features released before its knowledge cutoff, then succeed on ones released after it. We tested hundreds of product changes and found that the date tells you far less than the work does. The post Knowledge cutoff is a poor proxy for model capability appeared ",
+          "publishedAt": "Mon, 21 Sep 2026 07:51:46 +0000",
+          "readingMinutes": 5,
+          "whyRead": "A model can fail on features released before its knowledge cutoff, then succeed on ones released after it. "
+        },
+        {
+          "id": "fallback-eng-2",
+          "title": "The twelve-factor app methodology remains useful",
+          "url": "https://12factor.net/",
+          "source": "12 Factor",
+          "topic": "Systems",
+          "track": "engineering",
+          "section": "evergreen",
+          "summary": "Review the durable principles behind portable, observable and operationally sound web services.",
+          "publishedAt": null,
+          "readingMinutes": 7,
+          "kind": "evergreen",
+          "whyRead": "Review the durable principles behind portable, observable and operationally sound web services."
+        }
+      ]
+    },
     {
       "editionDate": "2026-09-27",
       "edition": "2026.270",
