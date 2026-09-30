@@ -1,6 +1,100 @@
 {
-  "generatedAt": "2026-09-29T05:45:00.779Z",
+  "generatedAt": "2026-09-30T05:33:42.047Z",
   "editions": [
+    {
+      "editionDate": "2026-09-30",
+      "edition": "2026.273",
+      "generatedAt": "2026-09-30T05:33:42.047Z",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "86945b70f7d93f",
+          "title": "Fragments: September 29",
+          "url": "https://martinfowler.com/fragments/2026-09-29.html",
+          "source": "Martin Fowler",
+          "topic": "Architecture",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Simon Willison: The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder We can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge This has been a constan",
+          "publishedAt": "2026-09-29T08:41:00-04:00",
+          "readingMinutes": 5,
+          "whyRead": "Simon Willison: The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder We can do amazing things wi"
+        },
+        {
+          "id": "1651767fb9db01",
+          "title": "Build with Azure Canvases: a shared workspace for agents",
+          "url": "https://devblogs.microsoft.com/blog/azure-canvases/",
+          "source": "Microsoft Dev Blogs",
+          "topic": "Developer tools",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "See how Azure Canvases bring plans, code, previews, and deployment feedback together in a collaborative workspace for agent-assisted development. The post Build with Azure Canvases: a shared workspace for agents appeared first on Microsoft for Developers .",
+          "publishedAt": "Tue, 29 Sep 2026 18:30:00 +0000",
+          "readingMinutes": 5,
+          "whyRead": "See how Azure Canvases bring plans, code, previews, and deployment feedback together in a collaborative workspace for agent-assisted development. "
+        },
+        {
+          "id": "hn-49903993",
+          "title": "PSSA: A non-transformer language model written from scratch in Rust",
+          "url": "https://github.com/Sparticle62ops/pssa",
+          "source": "Hacker News",
+          "topic": "Community signal",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "44 points and 11 comments on Hacker News.",
+          "publishedAt": "2026-09-30T03:19:54.000Z",
+          "readingMinutes": 5,
+          "signal": 44,
+          "comments": 11,
+          "whyRead": "44 points and 11 comments make this an active technical discussion."
+        },
+        {
+          "id": "354534b42988f4",
+          "title": "How to speed up the Rust compiler in September 2026",
+          "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
+          "source": "Lobsters",
+          "topic": "Programming",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Comments",
+          "publishedAt": "Tue, 29 Sep 2026 21:08:22 -0500",
+          "readingMinutes": 5,
+          "whyRead": "A fresh programming perspective from Lobsters."
+        },
+        {
+          "id": "1a28a47627143e",
+          "title": "Your phone is AI’s newest hardware",
+          "url": "https://stackoverflow.blog/2026/09/29/your-phone-is-ai-s-newest-hardware/",
+          "source": "Stack Overflow Blog",
+          "topic": "Software",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Ryan sits down with Div Garg, CEO at AGI Inc., to talk about running AI agents entirely on mobile devices, optimizing models for edge computing chips, and building safety mechanisms into autonomous app interactions.",
+          "publishedAt": "Tue, 29 Sep 2026 07:40:00 GMT",
+          "readingMinutes": 5,
+          "whyRead": "Ryan sits down with Div Garg, CEO at AGI Inc., to talk about running AI agents entirely on mobile devices, optimizing models for edge computing chips, and building s"
+        },
+        {
+          "id": "fallback-eng-1",
+          "title": "How to write a good software design document",
+          "url": "https://www.industrialempathy.com/posts/design-docs-at-google/",
+          "source": "Industrial Empathy",
+          "topic": "Architecture",
+          "track": "engineering",
+          "section": "evergreen",
+          "summary": "A practical structure for explaining context, goals, alternatives, trade-offs and implementation plans before code is written.",
+          "publishedAt": null,
+          "readingMinutes": 8,
+          "kind": "evergreen",
+          "whyRead": "A practical structure for explaining context, goals, alternatives, trade-offs and implementation plans before code is written."
+        }
+      ]
+    },
     {
       "editionDate": "2026-09-29",
       "edition": "2026.272",
