@@ -1,6 +1,100 @@
 {
-  "generatedAt": "2026-09-30T05:33:42.047Z",
+  "generatedAt": "2026-10-01T05:55:33.957Z",
   "editions": [
+    {
+      "editionDate": "2026-10-01",
+      "edition": "2026.274",
+      "generatedAt": "2026-10-01T05:55:33.957Z",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "hn-49909583",
+          "title": "A brief history of the Bloomberg terminal",
+          "url": "https://spectrum.ieee.org/bloomberg-terminal",
+          "source": "Hacker News",
+          "topic": "Community signal",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "252 points and 107 comments on Hacker News.",
+          "publishedAt": "2026-09-30T14:34:07.000Z",
+          "readingMinutes": 5,
+          "signal": 252,
+          "comments": 107,
+          "whyRead": "252 points and 107 comments make this an active technical discussion."
+        },
+        {
+          "id": "f34fa97c39c8a7",
+          "title": "Getting ready for 2026 results: A look back on Developer Survey findings",
+          "url": "https://stackoverflow.blog/2026/09/30/getting-ready-for-2026-results-a-look-back-on-developer-survey-findings/",
+          "source": "Stack Overflow Blog",
+          "topic": "Software",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "",
+          "publishedAt": "Wed, 30 Sep 2026 14:00:00 GMT",
+          "readingMinutes": 5,
+          "whyRead": "A fresh software perspective from Stack Overflow Blog."
+        },
+        {
+          "id": "6fb519543bf10d",
+          "title": "Principles for effective slides",
+          "url": "https://martinfowler.com/articles/never-send-slides/slide-principles.html",
+          "source": "Martin Fowler",
+          "topic": "Architecture",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Not every presentation needs slides, but when they earn their place, they work as a visual channel that complements the speaker rather than replacing them. Sumeet Gayathri Moghe sets out the principles that follow from that idea &#x2014; control over the rate of knowledge exposit",
+          "publishedAt": "2026-09-30T10:14:00-04:00",
+          "readingMinutes": 5,
+          "whyRead": "Not every presentation needs slides, but when they earn their place, they work as a visual channel that complements the speaker rather than replacing them. "
+        },
+        {
+          "id": "9f1d8f91c59a2d",
+          "title": "ASM Bots: Core War in real 8086 machine code",
+          "url": "https://asmbots.io/",
+          "source": "Lobsters",
+          "topic": "Programming",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Comments",
+          "publishedAt": "Wed, 30 Sep 2026 20:59:24 -0500",
+          "readingMinutes": 5,
+          "whyRead": "A fresh programming perspective from Lobsters."
+        },
+        {
+          "id": "1651767fb9db01",
+          "title": "Build with Azure Canvases: a shared workspace for agents",
+          "url": "https://devblogs.microsoft.com/blog/azure-canvases/",
+          "source": "Microsoft Dev Blogs",
+          "topic": "Developer tools",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "See how Azure Canvases bring plans, code, previews, and deployment feedback together in a collaborative workspace for agent-assisted development. The post Build with Azure Canvases: a shared workspace for agents appeared first on Microsoft for Developers .",
+          "publishedAt": "Tue, 29 Sep 2026 18:30:00 +0000",
+          "readingMinutes": 5,
+          "whyRead": "See how Azure Canvases bring plans, code, previews, and deployment feedback together in a collaborative workspace for agent-assisted development. "
+        },
+        {
+          "id": "fallback-eng-2",
+          "title": "The twelve-factor app methodology remains useful",
+          "url": "https://12factor.net/",
+          "source": "12 Factor",
+          "topic": "Systems",
+          "track": "engineering",
+          "section": "evergreen",
+          "summary": "Review the durable principles behind portable, observable and operationally sound web services.",
+          "publishedAt": null,
+          "readingMinutes": 7,
+          "kind": "evergreen",
+          "whyRead": "Review the durable principles behind portable, observable and operationally sound web services."
+        }
+      ]
+    },
     {
       "editionDate": "2026-09-30",
       "edition": "2026.273",
