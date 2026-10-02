@@ -1,6 +1,100 @@
 {
-  "generatedAt": "2026-10-01T05:55:33.957Z",
+  "generatedAt": "2026-10-02T05:38:31.347Z",
   "editions": [
+    {
+      "editionDate": "2026-10-02",
+      "edition": "2026.275",
+      "generatedAt": "2026-10-02T05:38:31.347Z",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "285cdf24bab75f",
+          "title": "Constraints that make developers faster",
+          "url": "https://stackoverflow.blog/2026/10/02/constraints-that-make-developers-faster/",
+          "source": "Stack Overflow Blog",
+          "topic": "Software",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Ryan chats with Julien Verlaguet, CEO at Skip Labs, about finding the balance between human tolerance and tooling constraints, the spectrum of typed programming languages, and building cost-effective tooling for AI agents.",
+          "publishedAt": "Fri, 02 Oct 2026 07:40:00 GMT",
+          "readingMinutes": 5,
+          "whyRead": "Ryan chats with Julien Verlaguet, CEO at Skip Labs, about finding the balance between human tolerance and tooling constraints, the spectrum of typed programming lang"
+        },
+        {
+          "id": "hn-49928121",
+          "title": "Several vulnerabilities have been discovered in the Linux kernel",
+          "url": "https://lwn.net/Articles/1097401/",
+          "source": "Hacker News",
+          "topic": "Community signal",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "210 points and 137 comments on Hacker News.",
+          "publishedAt": "2026-10-01T23:10:44.000Z",
+          "readingMinutes": 5,
+          "signal": 210,
+          "comments": 137,
+          "whyRead": "210 points and 137 comments make this an active technical discussion."
+        },
+        {
+          "id": "d0f8a7063d57be",
+          "title": "Waterfox 6.7.5 Adds a Built-in Feed Reader",
+          "url": "https://www.waterfox.com/releases/6.7.5/",
+          "source": "Lobsters",
+          "topic": "Programming",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Comments",
+          "publishedAt": "Thu, 01 Oct 2026 21:17:04 -0500",
+          "readingMinutes": 5,
+          "whyRead": "A fresh programming perspective from Lobsters."
+        },
+        {
+          "id": "6fb519543bf10d",
+          "title": "Principles for effective slides",
+          "url": "https://martinfowler.com/articles/never-send-slides/slide-principles.html",
+          "source": "Martin Fowler",
+          "topic": "Architecture",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Not every presentation needs slides, but when they earn their place, they work as a visual channel that complements the speaker rather than replacing them. Sumeet Gayathri Moghe sets out the principles that follow from that idea &#x2014; control over the rate of knowledge exposit",
+          "publishedAt": "2026-09-30T10:14:00-04:00",
+          "readingMinutes": 5,
+          "whyRead": "Not every presentation needs slides, but when they earn their place, they work as a visual channel that complements the speaker rather than replacing them. "
+        },
+        {
+          "id": "1651767fb9db01",
+          "title": "Build with Azure Canvases: a shared workspace for agents",
+          "url": "https://devblogs.microsoft.com/blog/azure-canvases/",
+          "source": "Microsoft Dev Blogs",
+          "topic": "Developer tools",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "See how Azure Canvases bring plans, code, previews, and deployment feedback together in a collaborative workspace for agent-assisted development. The post Build with Azure Canvases: a shared workspace for agents appeared first on Microsoft for Developers .",
+          "publishedAt": "Tue, 29 Sep 2026 18:30:00 +0000",
+          "readingMinutes": 5,
+          "whyRead": "See how Azure Canvases bring plans, code, previews, and deployment feedback together in a collaborative workspace for agent-assisted development. "
+        },
+        {
+          "id": "fallback-eng-3",
+          "title": "Latency numbers every programmer should know",
+          "url": "https://gist.github.com/jboner/2841832",
+          "source": "Jeff Dean notes",
+          "topic": "Performance",
+          "track": "engineering",
+          "section": "evergreen",
+          "summary": "A compact mental model for the relative cost of CPU, memory, networks and storage.",
+          "publishedAt": null,
+          "readingMinutes": 4,
+          "kind": "evergreen",
+          "whyRead": "A compact mental model for the relative cost of CPU, memory, networks and storage."
+        }
+      ]
+    },
     {
       "editionDate": "2026-10-01",
       "edition": "2026.274",
