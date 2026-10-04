@@ -1,6 +1,100 @@
 {
-  "generatedAt": "2026-10-03T05:19:41.503Z",
+  "generatedAt": "2026-10-04T05:54:23.402Z",
   "editions": [
+    {
+      "editionDate": "2026-10-04",
+      "edition": "2026.277",
+      "generatedAt": "2026-10-04T05:54:23.402Z",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "hn-49946895",
+          "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+          "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+          "source": "Hacker News",
+          "topic": "Community signal",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "206 points and 24 comments on Hacker News.",
+          "publishedAt": "2026-10-03T19:14:48.000Z",
+          "readingMinutes": 5,
+          "signal": 206,
+          "comments": 24,
+          "whyRead": "206 points and 24 comments make this an active technical discussion."
+        },
+        {
+          "id": "bfcc6b23f6650b",
+          "title": "Rust's derive often implies inline",
+          "url": "https://yossarian.net/til/post/rust-s-derive-often-implies-inline/",
+          "source": "Lobsters",
+          "topic": "Programming",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Comments",
+          "publishedAt": "Sat, 03 Oct 2026 20:41:57 -0500",
+          "readingMinutes": 5,
+          "whyRead": "A fresh programming perspective from Lobsters."
+        },
+        {
+          "id": "285cdf24bab75f",
+          "title": "Constraints that make developers faster",
+          "url": "https://stackoverflow.blog/2026/10/02/constraints-that-make-developers-faster/",
+          "source": "Stack Overflow Blog",
+          "topic": "Software",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Ryan chats with Julien Verlaguet, CEO at Skip Labs, about finding the balance between human tolerance and tooling constraints, the spectrum of typed programming languages, and building cost-effective tooling for AI agents.",
+          "publishedAt": "Fri, 02 Oct 2026 07:40:00 GMT",
+          "readingMinutes": 5,
+          "whyRead": "Ryan chats with Julien Verlaguet, CEO at Skip Labs, about finding the balance between human tolerance and tooling constraints, the spectrum of typed programming lang"
+        },
+        {
+          "id": "5e89765b29051e",
+          "title": "Get started with the GitHub Copilot app: a free, hands-on course",
+          "url": "https://devblogs.microsoft.com/blog/github-copilot-app-for-beginners/",
+          "source": "Microsoft Dev Blogs",
+          "topic": "Developer tools",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Learn to direct AI coding agents, review their work, and build reliable development workflows with this free GitHub Copilot app course. The post Get started with the GitHub Copilot app: a free, hands-on course appeared first on Microsoft for Developers .",
+          "publishedAt": "Mon, 28 Sep 2026 18:05:00 +0000",
+          "readingMinutes": 5,
+          "whyRead": "Learn to direct AI coding agents, review their work, and build reliable development workflows with this free GitHub Copilot app course. "
+        },
+        {
+          "id": "86945b70f7d93f",
+          "title": "Fragments: September 29",
+          "url": "https://martinfowler.com/fragments/2026-09-29.html",
+          "source": "Martin Fowler",
+          "topic": "Architecture",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Simon Willison: The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder We can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge This has been a constan",
+          "publishedAt": "2026-09-29T08:41:00-04:00",
+          "readingMinutes": 5,
+          "whyRead": "Simon Willison: The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder We can do amazing things wi"
+        },
+        {
+          "id": "fallback-eng-2",
+          "title": "The twelve-factor app methodology remains useful",
+          "url": "https://12factor.net/",
+          "source": "12 Factor",
+          "topic": "Systems",
+          "track": "engineering",
+          "section": "evergreen",
+          "summary": "Review the durable principles behind portable, observable and operationally sound web services.",
+          "publishedAt": null,
+          "readingMinutes": 7,
+          "kind": "evergreen",
+          "whyRead": "Review the durable principles behind portable, observable and operationally sound web services."
+        }
+      ]
+    },
     {
       "editionDate": "2026-10-03",
       "edition": "2026.276",
