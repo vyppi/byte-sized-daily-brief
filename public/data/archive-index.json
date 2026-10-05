@@ -1,6 +1,100 @@
 {
-  "generatedAt": "2026-10-04T05:54:23.402Z",
+  "generatedAt": "2026-10-05T05:41:49.354Z",
   "editions": [
+    {
+      "editionDate": "2026-10-05",
+      "edition": "2026.278",
+      "generatedAt": "2026-10-05T05:41:49.354Z",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "14a4d65c4430e6",
+          "title": "Fragments: October 4",
+          "url": "https://martinfowler.com/fragments/2026-10-04.html",
+          "source": "Martin Fowler",
+          "topic": "Architecture",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "In response to my last fragments (probably the bit about us worrying if LLMs have consciousness when we when we should be wondering why they don’t have a conscience) “Metalanguage” replied : we shipped the id and forgot the superego. classic software lifecycle. I don’t know what ",
+          "publishedAt": "2026-10-04T23:28:00-05:00",
+          "readingMinutes": 5,
+          "whyRead": "In response to my last fragments (probably the bit about us worrying if LLMs have consciousness when we when we should be wondering why they don’t have a conscience)"
+        },
+        {
+          "id": "hn-49959869",
+          "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+          "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
+          "source": "Hacker News",
+          "topic": "Community signal",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "158 points and 92 comments on Hacker News.",
+          "publishedAt": "2026-10-05T01:54:08.000Z",
+          "readingMinutes": 5,
+          "signal": 158,
+          "comments": 92,
+          "whyRead": "158 points and 92 comments make this an active technical discussion."
+        },
+        {
+          "id": "4b7e6e1fb777e7",
+          "title": "RIP, vector database",
+          "url": "https://turbopuffer.com/blog/rip-vector-database",
+          "source": "Lobsters",
+          "topic": "Programming",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Comments",
+          "publishedAt": "Sun, 04 Oct 2026 23:51:15 -0500",
+          "readingMinutes": 5,
+          "whyRead": "A fresh programming perspective from Lobsters."
+        },
+        {
+          "id": "285cdf24bab75f",
+          "title": "Constraints that make developers faster",
+          "url": "https://stackoverflow.blog/2026/10/02/constraints-that-make-developers-faster/",
+          "source": "Stack Overflow Blog",
+          "topic": "Software",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Ryan chats with Julien Verlaguet, CEO at Skip Labs, about finding the balance between human tolerance and tooling constraints, the spectrum of typed programming languages, and building cost-effective tooling for AI agents.",
+          "publishedAt": "Fri, 02 Oct 2026 07:40:00 GMT",
+          "readingMinutes": 5,
+          "whyRead": "Ryan chats with Julien Verlaguet, CEO at Skip Labs, about finding the balance between human tolerance and tooling constraints, the spectrum of typed programming lang"
+        },
+        {
+          "id": "5e89765b29051e",
+          "title": "Get started with the GitHub Copilot app: a free, hands-on course",
+          "url": "https://devblogs.microsoft.com/blog/github-copilot-app-for-beginners/",
+          "source": "Microsoft Dev Blogs",
+          "topic": "Developer tools",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Learn to direct AI coding agents, review their work, and build reliable development workflows with this free GitHub Copilot app course. The post Get started with the GitHub Copilot app: a free, hands-on course appeared first on Microsoft for Developers .",
+          "publishedAt": "Mon, 28 Sep 2026 18:05:00 +0000",
+          "readingMinutes": 5,
+          "whyRead": "Learn to direct AI coding agents, review their work, and build reliable development workflows with this free GitHub Copilot app course. "
+        },
+        {
+          "id": "fallback-eng-3",
+          "title": "Latency numbers every programmer should know",
+          "url": "https://gist.github.com/jboner/2841832",
+          "source": "Jeff Dean notes",
+          "topic": "Performance",
+          "track": "engineering",
+          "section": "evergreen",
+          "summary": "A compact mental model for the relative cost of CPU, memory, networks and storage.",
+          "publishedAt": null,
+          "readingMinutes": 4,
+          "kind": "evergreen",
+          "whyRead": "A compact mental model for the relative cost of CPU, memory, networks and storage."
+        }
+      ]
+    },
     {
       "editionDate": "2026-10-04",
       "edition": "2026.277",
