@@ -1,6 +1,100 @@
 {
-  "generatedAt": "2026-10-06T06:22:05.079Z",
+  "generatedAt": "2026-10-07T06:01:05.298Z",
   "editions": [
+    {
+      "editionDate": "2026-10-07",
+      "edition": "2026.280",
+      "generatedAt": "2026-10-07T06:01:05.298Z",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "dfabdad6eebe60",
+          "title": "Tales from the 2026 Developer Survey results",
+          "url": "https://stackoverflow.blog/2026/10/06/tales-from-the-2026-developer-survey-results/",
+          "source": "Stack Overflow Blog",
+          "topic": "Software",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Ryan chats with Erin Yepis, Senior Analyst at Stack Overflow, about the results from this year’s Annual Developer Survey, including the overwhelming daily usage of AI coding assistants despite lingering developer trust issues, the critical role of well-organized documentation in ",
+          "publishedAt": "Tue, 06 Oct 2026 17:00:00 GMT",
+          "readingMinutes": 5,
+          "whyRead": "Ryan chats with Erin Yepis, Senior Analyst at Stack Overflow, about the results from this year’s Annual Developer Survey, including the overwhelming daily usage of A"
+        },
+        {
+          "id": "hn-49981905",
+          "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+          "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+          "source": "Hacker News",
+          "topic": "Community signal",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "162 points and 85 comments on Hacker News.",
+          "publishedAt": "2026-10-06T18:00:34.000Z",
+          "readingMinutes": 5,
+          "signal": 162,
+          "comments": 85,
+          "whyRead": "162 points and 85 comments make this an active technical discussion."
+        },
+        {
+          "id": "62ff5c4ea858ab",
+          "title": "Building Git infrastructure for agent-scale development",
+          "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
+          "source": "GitHub Engineering",
+          "topic": "Engineering",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "We're rebuilding GitHub's Git infrastructure while GitHub keeps running, creating a foundation for agent-scale software development. The post Building Git infrastructure for agent-scale development appeared first on The GitHub Blog .",
+          "publishedAt": "Tue, 06 Oct 2026 20:57:56 +0000",
+          "readingMinutes": 5,
+          "whyRead": "We're rebuilding GitHub's Git infrastructure while GitHub keeps running, creating a foundation for agent-scale software development. "
+        },
+        {
+          "id": "1b334feaf70af9",
+          "title": "Build Azure canvases with the Canvas authoring plugin",
+          "url": "https://devblogs.microsoft.com/blog/build-azure-canvases-with-canvas-authoring/",
+          "source": "Microsoft Dev Blogs",
+          "topic": "Developer tools",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Learn how the Canvas authoring plugin helps you build Azure canvases with Microsoft Canvas Toolkit, from a read-only starter to a working app you can inspect, test, and adapt. The post Build Azure canvases with the Canvas authoring plugin appeared first on Microsoft for Developer",
+          "publishedAt": "Tue, 06 Oct 2026 18:30:00 +0000",
+          "readingMinutes": 5,
+          "whyRead": "Learn how the Canvas authoring plugin helps you build Azure canvases with Microsoft Canvas Toolkit, from a read-only starter to a working app you can inspect, test, "
+        },
+        {
+          "id": "6486fd1206d6e1",
+          "title": "Reasons to dislike AI coding",
+          "url": "https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/",
+          "source": "Lobsters",
+          "topic": "Programming",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Comments",
+          "publishedAt": "Wed, 07 Oct 2026 00:34:50 -0500",
+          "readingMinutes": 5,
+          "whyRead": "A fresh programming perspective from Lobsters."
+        },
+        {
+          "id": "fallback-eng-2",
+          "title": "The twelve-factor app methodology remains useful",
+          "url": "https://12factor.net/",
+          "source": "12 Factor",
+          "topic": "Systems",
+          "track": "engineering",
+          "section": "evergreen",
+          "summary": "Review the durable principles behind portable, observable and operationally sound web services.",
+          "publishedAt": null,
+          "readingMinutes": 7,
+          "kind": "evergreen",
+          "whyRead": "Review the durable principles behind portable, observable and operationally sound web services."
+        }
+      ]
+    },
     {
       "editionDate": "2026-10-06",
       "edition": "2026.279",
