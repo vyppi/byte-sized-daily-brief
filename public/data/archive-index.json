@@ -1,6 +1,100 @@
 {
-  "generatedAt": "2026-10-07T06:01:05.298Z",
+  "generatedAt": "2026-10-08T06:05:25.879Z",
   "editions": [
+    {
+      "editionDate": "2026-10-08",
+      "edition": "2026.281",
+      "generatedAt": "2026-10-08T06:05:25.879Z",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "589a9855b32228",
+          "title": "Implementing a Modular Master-Agent Telemetry & Diagnostic Framework in Python: Prime-Sentinel Command (PSC)",
+          "url": "https://stackoverflow.blog/2026/10/07/implementing-a-modular-master-agent-telemetry-and-diagnostic-framework-in-python-prime-sentinel-command-psc/",
+          "source": "Stack Overflow Blog",
+          "topic": "Software",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "",
+          "publishedAt": "Wed, 07 Oct 2026 20:03:47 GMT",
+          "readingMinutes": 5,
+          "whyRead": "A fresh software perspective from Stack Overflow Blog."
+        },
+        {
+          "id": "08f420ab798c52",
+          "title": "From Spec-First to Enterprise-Ready: Extending GitHub Spec Kit",
+          "url": "https://devblogs.microsoft.com/blog/from-spec-first-to-enterprise-ready-extending-github-spec-kit/",
+          "source": "Microsoft Dev Blogs",
+          "topic": "Developer tools",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "How presets, extensions, bundles, workflows, and governed catalogs make Spec-Driven Development adaptable at scale This article continues Spec-Driven Development: A Spec-First Approach to AI-Native Engineering, which introduced the principles and lifecycle of SDD. Here, we focus ",
+          "publishedAt": "Wed, 07 Oct 2026 15:00:26 +0000",
+          "readingMinutes": 5,
+          "whyRead": "How presets, extensions, bundles, workflows, and governed catalogs make Spec-Driven Development adaptable at scale This article continues Spec-Driven Development: A "
+        },
+        {
+          "id": "hn-49992257",
+          "title": "Anti-patterns in software blogging",
+          "url": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
+          "source": "Hacker News",
+          "topic": "Community signal",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "243 points and 131 comments on Hacker News.",
+          "publishedAt": "2026-10-07T13:08:26.000Z",
+          "readingMinutes": 5,
+          "signal": 243,
+          "comments": 131,
+          "whyRead": "243 points and 131 comments make this an active technical discussion."
+        },
+        {
+          "id": "62ff5c4ea858ab",
+          "title": "Building Git infrastructure for agent-scale development",
+          "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
+          "source": "GitHub Engineering",
+          "topic": "Engineering",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "We're rebuilding GitHub's Git infrastructure while GitHub keeps running, creating a foundation for agent-scale software development. The post Building Git infrastructure for agent-scale development appeared first on The GitHub Blog .",
+          "publishedAt": "Tue, 06 Oct 2026 20:57:56 +0000",
+          "readingMinutes": 5,
+          "whyRead": "We're rebuilding GitHub's Git infrastructure while GitHub keeps running, creating a foundation for agent-scale software development. "
+        },
+        {
+          "id": "efcf7cdce5a633",
+          "title": "Software developers are not okay",
+          "url": "https://www.baldurbjarnason.com/2026/05-software-developers-are-not-okay/",
+          "source": "Lobsters",
+          "topic": "Programming",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Comments",
+          "publishedAt": "Wed, 07 Oct 2026 14:35:08 -0500",
+          "readingMinutes": 5,
+          "whyRead": "A fresh programming perspective from Lobsters."
+        },
+        {
+          "id": "fallback-eng-3",
+          "title": "Latency numbers every programmer should know",
+          "url": "https://gist.github.com/jboner/2841832",
+          "source": "Jeff Dean notes",
+          "topic": "Performance",
+          "track": "engineering",
+          "section": "evergreen",
+          "summary": "A compact mental model for the relative cost of CPU, memory, networks and storage.",
+          "publishedAt": null,
+          "readingMinutes": 4,
+          "kind": "evergreen",
+          "whyRead": "A compact mental model for the relative cost of CPU, memory, networks and storage."
+        }
+      ]
+    },
     {
       "editionDate": "2026-10-07",
       "edition": "2026.280",
