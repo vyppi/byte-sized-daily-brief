@@ -1,6 +1,100 @@
 {
-  "generatedAt": "2026-10-08T06:05:25.879Z",
+  "generatedAt": "2026-10-09T06:09:46.120Z",
   "editions": [
+    {
+      "editionDate": "2026-10-09",
+      "edition": "2026.282",
+      "generatedAt": "2026-10-09T06:09:46.120Z",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "4bd955f34ecaa1",
+          "title": "A green exit code is not evidence that the work happened",
+          "url": "https://stackoverflow.blog/2026/10/08/a-green-exit-code-is-not-evidence-that-the-work-happened/",
+          "source": "Stack Overflow Blog",
+          "topic": "Software",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Agents don&#x27;t build trust for another reason, structurally worse than the first. It isn&#x27;t only that the tool keeps changing shape. It&#x27;s that the feedback loop you would need in order to learn the tool is broken at the point of measurement.",
+          "publishedAt": "Thu, 08 Oct 2026 14:00:00 GMT",
+          "readingMinutes": 5,
+          "whyRead": "Agents don&#x27;t build trust for another reason, structurally worse than the first. "
+        },
+        {
+          "id": "hn-50016312",
+          "title": "Show HN: Quake ported to safe Rust, playable in browser",
+          "url": "https://quake-srp.pages.dev/",
+          "source": "Hacker News",
+          "topic": "Community signal",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "55 points and 22 comments on Hacker News.",
+          "publishedAt": "2026-10-09T05:22:58.000Z",
+          "readingMinutes": 5,
+          "signal": 55,
+          "comments": 22,
+          "whyRead": "55 points and 22 comments make this an active technical discussion."
+        },
+        {
+          "id": "5310c5b6717ca3",
+          "title": "The history of the Hetzner Cloud network stack",
+          "url": "https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/",
+          "source": "Lobsters",
+          "topic": "Programming",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Comments",
+          "publishedAt": "Thu, 08 Oct 2026 10:02:28 -0500",
+          "readingMinutes": 5,
+          "whyRead": "A fresh programming perspective from Lobsters."
+        },
+        {
+          "id": "08f420ab798c52",
+          "title": "From Spec-First to Enterprise-Ready: Extending GitHub Spec Kit",
+          "url": "https://devblogs.microsoft.com/blog/from-spec-first-to-enterprise-ready-extending-github-spec-kit/",
+          "source": "Microsoft Dev Blogs",
+          "topic": "Developer tools",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "How presets, extensions, bundles, workflows, and governed catalogs make Spec-Driven Development adaptable at scale This article continues Spec-Driven Development: A Spec-First Approach to AI-Native Engineering, which introduced the principles and lifecycle of SDD. Here, we focus ",
+          "publishedAt": "Wed, 07 Oct 2026 15:00:26 +0000",
+          "readingMinutes": 5,
+          "whyRead": "How presets, extensions, bundles, workflows, and governed catalogs make Spec-Driven Development adaptable at scale This article continues Spec-Driven Development: A "
+        },
+        {
+          "id": "62ff5c4ea858ab",
+          "title": "Building Git infrastructure for agent-scale development",
+          "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
+          "source": "GitHub Engineering",
+          "topic": "Engineering",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "We're rebuilding GitHub's Git infrastructure while GitHub keeps running, creating a foundation for agent-scale software development. The post Building Git infrastructure for agent-scale development appeared first on The GitHub Blog .",
+          "publishedAt": "Tue, 06 Oct 2026 20:57:56 +0000",
+          "readingMinutes": 5,
+          "whyRead": "We're rebuilding GitHub's Git infrastructure while GitHub keeps running, creating a foundation for agent-scale software development. "
+        },
+        {
+          "id": "fallback-eng-1",
+          "title": "How to write a good software design document",
+          "url": "https://www.industrialempathy.com/posts/design-docs-at-google/",
+          "source": "Industrial Empathy",
+          "topic": "Architecture",
+          "track": "engineering",
+          "section": "evergreen",
+          "summary": "A practical structure for explaining context, goals, alternatives, trade-offs and implementation plans before code is written.",
+          "publishedAt": null,
+          "readingMinutes": 8,
+          "kind": "evergreen",
+          "whyRead": "A practical structure for explaining context, goals, alternatives, trade-offs and implementation plans before code is written."
+        }
+      ]
+    },
     {
       "editionDate": "2026-10-08",
       "edition": "2026.281",
