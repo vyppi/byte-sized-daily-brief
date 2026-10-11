@@ -1,9 +1,25 @@
 {
-  "editionDate": "2026-10-10",
-  "edition": "2026.283",
-  "generatedAt": "2026-10-10T05:53:55.795Z",
+  "editionDate": "2026-10-11",
+  "edition": "2026.284",
+  "generatedAt": "2026-10-11T05:47:57.000Z",
   "sourceCount": 6,
   "items": [
+    {
+      "id": "hn-50037949",
+      "title": "Build your own decision model",
+      "url": "https://nishtahir.com/build-your-own-decision-model/",
+      "source": "Hacker News",
+      "topic": "Community signal",
+      "track": "engineering",
+      "section": "brief",
+      "kind": "current",
+      "summary": "197 points and 40 comments on Hacker News.",
+      "publishedAt": "2026-10-10T22:50:10.000Z",
+      "readingMinutes": 5,
+      "signal": 197,
+      "comments": 40,
+      "whyRead": "197 points and 40 comments make this an active technical discussion."
+    },
     {
       "id": "7693231ff5a042",
       "title": "A Treatise on Model Oriented Programming Languages",
@@ -19,32 +35,16 @@
       "whyRead": "A fresh software perspective from Stack Overflow Blog."
     },
     {
-      "id": "hn-50027118",
-      "title": "Anthropic AI model submits false tip on unsolved Philly murder",
-      "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
-      "source": "Hacker News",
-      "topic": "Community signal",
-      "track": "engineering",
-      "section": "brief",
-      "kind": "current",
-      "summary": "129 points and 100 comments on Hacker News.",
-      "publishedAt": "2026-10-09T22:00:35.000Z",
-      "readingMinutes": 5,
-      "signal": 129,
-      "comments": 100,
-      "whyRead": "129 points and 100 comments make this an active technical discussion."
-    },
-    {
-      "id": "c798df2a17c08d",
-      "title": "Adding Go's defer to the TypeScript Compiler",
-      "url": "https://healeycodes.com/adding-defer-to-the-typescript-compiler",
+      "id": "43c4cd9cf0e11b",
+      "title": "Consistency is not a localized property",
+      "url": "https://n-the-loop.com/blog/consistency-is-not-a-localized-property/",
       "source": "Lobsters",
       "topic": "Programming",
       "track": "engineering",
       "section": "brief",
       "kind": "current",
       "summary": "Comments",
-      "publishedAt": "Sat, 10 Oct 2026 00:34:40 -0500",
+      "publishedAt": "Sat, 10 Oct 2026 19:51:28 -0500",
       "readingMinutes": 5,
       "whyRead": "A fresh programming perspective from Lobsters."
     },
@@ -77,18 +77,18 @@
       "whyRead": "In response to my last fragments (probably the bit about us worrying if LLMs have consciousness when we when we should be wondering why they don’t have a conscience)"
     },
     {
-      "id": "fallback-eng-2",
-      "title": "The twelve-factor app methodology remains useful",
-      "url": "https://12factor.net/",
-      "source": "12 Factor",
-      "topic": "Systems",
+      "id": "fallback-eng-3",
+      "title": "Latency numbers every programmer should know",
+      "url": "https://gist.github.com/jboner/2841832",
+      "source": "Jeff Dean notes",
+      "topic": "Performance",
       "track": "engineering",
       "section": "evergreen",
-      "summary": "Review the durable principles behind portable, observable and operationally sound web services.",
+      "summary": "A compact mental model for the relative cost of CPU, memory, networks and storage.",
       "publishedAt": null,
-      "readingMinutes": 7,
+      "readingMinutes": 4,
       "kind": "evergreen",
-      "whyRead": "Review the durable principles behind portable, observable and operationally sound web services."
+      "whyRead": "A compact mental model for the relative cost of CPU, memory, networks and storage."
     }
   ]
 }
