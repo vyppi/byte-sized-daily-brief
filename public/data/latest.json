@@ -1,24 +1,38 @@
 {
-  "editionDate": "2026-10-11",
-  "edition": "2026.284",
-  "generatedAt": "2026-10-11T05:47:57.000Z",
+  "editionDate": "2026-10-12",
+  "edition": "2026.285",
+  "generatedAt": "2026-10-12T05:59:40.324Z",
   "sourceCount": 6,
   "items": [
     {
-      "id": "hn-50037949",
-      "title": "Build your own decision model",
-      "url": "https://nishtahir.com/build-your-own-decision-model/",
+      "id": "hn-50047422",
+      "title": "The gap in shared understanding of LLM capability is widening",
+      "url": "https://twitter.com/karpathy/status/2109361546505966046",
       "source": "Hacker News",
       "topic": "Community signal",
       "track": "engineering",
       "section": "brief",
       "kind": "current",
-      "summary": "197 points and 40 comments on Hacker News.",
-      "publishedAt": "2026-10-10T22:50:10.000Z",
+      "summary": "377 points and 533 comments on Hacker News.",
+      "publishedAt": "2026-10-11T20:20:52.000Z",
       "readingMinutes": 5,
-      "signal": 197,
-      "comments": 40,
-      "whyRead": "197 points and 40 comments make this an active technical discussion."
+      "signal": 377,
+      "comments": 533,
+      "whyRead": "377 points and 533 comments make this an active technical discussion."
+    },
+    {
+      "id": "2ef2e65fec9b40",
+      "title": "When LLM Decompilers Recompile More and Preserve Less",
+      "url": "https://arxiv.org/abs/2609.05370",
+      "source": "Lobsters",
+      "topic": "Programming",
+      "track": "engineering",
+      "section": "brief",
+      "kind": "current",
+      "summary": "Comments",
+      "publishedAt": "Sun, 11 Oct 2026 21:44:55 -0500",
+      "readingMinutes": 5,
+      "whyRead": "A fresh programming perspective from Lobsters."
     },
     {
       "id": "7693231ff5a042",
@@ -33,20 +47,6 @@
       "publishedAt": "Fri, 09 Oct 2026 14:59:04 GMT",
       "readingMinutes": 5,
       "whyRead": "A fresh software perspective from Stack Overflow Blog."
-    },
-    {
-      "id": "43c4cd9cf0e11b",
-      "title": "Consistency is not a localized property",
-      "url": "https://n-the-loop.com/blog/consistency-is-not-a-localized-property/",
-      "source": "Lobsters",
-      "topic": "Programming",
-      "track": "engineering",
-      "section": "brief",
-      "kind": "current",
-      "summary": "Comments",
-      "publishedAt": "Sat, 10 Oct 2026 19:51:28 -0500",
-      "readingMinutes": 5,
-      "whyRead": "A fresh programming perspective from Lobsters."
     },
     {
       "id": "4fcc22ace6cff5",
@@ -77,18 +77,18 @@
       "whyRead": "In response to my last fragments (probably the bit about us worrying if LLMs have consciousness when we when we should be wondering why they don’t have a conscience)"
     },
     {
-      "id": "fallback-eng-3",
-      "title": "Latency numbers every programmer should know",
-      "url": "https://gist.github.com/jboner/2841832",
-      "source": "Jeff Dean notes",
-      "topic": "Performance",
+      "id": "fallback-eng-1",
+      "title": "How to write a good software design document",
+      "url": "https://www.industrialempathy.com/posts/design-docs-at-google/",
+      "source": "Industrial Empathy",
+      "topic": "Architecture",
       "track": "engineering",
       "section": "evergreen",
-      "summary": "A compact mental model for the relative cost of CPU, memory, networks and storage.",
+      "summary": "A practical structure for explaining context, goals, alternatives, trade-offs and implementation plans before code is written.",
       "publishedAt": null,
-      "readingMinutes": 4,
+      "readingMinutes": 8,
       "kind": "evergreen",
-      "whyRead": "A compact mental model for the relative cost of CPU, memory, networks and storage."
+      "whyRead": "A practical structure for explaining context, goals, alternatives, trade-offs and implementation plans before code is written."
     }
   ]
 }
