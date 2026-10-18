@@ -1,24 +1,24 @@
 {
-  "editionDate": "2026-10-17",
-  "edition": "2026.290",
-  "generatedAt": "2026-10-17T04:27:31.845Z",
-  "sourceCount": 6,
+  "editionDate": "2026-10-18",
+  "edition": "2026.291",
+  "generatedAt": "2026-10-18T04:35:10.916Z",
+  "sourceCount": 5,
   "items": [
     {
-      "id": "hn-50122951",
-      "title": "How the Claude Code team does code review",
-      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "id": "hn-50133231",
+      "title": "Codex Desktop continuously generates Crashpad pending dumps",
+      "url": "https://github.com/openai/codex/issues/25921",
       "source": "Hacker News",
       "topic": "Community signal",
       "track": "engineering",
       "section": "brief",
       "kind": "current",
-      "summary": "275 points and 255 comments on Hacker News.",
-      "publishedAt": "2026-10-16T19:04:47.000Z",
+      "summary": "107 points and 34 comments on Hacker News.",
+      "publishedAt": "2026-10-17T17:45:08.000Z",
       "readingMinutes": 5,
-      "signal": 275,
-      "comments": 255,
-      "whyRead": "275 points and 255 comments make this an active technical discussion."
+      "signal": 107,
+      "comments": 34,
+      "whyRead": "107 points and 34 comments make this an active technical discussion."
     },
     {
       "id": "ed95f356066f24",
@@ -33,20 +33,6 @@
       "publishedAt": "Fri, 16 Oct 2026 07:40:00 GMT",
       "readingMinutes": 5,
       "whyRead": "Ryan is joined by Gabriela Moreira, CEO at Quint, about why formal specification languages like TLA+ are essential for catching system design flaws before writing co"
-    },
-    {
-      "id": "d48626ffd08386",
-      "title": "Do you let LLMs write both your tests and your code?",
-      "url": "https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your",
-      "source": "Lobsters",
-      "topic": "Programming",
-      "track": "engineering",
-      "section": "brief",
-      "kind": "current",
-      "summary": "I'm curious what stance others have taken? Or what they've experienced with this? I'm toying with adding a rule to our values.md that the LLM can only significantly generate one or the other. I'm reviewing a merge request at the moment where it's clear the LLM mostly did both, an",
-      "publishedAt": "Fri, 16 Oct 2026 18:53:05 -0500",
-      "readingMinutes": 5,
-      "whyRead": "I'm curious what stance others have taken? "
     },
     {
       "id": "1d3c9a7d669a9f",
@@ -77,18 +63,32 @@
       "whyRead": "Put native GitHub features to work to review outside collaborator access and archive stale repositories. "
     },
     {
-      "id": "fallback-eng-3",
-      "title": "Latency numbers every programmer should know",
-      "url": "https://gist.github.com/jboner/2841832",
-      "source": "Jeff Dean notes",
-      "topic": "Performance",
+      "id": "4fcc22ace6cff5",
+      "title": "Introducing the Agent Experience (AX) Practitioner Playbook",
+      "url": "https://devblogs.microsoft.com/blog/introducing-the-agent-experience-ax-practitioner-playbook/",
+      "source": "Microsoft Dev Blogs",
+      "topic": "Developer tools",
+      "track": "engineering",
+      "section": "brief",
+      "kind": "current",
+      "summary": "AI coding agents now pick the SDK, the version, and the pattern for your developers. The AX Practitioner Playbook is our method for finding out whether they get your technology right, and for fixing the sources they rely on when they don't. The post Introducing the Agent Experien",
+      "publishedAt": "Fri, 09 Oct 2026 09:44:25 +0000",
+      "readingMinutes": 5,
+      "whyRead": "AI coding agents now pick the SDK, the version, and the pattern for your developers. "
+    },
+    {
+      "id": "fallback-eng-1",
+      "title": "How to write a good software design document",
+      "url": "https://www.industrialempathy.com/posts/design-docs-at-google/",
+      "source": "Industrial Empathy",
+      "topic": "Architecture",
       "track": "engineering",
       "section": "evergreen",
-      "summary": "A compact mental model for the relative cost of CPU, memory, networks and storage.",
+      "summary": "A practical structure for explaining context, goals, alternatives, trade-offs and implementation plans before code is written.",
       "publishedAt": null,
-      "readingMinutes": 4,
+      "readingMinutes": 8,
       "kind": "evergreen",
-      "whyRead": "A compact mental model for the relative cost of CPU, memory, networks and storage."
+      "whyRead": "A practical structure for explaining context, goals, alternatives, trade-offs and implementation plans before code is written."
     }
   ]
 }
