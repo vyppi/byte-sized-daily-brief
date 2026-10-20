@@ -1,52 +1,52 @@
 {
-  "editionDate": "2026-10-19",
-  "edition": "2026.292",
-  "generatedAt": "2026-10-19T04:41:52.342Z",
+  "editionDate": "2026-10-20",
+  "edition": "2026.293",
+  "generatedAt": "2026-10-20T04:51:50.875Z",
   "sourceCount": 6,
   "items": [
     {
-      "id": "hn-50145337",
-      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-      "url": "https://arxiv.org/abs/2610.18861",
+      "id": "hn-50159341",
+      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
       "source": "Hacker News",
       "topic": "Community signal",
       "track": "engineering",
       "section": "brief",
       "kind": "current",
-      "summary": "283 points and 156 comments on Hacker News.",
-      "publishedAt": "2026-10-18T20:48:14.000Z",
+      "summary": "137 points and 21 comments on Hacker News.",
+      "publishedAt": "2026-10-19T23:22:18.000Z",
       "readingMinutes": 5,
-      "signal": 283,
-      "comments": 156,
-      "whyRead": "283 points and 156 comments make this an active technical discussion."
+      "signal": 137,
+      "comments": 21,
+      "whyRead": "137 points and 21 comments make this an active technical discussion."
     },
     {
-      "id": "74da6846c4d562",
-      "title": "Updates to site guidelines and AI/LLM tags",
-      "url": "https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags",
-      "source": "Lobsters",
-      "topic": "Programming",
-      "track": "engineering",
-      "section": "brief",
-      "kind": "current",
-      "summary": "Hey folks, I've been having to perform an increasing number of moderation actions surrounding the vibecoding tag and AI/LLM related content. I started reading Lobsters because it had the most interesting viewpoints related to computing. During that time, I've found that this comm",
-      "publishedAt": "Sun, 18 Oct 2026 20:28:53 -0500",
-      "readingMinutes": 5,
-      "whyRead": "Hey folks, I've been having to perform an increasing number of moderation actions surrounding the vibecoding tag and AI/LLM related content. "
-    },
-    {
-      "id": "ed95f356066f24",
-      "title": "AI says you’re right, formal methods say you’re wrong",
-      "url": "https://stackoverflow.blog/2026/10/16/formal-methods-say-you-re-wrong/",
+      "id": "a6aff58ad2cf18",
+      "title": "Production-grade LLMs and agents: a field guide",
+      "url": "https://stackoverflow.blog/2026/10/19/production-grade-llms-and-agents-a-field-guide/",
       "source": "Stack Overflow Blog",
       "topic": "Software",
       "track": "engineering",
       "section": "brief",
       "kind": "current",
-      "summary": "Ryan is joined by Gabriela Moreira, CEO at Quint, about why formal specification languages like TLA+ are essential for catching system design flaws before writing code, how Quint brings developer-friendly syntax and executability to formal methods, and the ways trace validation a",
-      "publishedAt": "Fri, 16 Oct 2026 07:40:00 GMT",
+      "summary": "A maturity model for taking agents from an impressive demo to a system people can depend on — with a self-assessment and the map to a deep-dive on each layer.",
+      "publishedAt": "Mon, 19 Oct 2026 15:32:01 GMT",
       "readingMinutes": 5,
-      "whyRead": "Ryan is joined by Gabriela Moreira, CEO at Quint, about why formal specification languages like TLA+ are essential for catching system design flaws before writing co"
+      "whyRead": "A maturity model for taking agents from an impressive demo to a system people can depend on — with a self-assessment and the map to a deep-dive on each layer."
+    },
+    {
+      "id": "fa58d1247ed271",
+      "title": "2026 is an exciting year for the Rust compiler (and me)",
+      "url": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
+      "source": "Lobsters",
+      "topic": "Programming",
+      "track": "engineering",
+      "section": "brief",
+      "kind": "current",
+      "summary": "Comments",
+      "publishedAt": "Mon, 19 Oct 2026 12:52:41 -0500",
+      "readingMinutes": 5,
+      "whyRead": "A fresh programming perspective from Lobsters."
     },
     {
       "id": "a4331c5f507b98",
@@ -77,18 +77,18 @@
       "whyRead": "Our new repo star history API now provides trends without returning individual identities or requiring unbounded database work. "
     },
     {
-      "id": "fallback-eng-2",
-      "title": "The twelve-factor app methodology remains useful",
-      "url": "https://12factor.net/",
-      "source": "12 Factor",
-      "topic": "Systems",
+      "id": "fallback-eng-3",
+      "title": "Latency numbers every programmer should know",
+      "url": "https://gist.github.com/jboner/2841832",
+      "source": "Jeff Dean notes",
+      "topic": "Performance",
       "track": "engineering",
       "section": "evergreen",
-      "summary": "Review the durable principles behind portable, observable and operationally sound web services.",
+      "summary": "A compact mental model for the relative cost of CPU, memory, networks and storage.",
       "publishedAt": null,
-      "readingMinutes": 7,
+      "readingMinutes": 4,
       "kind": "evergreen",
-      "whyRead": "Review the durable principles behind portable, observable and operationally sound web services."
+      "whyRead": "A compact mental model for the relative cost of CPU, memory, networks and storage."
     }
   ]
 }
