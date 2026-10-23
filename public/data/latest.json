@@ -1,38 +1,52 @@
 {
-  "editionDate": "2026-10-22",
-  "edition": "2026.295",
-  "generatedAt": "2026-10-22T04:47:39.239Z",
+  "editionDate": "2026-10-23",
+  "edition": "2026.296",
+  "generatedAt": "2026-10-23T04:50:33.217Z",
   "sourceCount": 6,
   "items": [
     {
-      "id": "hn-50188948",
-      "title": "There isn't an easy exploit for this PHP vulnerability",
-      "url": "https://eliastaylor.com/noexploit/",
+      "id": "hn-50202217",
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "url": "https://www.anthropic.com/research/formal-verification",
       "source": "Hacker News",
       "topic": "Community signal",
       "track": "engineering",
       "section": "brief",
       "kind": "current",
-      "summary": "293 points and 142 comments on Hacker News.",
-      "publishedAt": "2026-10-21T23:13:27.000Z",
+      "summary": "212 points and 118 comments on Hacker News.",
+      "publishedAt": "2026-10-22T22:54:43.000Z",
       "readingMinutes": 5,
-      "signal": 293,
-      "comments": 142,
-      "whyRead": "293 points and 142 comments make this an active technical discussion."
+      "signal": 212,
+      "comments": 118,
+      "whyRead": "212 points and 118 comments make this an active technical discussion."
     },
     {
-      "id": "63526e7a5918e2",
-      "title": "Survey Says: You&#x27;ll swap the model, but everything you build around it is staying put",
-      "url": "https://stackoverflow.blog/2026/10/21/survey-says-you-ll-swap-the-model-but-everything-you-build-around-it-is-staying-put/",
+      "id": "c8ba97a4c94899",
+      "title": "The Regression Tests Nobody Writes: Capturing How Software Actually Behaves",
+      "url": "https://stackoverflow.blog/2026/10/22/the-regression-tests-nobody-writes-capturing-how-software-actually-behaves/",
       "source": "Stack Overflow Blog",
       "topic": "Software",
       "track": "engineering",
       "section": "brief",
       "kind": "current",
-      "summary": "Earlier this month, my team at Stacklok surveyed 520 technical leaders to understand whether they were concerned about being locked into frontier labs. The data says they’re already swapping models in and out, but the trap they’re concerned about is the layer on top of the model.",
-      "publishedAt": "Wed, 21 Oct 2026 14:00:00 GMT",
+      "summary": "",
+      "publishedAt": "Thu, 22 Oct 2026 19:37:29 GMT",
       "readingMinutes": 5,
-      "whyRead": "Earlier this month, my team at Stacklok surveyed 520 technical leaders to understand whether they were concerned about being locked into frontier labs. "
+      "whyRead": "A fresh software perspective from Stack Overflow Blog."
+    },
+    {
+      "id": "e5351e54fe796b",
+      "title": "The Many Many Missed Opportunities of Sonic 06",
+      "url": "https://isaacmarovitz.com/posts/sonic-06/",
+      "source": "Lobsters",
+      "topic": "Programming",
+      "track": "engineering",
+      "section": "brief",
+      "kind": "current",
+      "summary": "Comments",
+      "publishedAt": "Thu, 22 Oct 2026 23:30:10 -0500",
+      "readingMinutes": 5,
+      "whyRead": "A fresh programming perspective from Lobsters."
     },
     {
       "id": "5906a85d128778",
@@ -63,32 +77,18 @@
       "whyRead": "We moved a copy of 99.99999% of GitHub's repositories to Azure. "
     },
     {
-      "id": "a3576dbabfe4ca",
-      "title": "Node.js — Wednesday, October 21, 2026 Security Releases",
-      "url": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
-      "source": "Lobsters",
-      "topic": "Programming",
-      "track": "engineering",
-      "section": "brief",
-      "kind": "current",
-      "summary": "Comments",
-      "publishedAt": "Wed, 21 Oct 2026 10:53:37 -0500",
-      "readingMinutes": 5,
-      "whyRead": "A fresh programming perspective from Lobsters."
-    },
-    {
-      "id": "fallback-eng-2",
-      "title": "The twelve-factor app methodology remains useful",
-      "url": "https://12factor.net/",
-      "source": "12 Factor",
-      "topic": "Systems",
+      "id": "fallback-eng-3",
+      "title": "Latency numbers every programmer should know",
+      "url": "https://gist.github.com/jboner/2841832",
+      "source": "Jeff Dean notes",
+      "topic": "Performance",
       "track": "engineering",
       "section": "evergreen",
-      "summary": "Review the durable principles behind portable, observable and operationally sound web services.",
+      "summary": "A compact mental model for the relative cost of CPU, memory, networks and storage.",
       "publishedAt": null,
-      "readingMinutes": 7,
+      "readingMinutes": 4,
       "kind": "evergreen",
-      "whyRead": "Review the durable principles behind portable, observable and operationally sound web services."
+      "whyRead": "A compact mental model for the relative cost of CPU, memory, networks and storage."
     }
   ]
 }
