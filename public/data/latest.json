@@ -1,50 +1,50 @@
 {
-  "editionDate": "2026-10-23",
-  "edition": "2026.296",
-  "generatedAt": "2026-10-23T04:50:33.217Z",
+  "editionDate": "2026-10-24",
+  "edition": "2026.297",
+  "generatedAt": "2026-10-24T04:37:56.600Z",
   "sourceCount": 6,
   "items": [
     {
-      "id": "hn-50202217",
-      "title": "LLMs are making formal software verification feasible at a much larger scale",
-      "url": "https://www.anthropic.com/research/formal-verification",
+      "id": "hn-50216791",
+      "title": "Evolving Threat: http2shell is an RCE in Node, Python, and more",
+      "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
       "source": "Hacker News",
       "topic": "Community signal",
       "track": "engineering",
       "section": "brief",
       "kind": "current",
-      "summary": "212 points and 118 comments on Hacker News.",
-      "publishedAt": "2026-10-22T22:54:43.000Z",
+      "summary": "123 points and 68 comments on Hacker News.",
+      "publishedAt": "2026-10-23T23:30:17.000Z",
       "readingMinutes": 5,
-      "signal": 212,
-      "comments": 118,
-      "whyRead": "212 points and 118 comments make this an active technical discussion."
+      "signal": 123,
+      "comments": 68,
+      "whyRead": "123 points and 68 comments make this an active technical discussion."
     },
     {
-      "id": "c8ba97a4c94899",
-      "title": "The Regression Tests Nobody Writes: Capturing How Software Actually Behaves",
-      "url": "https://stackoverflow.blog/2026/10/22/the-regression-tests-nobody-writes-capturing-how-software-actually-behaves/",
+      "id": "5eeabd5a78e717",
+      "title": "Rumors of the SaaS demise are greatly exaggerated",
+      "url": "https://stackoverflow.blog/2026/10/23/rumors-of-the-saas-demise-are-greatly-exaggerated/",
       "source": "Stack Overflow Blog",
       "topic": "Software",
       "track": "engineering",
       "section": "brief",
       "kind": "current",
-      "summary": "",
-      "publishedAt": "Thu, 22 Oct 2026 19:37:29 GMT",
+      "summary": "Recorded on the floor of LDX3, Ryan chats with Nivia Henry, an engineering leader most recently at Netflix, about the reality of the supposed SaaS apocalypse, the complex calculus of the modern build-versus-buy decision in the era of AI, and the critical importance of understandi",
+      "publishedAt": "Fri, 23 Oct 2026 07:40:00 GMT",
       "readingMinutes": 5,
-      "whyRead": "A fresh software perspective from Stack Overflow Blog."
+      "whyRead": "Recorded on the floor of LDX3, Ryan chats with Nivia Henry, an engineering leader most recently at Netflix, about the reality of the supposed SaaS apocalypse, the co"
     },
     {
-      "id": "e5351e54fe796b",
-      "title": "The Many Many Missed Opportunities of Sonic 06",
-      "url": "https://isaacmarovitz.com/posts/sonic-06/",
+      "id": "142fda8eafb852",
+      "title": "Distributed data, centralized fixes",
+      "url": "https://miren.dev/blog/distributed-data-centralized-fixes",
       "source": "Lobsters",
       "topic": "Programming",
       "track": "engineering",
       "section": "brief",
       "kind": "current",
       "summary": "Comments",
-      "publishedAt": "Thu, 22 Oct 2026 23:30:10 -0500",
+      "publishedAt": "Fri, 23 Oct 2026 14:50:52 -0500",
       "readingMinutes": 5,
       "whyRead": "A fresh programming perspective from Lobsters."
     },
@@ -77,18 +77,18 @@
       "whyRead": "We moved a copy of 99.99999% of GitHub's repositories to Azure. "
     },
     {
-      "id": "fallback-eng-3",
-      "title": "Latency numbers every programmer should know",
-      "url": "https://gist.github.com/jboner/2841832",
-      "source": "Jeff Dean notes",
-      "topic": "Performance",
+      "id": "fallback-eng-1",
+      "title": "How to write a good software design document",
+      "url": "https://www.industrialempathy.com/posts/design-docs-at-google/",
+      "source": "Industrial Empathy",
+      "topic": "Architecture",
       "track": "engineering",
       "section": "evergreen",
-      "summary": "A compact mental model for the relative cost of CPU, memory, networks and storage.",
+      "summary": "A practical structure for explaining context, goals, alternatives, trade-offs and implementation plans before code is written.",
       "publishedAt": null,
-      "readingMinutes": 4,
+      "readingMinutes": 8,
       "kind": "evergreen",
-      "whyRead": "A compact mental model for the relative cost of CPU, memory, networks and storage."
+      "whyRead": "A practical structure for explaining context, goals, alternatives, trade-offs and implementation plans before code is written."
     }
   ]
 }
