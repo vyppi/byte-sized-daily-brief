@@ -1,24 +1,38 @@
 {
-  "editionDate": "2026-10-24",
-  "edition": "2026.297",
-  "generatedAt": "2026-10-24T04:37:56.600Z",
+  "editionDate": "2026-10-25",
+  "edition": "2026.298",
+  "generatedAt": "2026-10-25T04:42:29.526Z",
   "sourceCount": 6,
   "items": [
     {
-      "id": "hn-50216791",
-      "title": "Evolving Threat: http2shell is an RCE in Node, Python, and more",
-      "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+      "id": "hn-50222622",
+      "title": "Roku developer repositories moved from GitHub to GitLab",
+      "url": "https://blog.roku.com/developer/gitlab-move",
       "source": "Hacker News",
       "topic": "Community signal",
       "track": "engineering",
       "section": "brief",
       "kind": "current",
-      "summary": "123 points and 68 comments on Hacker News.",
-      "publishedAt": "2026-10-23T23:30:17.000Z",
+      "summary": "273 points and 186 comments on Hacker News.",
+      "publishedAt": "2026-10-24T16:06:26.000Z",
       "readingMinutes": 5,
-      "signal": 123,
-      "comments": 68,
-      "whyRead": "123 points and 68 comments make this an active technical discussion."
+      "signal": 273,
+      "comments": 186,
+      "whyRead": "273 points and 186 comments make this an active technical discussion."
+    },
+    {
+      "id": "4a92c81355f440",
+      "title": "MacOS Extensions pack for the Apple Network Server v1.0",
+      "url": "http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html",
+      "source": "Lobsters",
+      "topic": "Programming",
+      "track": "engineering",
+      "section": "brief",
+      "kind": "current",
+      "summary": "Comments",
+      "publishedAt": "Sat, 24 Oct 2026 20:22:45 -0500",
+      "readingMinutes": 5,
+      "whyRead": "A fresh programming perspective from Lobsters."
     },
     {
       "id": "5eeabd5a78e717",
@@ -35,18 +49,18 @@
       "whyRead": "Recorded on the floor of LDX3, Ryan chats with Nivia Henry, an engineering leader most recently at Netflix, about the reality of the supposed SaaS apocalypse, the co"
     },
     {
-      "id": "142fda8eafb852",
-      "title": "Distributed data, centralized fixes",
-      "url": "https://miren.dev/blog/distributed-data-centralized-fixes",
-      "source": "Lobsters",
-      "topic": "Programming",
+      "id": "840b3233565357",
+      "title": "Can a local git remote replace GitHub in your agent eval?",
+      "url": "https://devblogs.microsoft.com/blog/can-a-local-git-remote-replace-github-in-your-agent-eval/",
+      "source": "Microsoft Dev Blogs",
+      "topic": "Developer tools",
       "track": "engineering",
       "section": "brief",
       "kind": "current",
-      "summary": "Comments",
-      "publishedAt": "Fri, 23 Oct 2026 14:50:52 -0500",
+      "summary": "We swapped GitHub for a local git remote in our agent evals. Rebasing and pushing on request were unaffected, but the agent pushed on its own 11 points less often. Here's when a local remote is a safe shortcut, and when it isn't. The post Can a local git remote replace GitHub in ",
+      "publishedAt": "Tue, 20 Oct 2026 14:53:27 +0000",
       "readingMinutes": 5,
-      "whyRead": "A fresh programming perspective from Lobsters."
+      "whyRead": "We swapped GitHub for a local git remote in our agent evals. "
     },
     {
       "id": "5906a85d128778",
@@ -63,32 +77,18 @@
       "whyRead": "Gergely Orosz is frustrated at those that entered his explicitly “No AI” essay competition and used AI. "
     },
     {
-      "id": "06b2db55f893dc",
-      "title": "The bridge to agent-scale Git infrastructure",
-      "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
-      "source": "GitHub Engineering",
-      "topic": "Engineering",
-      "track": "engineering",
-      "section": "brief",
-      "kind": "current",
-      "summary": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appeared first on The GitHub Blog .",
-      "publishedAt": "Wed, 21 Oct 2026 16:00:00 +0000",
-      "readingMinutes": 5,
-      "whyRead": "We moved a copy of 99.99999% of GitHub's repositories to Azure. "
-    },
-    {
-      "id": "fallback-eng-1",
-      "title": "How to write a good software design document",
-      "url": "https://www.industrialempathy.com/posts/design-docs-at-google/",
-      "source": "Industrial Empathy",
-      "topic": "Architecture",
+      "id": "fallback-eng-2",
+      "title": "The twelve-factor app methodology remains useful",
+      "url": "https://12factor.net/",
+      "source": "12 Factor",
+      "topic": "Systems",
       "track": "engineering",
       "section": "evergreen",
-      "summary": "A practical structure for explaining context, goals, alternatives, trade-offs and implementation plans before code is written.",
+      "summary": "Review the durable principles behind portable, observable and operationally sound web services.",
       "publishedAt": null,
-      "readingMinutes": 8,
+      "readingMinutes": 7,
       "kind": "evergreen",
-      "whyRead": "A practical structure for explaining context, goals, alternatives, trade-offs and implementation plans before code is written."
+      "whyRead": "Review the durable principles behind portable, observable and operationally sound web services."
     }
   ]
 }
