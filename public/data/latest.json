@@ -1,52 +1,52 @@
 {
-  "editionDate": "2026-10-25",
-  "edition": "2026.298",
-  "generatedAt": "2026-10-25T04:42:29.526Z",
+  "editionDate": "2026-10-26",
+  "edition": "2026.299",
+  "generatedAt": "2026-10-26T04:48:23.786Z",
   "sourceCount": 6,
   "items": [
     {
-      "id": "hn-50222622",
-      "title": "Roku developer repositories moved from GitHub to GitLab",
-      "url": "https://blog.roku.com/developer/gitlab-move",
+      "id": "hn-50236102",
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "url": "https://minimaxir.com/2026/10/cheap-llms/",
       "source": "Hacker News",
       "topic": "Community signal",
       "track": "engineering",
       "section": "brief",
       "kind": "current",
-      "summary": "273 points and 186 comments on Hacker News.",
-      "publishedAt": "2026-10-24T16:06:26.000Z",
+      "summary": "215 points and 245 comments on Hacker News.",
+      "publishedAt": "2026-10-25T21:11:31.000Z",
       "readingMinutes": 5,
-      "signal": 273,
-      "comments": 186,
-      "whyRead": "273 points and 186 comments make this an active technical discussion."
+      "signal": 215,
+      "comments": 245,
+      "whyRead": "215 points and 245 comments make this an active technical discussion."
     },
     {
-      "id": "4a92c81355f440",
-      "title": "MacOS Extensions pack for the Apple Network Server v1.0",
-      "url": "http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html",
+      "id": "a775a24deaef43",
+      "title": "Simple NetBSD webserver",
+      "url": "https://bsandro.tech/posts/simple-netbsd-webserver/",
       "source": "Lobsters",
       "topic": "Programming",
       "track": "engineering",
       "section": "brief",
       "kind": "current",
       "summary": "Comments",
-      "publishedAt": "Sat, 24 Oct 2026 20:22:45 -0500",
+      "publishedAt": "Sun, 25 Oct 2026 18:13:40 -0500",
       "readingMinutes": 5,
       "whyRead": "A fresh programming perspective from Lobsters."
     },
     {
-      "id": "5eeabd5a78e717",
-      "title": "Rumors of the SaaS demise are greatly exaggerated",
-      "url": "https://stackoverflow.blog/2026/10/23/rumors-of-the-saas-demise-are-greatly-exaggerated/",
+      "id": "ed95f356066f24",
+      "title": "AI says you’re right, formal methods say you’re wrong",
+      "url": "https://stackoverflow.blog/2026/10/16/formal-methods-say-you-re-wrong/",
       "source": "Stack Overflow Blog",
       "topic": "Software",
       "track": "engineering",
       "section": "brief",
       "kind": "current",
-      "summary": "Recorded on the floor of LDX3, Ryan chats with Nivia Henry, an engineering leader most recently at Netflix, about the reality of the supposed SaaS apocalypse, the complex calculus of the modern build-versus-buy decision in the era of AI, and the critical importance of understandi",
-      "publishedAt": "Fri, 23 Oct 2026 07:40:00 GMT",
+      "summary": "Ryan is joined by Gabriela Moreira, CEO at Quint, about why formal specification languages like TLA+ are essential for catching system design flaws before writing code, how Quint brings developer-friendly syntax and executability to formal methods, and the ways trace validation a",
+      "publishedAt": "Fri, 16 Oct 2026 07:40:00 GMT",
       "readingMinutes": 5,
-      "whyRead": "Recorded on the floor of LDX3, Ryan chats with Nivia Henry, an engineering leader most recently at Netflix, about the reality of the supposed SaaS apocalypse, the co"
+      "whyRead": "Ryan is joined by Gabriela Moreira, CEO at Quint, about why formal specification languages like TLA+ are essential for catching system design flaws before writing co"
     },
     {
       "id": "840b3233565357",
@@ -77,18 +77,18 @@
       "whyRead": "Gergely Orosz is frustrated at those that entered his explicitly “No AI” essay competition and used AI. "
     },
     {
-      "id": "fallback-eng-2",
-      "title": "The twelve-factor app methodology remains useful",
-      "url": "https://12factor.net/",
-      "source": "12 Factor",
-      "topic": "Systems",
+      "id": "fallback-eng-3",
+      "title": "Latency numbers every programmer should know",
+      "url": "https://gist.github.com/jboner/2841832",
+      "source": "Jeff Dean notes",
+      "topic": "Performance",
       "track": "engineering",
       "section": "evergreen",
-      "summary": "Review the durable principles behind portable, observable and operationally sound web services.",
+      "summary": "A compact mental model for the relative cost of CPU, memory, networks and storage.",
       "publishedAt": null,
-      "readingMinutes": 7,
+      "readingMinutes": 4,
       "kind": "evergreen",
-      "whyRead": "Review the durable principles behind portable, observable and operationally sound web services."
+      "whyRead": "A compact mental model for the relative cost of CPU, memory, networks and storage."
     }
   ]
 }

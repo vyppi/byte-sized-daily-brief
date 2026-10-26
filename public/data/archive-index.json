@@ -1,6 +1,100 @@
 {
-  "generatedAt": "2026-10-25T04:42:29.526Z",
+  "generatedAt": "2026-10-26T04:48:23.786Z",
   "editions": [
+    {
+      "editionDate": "2026-10-26",
+      "edition": "2026.299",
+      "generatedAt": "2026-10-26T04:48:23.786Z",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "hn-50236102",
+          "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+          "url": "https://minimaxir.com/2026/10/cheap-llms/",
+          "source": "Hacker News",
+          "topic": "Community signal",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "215 points and 245 comments on Hacker News.",
+          "publishedAt": "2026-10-25T21:11:31.000Z",
+          "readingMinutes": 5,
+          "signal": 215,
+          "comments": 245,
+          "whyRead": "215 points and 245 comments make this an active technical discussion."
+        },
+        {
+          "id": "a775a24deaef43",
+          "title": "Simple NetBSD webserver",
+          "url": "https://bsandro.tech/posts/simple-netbsd-webserver/",
+          "source": "Lobsters",
+          "topic": "Programming",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Comments",
+          "publishedAt": "Sun, 25 Oct 2026 18:13:40 -0500",
+          "readingMinutes": 5,
+          "whyRead": "A fresh programming perspective from Lobsters."
+        },
+        {
+          "id": "ed95f356066f24",
+          "title": "AI says you’re right, formal methods say you’re wrong",
+          "url": "https://stackoverflow.blog/2026/10/16/formal-methods-say-you-re-wrong/",
+          "source": "Stack Overflow Blog",
+          "topic": "Software",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Ryan is joined by Gabriela Moreira, CEO at Quint, about why formal specification languages like TLA+ are essential for catching system design flaws before writing code, how Quint brings developer-friendly syntax and executability to formal methods, and the ways trace validation a",
+          "publishedAt": "Fri, 16 Oct 2026 07:40:00 GMT",
+          "readingMinutes": 5,
+          "whyRead": "Ryan is joined by Gabriela Moreira, CEO at Quint, about why formal specification languages like TLA+ are essential for catching system design flaws before writing co"
+        },
+        {
+          "id": "840b3233565357",
+          "title": "Can a local git remote replace GitHub in your agent eval?",
+          "url": "https://devblogs.microsoft.com/blog/can-a-local-git-remote-replace-github-in-your-agent-eval/",
+          "source": "Microsoft Dev Blogs",
+          "topic": "Developer tools",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "We swapped GitHub for a local git remote in our agent evals. Rebasing and pushing on request were unaffected, but the agent pushed on its own 11 points less often. Here's when a local remote is a safe shortcut, and when it isn't. The post Can a local git remote replace GitHub in ",
+          "publishedAt": "Tue, 20 Oct 2026 14:53:27 +0000",
+          "readingMinutes": 5,
+          "whyRead": "We swapped GitHub for a local git remote in our agent evals. "
+        },
+        {
+          "id": "5906a85d128778",
+          "title": "Fragments: October 21",
+          "url": "https://martinfowler.com/fragments/2026-10-21.html",
+          "source": "Martin Fowler",
+          "topic": "Architecture",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Gergely Orosz is frustrated at those that entered his explicitly “No AI” essay competition and used AI. He goes on to say: When I start to suspect some part is AI about someone I don’t know: how can I tell how much of it is? And how much time and effort do I want to invest to fig",
+          "publishedAt": "2026-10-21T12:51:00+02:00",
+          "readingMinutes": 5,
+          "whyRead": "Gergely Orosz is frustrated at those that entered his explicitly “No AI” essay competition and used AI. "
+        },
+        {
+          "id": "fallback-eng-3",
+          "title": "Latency numbers every programmer should know",
+          "url": "https://gist.github.com/jboner/2841832",
+          "source": "Jeff Dean notes",
+          "topic": "Performance",
+          "track": "engineering",
+          "section": "evergreen",
+          "summary": "A compact mental model for the relative cost of CPU, memory, networks and storage.",
+          "publishedAt": null,
+          "readingMinutes": 4,
+          "kind": "evergreen",
+          "whyRead": "A compact mental model for the relative cost of CPU, memory, networks and storage."
+        }
+      ]
+    },
     {
       "editionDate": "2026-10-25",
       "edition": "2026.298",
