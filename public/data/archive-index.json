@@ -1,6 +1,100 @@
 {
-  "generatedAt": "2026-10-26T04:48:23.786Z",
+  "generatedAt": "2026-10-27T05:06:17.430Z",
   "editions": [
+    {
+      "editionDate": "2026-10-27",
+      "edition": "2026.300",
+      "generatedAt": "2026-10-27T05:06:17.430Z",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "cdaad191abd949",
+          "title": "Elevators, toasters, and the birth of Java",
+          "url": "https://stackoverflow.blog/2026/10/27/elevators-toasters-and-the-birth-of-java/",
+          "source": "Stack Overflow Blog",
+          "topic": "Software",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Ryan sits down with James Gosling, creator of Java at Sun Microsystems, to talk about the early networking friction that drove the need for interconnectedness, the stringent reliability requirements of consumer electronics companies that inspired the Java virtual machine, and the",
+          "publishedAt": "Tue, 27 Oct 2026 07:40:00 GMT",
+          "readingMinutes": 5,
+          "whyRead": "Ryan sits down with James Gosling, creator of Java at Sun Microsystems, to talk about the early networking friction that drove the need for interconnectedness, the s"
+        },
+        {
+          "id": "hn-50252159",
+          "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+          "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+          "source": "Hacker News",
+          "topic": "Community signal",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "102 points and 33 comments on Hacker News.",
+          "publishedAt": "2026-10-26T22:41:48.000Z",
+          "readingMinutes": 5,
+          "signal": 102,
+          "comments": 33,
+          "whyRead": "102 points and 33 comments make this an active technical discussion."
+        },
+        {
+          "id": "d991a099742e70",
+          "title": "PostgreSQL Like A Pro: Build, query, and troubleshoot without leaving VS Code",
+          "url": "https://devblogs.microsoft.com/blog/postgresql-like-a-pro-vscode/",
+          "source": "Microsoft Dev Blogs",
+          "topic": "Developer tools",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Build, query, and troubleshoot without leaving VS Code. The post PostgreSQL Like A Pro: Build, query, and troubleshoot without leaving VS Code appeared first on Microsoft for Developers .",
+          "publishedAt": "Mon, 26 Oct 2026 15:05:12 +0000",
+          "readingMinutes": 5,
+          "whyRead": "Build, query, and troubleshoot without leaving VS Code. "
+        },
+        {
+          "id": "168b9472385a69",
+          "title": "Stalwart v1.0: The Fastest Mail Server on the Planet",
+          "url": "https://stalw.art/blog/stalwart-1-0/",
+          "source": "Lobsters",
+          "topic": "Programming",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Comments",
+          "publishedAt": "Mon, 26 Oct 2026 11:28:12 -0500",
+          "readingMinutes": 5,
+          "whyRead": "A fresh programming perspective from Lobsters."
+        },
+        {
+          "id": "5906a85d128778",
+          "title": "Fragments: October 21",
+          "url": "https://martinfowler.com/fragments/2026-10-21.html",
+          "source": "Martin Fowler",
+          "topic": "Architecture",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Gergely Orosz is frustrated at those that entered his explicitly “No AI” essay competition and used AI. He goes on to say: When I start to suspect some part is AI about someone I don’t know: how can I tell how much of it is? And how much time and effort do I want to invest to fig",
+          "publishedAt": "2026-10-21T12:51:00+02:00",
+          "readingMinutes": 5,
+          "whyRead": "Gergely Orosz is frustrated at those that entered his explicitly “No AI” essay competition and used AI. "
+        },
+        {
+          "id": "fallback-eng-1",
+          "title": "How to write a good software design document",
+          "url": "https://www.industrialempathy.com/posts/design-docs-at-google/",
+          "source": "Industrial Empathy",
+          "topic": "Architecture",
+          "track": "engineering",
+          "section": "evergreen",
+          "summary": "A practical structure for explaining context, goals, alternatives, trade-offs and implementation plans before code is written.",
+          "publishedAt": null,
+          "readingMinutes": 8,
+          "kind": "evergreen",
+          "whyRead": "A practical structure for explaining context, goals, alternatives, trade-offs and implementation plans before code is written."
+        }
+      ]
+    },
     {
       "editionDate": "2026-10-26",
       "edition": "2026.299",
