@@ -1,6 +1,100 @@
 {
-  "generatedAt": "2026-10-27T05:06:17.430Z",
+  "generatedAt": "2026-10-28T05:43:17.213Z",
   "editions": [
+    {
+      "editionDate": "2026-10-28",
+      "edition": "2026.301",
+      "generatedAt": "2026-10-28T05:43:17.213Z",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "hn-50264853",
+          "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+          "url": "https://www.brangus.io/survival-llm",
+          "source": "Hacker News",
+          "topic": "Community signal",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "269 points and 120 comments on Hacker News.",
+          "publishedAt": "2026-10-27T19:55:06.000Z",
+          "readingMinutes": 5,
+          "signal": 269,
+          "comments": 120,
+          "whyRead": "269 points and 120 comments make this an active technical discussion."
+        },
+        {
+          "id": "cdaad191abd949",
+          "title": "Elevators, toasters, and the birth of Java",
+          "url": "https://stackoverflow.blog/2026/10/27/elevators-toasters-and-the-birth-of-java/",
+          "source": "Stack Overflow Blog",
+          "topic": "Software",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Ryan sits down with James Gosling, creator of Java at Sun Microsystems, to talk about the early networking friction that drove the need for interconnectedness, the stringent reliability requirements of consumer electronics companies that inspired the Java virtual machine, and the",
+          "publishedAt": "Tue, 27 Oct 2026 07:40:00 GMT",
+          "readingMinutes": 5,
+          "whyRead": "Ryan sits down with James Gosling, creator of Java at Sun Microsystems, to talk about the early networking friction that drove the need for interconnectedness, the s"
+        },
+        {
+          "id": "dd82adb37bcd35",
+          "title": "The next circle of security hell",
+          "url": "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/",
+          "source": "Lobsters",
+          "topic": "Programming",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Comments",
+          "publishedAt": "Tue, 27 Oct 2026 15:10:56 -0500",
+          "readingMinutes": 5,
+          "whyRead": "A fresh programming perspective from Lobsters."
+        },
+        {
+          "id": "d991a099742e70",
+          "title": "PostgreSQL Like A Pro: Build, query, and troubleshoot without leaving VS Code",
+          "url": "https://devblogs.microsoft.com/blog/postgresql-like-a-pro-vscode/",
+          "source": "Microsoft Dev Blogs",
+          "topic": "Developer tools",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Build, query, and troubleshoot without leaving VS Code. The post PostgreSQL Like A Pro: Build, query, and troubleshoot without leaving VS Code appeared first on Microsoft for Developers .",
+          "publishedAt": "Mon, 26 Oct 2026 15:05:12 +0000",
+          "readingMinutes": 5,
+          "whyRead": "Build, query, and troubleshoot without leaving VS Code. "
+        },
+        {
+          "id": "5906a85d128778",
+          "title": "Fragments: October 21",
+          "url": "https://martinfowler.com/fragments/2026-10-21.html",
+          "source": "Martin Fowler",
+          "topic": "Architecture",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Gergely Orosz is frustrated at those that entered his explicitly “No AI” essay competition and used AI. He goes on to say: When I start to suspect some part is AI about someone I don’t know: how can I tell how much of it is? And how much time and effort do I want to invest to fig",
+          "publishedAt": "2026-10-21T12:51:00+02:00",
+          "readingMinutes": 5,
+          "whyRead": "Gergely Orosz is frustrated at those that entered his explicitly “No AI” essay competition and used AI. "
+        },
+        {
+          "id": "fallback-eng-2",
+          "title": "The twelve-factor app methodology remains useful",
+          "url": "https://12factor.net/",
+          "source": "12 Factor",
+          "topic": "Systems",
+          "track": "engineering",
+          "section": "evergreen",
+          "summary": "Review the durable principles behind portable, observable and operationally sound web services.",
+          "publishedAt": null,
+          "readingMinutes": 7,
+          "kind": "evergreen",
+          "whyRead": "Review the durable principles behind portable, observable and operationally sound web services."
+        }
+      ]
+    },
     {
       "editionDate": "2026-10-27",
       "edition": "2026.300",
