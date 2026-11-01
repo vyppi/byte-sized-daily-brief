@@ -1,24 +1,38 @@
 {
-  "editionDate": "2026-10-31",
-  "edition": "2026.304",
-  "generatedAt": "2026-10-31T05:42:33.762Z",
+  "editionDate": "2026-11-01",
+  "edition": "2026.305",
+  "generatedAt": "2026-11-01T06:06:04.690Z",
   "sourceCount": 6,
   "items": [
     {
-      "id": "hn-50310398",
-      "title": "sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
-      "url": "https://www.firezone.dev/blog/introducing-sanstun",
+      "id": "hn-50320588",
+      "title": "ChatGPT and Codex usage limits merging",
+      "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
       "source": "Hacker News",
       "topic": "Community signal",
       "track": "engineering",
       "section": "brief",
       "kind": "current",
-      "summary": "99 points and 17 comments on Hacker News.",
-      "publishedAt": "2026-10-30T21:30:00.000Z",
+      "summary": "59 points and 22 comments on Hacker News.",
+      "publishedAt": "2026-10-31T21:49:07.000Z",
       "readingMinutes": 5,
-      "signal": 99,
-      "comments": 17,
-      "whyRead": "99 points and 17 comments make this an active technical discussion."
+      "signal": 59,
+      "comments": 22,
+      "whyRead": "59 points and 22 comments make this an active technical discussion."
+    },
+    {
+      "id": "06d9209413e527",
+      "title": "Introducing Kwi, a new KDE terminal emulator",
+      "url": "https://blogs.kde.org/2026/11/01/introducing-kwi/",
+      "source": "Lobsters",
+      "topic": "Programming",
+      "track": "engineering",
+      "section": "brief",
+      "kind": "current",
+      "summary": "Comments",
+      "publishedAt": "Sat, 31 Oct 2026 21:56:29 -0500",
+      "readingMinutes": 5,
+      "whyRead": "A fresh programming perspective from Lobsters."
     },
     {
       "id": "3e08a8ff7e3ee2",
@@ -49,20 +63,6 @@
       "whyRead": "Your eval might be telling the agent it’s a test before the agent reads a single instruction. "
     },
     {
-      "id": "0624a96c6f78da",
-      "title": "Rationale for filtering LLM usage links as off-topic",
-      "url": "https://lobste.rs/s/spv7tb/rationale_for_filtering_llm_usage_links",
-      "source": "Lobsters",
-      "topic": "Programming",
-      "track": "engineering",
-      "section": "brief",
-      "kind": "current",
-      "summary": "Hi, I've been following recent moderation changes and the discussion around them. I understand that the vibecoding tag was conflating multiple meanings and uses, and how moving to the building-LLM-tooling makes it more precise for that subset of the discussion. I also see how peo",
-      "publishedAt": "Fri, 30 Oct 2026 11:49:53 -0500",
-      "readingMinutes": 5,
-      "whyRead": "Hi, I've been following recent moderation changes and the discussion around them. "
-    },
-    {
       "id": "3c8639c8835361",
       "title": "Bliki: LLM Voice",
       "url": "https://martinfowler.com/bliki/LLM-Voice.html",
@@ -77,18 +77,18 @@
       "whyRead": "Sometimes when I read a post, I get the growing feeling that I'm reading the output of an LLM. "
     },
     {
-      "id": "fallback-eng-2",
-      "title": "The twelve-factor app methodology remains useful",
-      "url": "https://12factor.net/",
-      "source": "12 Factor",
-      "topic": "Systems",
+      "id": "fallback-eng-3",
+      "title": "Latency numbers every programmer should know",
+      "url": "https://gist.github.com/jboner/2841832",
+      "source": "Jeff Dean notes",
+      "topic": "Performance",
       "track": "engineering",
       "section": "evergreen",
-      "summary": "Review the durable principles behind portable, observable and operationally sound web services.",
+      "summary": "A compact mental model for the relative cost of CPU, memory, networks and storage.",
       "publishedAt": null,
-      "readingMinutes": 7,
+      "readingMinutes": 4,
       "kind": "evergreen",
-      "whyRead": "Review the durable principles behind portable, observable and operationally sound web services."
+      "whyRead": "A compact mental model for the relative cost of CPU, memory, networks and storage."
     }
   ]
 }
