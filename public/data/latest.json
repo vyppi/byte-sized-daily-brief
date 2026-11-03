@@ -1,52 +1,52 @@
 {
-  "editionDate": "2026-11-02",
-  "edition": "2026.306",
-  "generatedAt": "2026-11-02T06:04:23.919Z",
+  "editionDate": "2026-11-03",
+  "edition": "2026.307",
+  "generatedAt": "2026-11-03T06:48:48.697Z",
   "sourceCount": 6,
   "items": [
     {
-      "id": "hn-50323088",
-      "title": "The AI cost of JavaScript frameworks",
-      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "id": "9bbf33dc516e22",
+      "title": "Oh, your agents need OAuth2, too",
+      "url": "https://stackoverflow.blog/2026/11/03/oh-your-agents-need-oauth2-too/",
+      "source": "Stack Overflow Blog",
+      "topic": "Software",
+      "track": "engineering",
+      "section": "brief",
+      "kind": "current",
+      "summary": "Recorded at LDX3 by LeadDev, Ryan chats with Dan Moore, Senior Director of CIAM Strategy and Identity Standards at FusionAuth, about adapting established OAuth2 protocols for the agentic era, the security necessity of giving autonomous AI agents their own distinct identities, and",
+      "publishedAt": "Tue, 03 Nov 2026 08:40:00 GMT",
+      "readingMinutes": 5,
+      "whyRead": "Recorded at LDX3 by LeadDev, Ryan chats with Dan Moore, Senior Director of CIAM Strategy and Identity Standards at FusionAuth, about adapting established OAuth2 prot"
+    },
+    {
+      "id": "hn-50341462",
+      "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+      "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
       "source": "Hacker News",
       "topic": "Community signal",
       "track": "engineering",
       "section": "brief",
       "kind": "current",
-      "summary": "336 points and 259 comments on Hacker News.",
-      "publishedAt": "2026-11-01T06:06:19.000Z",
+      "summary": "428 points and 125 comments on Hacker News.",
+      "publishedAt": "2026-11-02T18:39:38.000Z",
       "readingMinutes": 5,
-      "signal": 336,
-      "comments": 259,
-      "whyRead": "336 points and 259 comments make this an active technical discussion."
+      "signal": 428,
+      "comments": 125,
+      "whyRead": "428 points and 125 comments make this an active technical discussion."
     },
     {
-      "id": "b13967032f8dfa",
-      "title": "A400000 Winners",
-      "url": "https://oeis.org/wiki/A400K_Winners",
+      "id": "ed085158858773",
+      "title": "The road to opaque software is paved with good (engineering) intentions",
+      "url": "https://tomasp.net/longreads/closing/",
       "source": "Lobsters",
       "topic": "Programming",
       "track": "engineering",
       "section": "brief",
       "kind": "current",
       "summary": "Comments",
-      "publishedAt": "Sun, 01 Nov 2026 21:25:15 -0600",
+      "publishedAt": "Mon, 02 Nov 2026 15:42:37 -0600",
       "readingMinutes": 5,
       "whyRead": "A fresh programming perspective from Lobsters."
-    },
-    {
-      "id": "3e08a8ff7e3ee2",
-      "title": "It’s ok that computers are (sometimes) better than us",
-      "url": "https://stackoverflow.blog/2026/10/30/it-s-ok-that-computers-are-sometimes-better-than-us/",
-      "source": "Stack Overflow Blog",
-      "topic": "Software",
-      "track": "engineering",
-      "section": "brief",
-      "kind": "current",
-      "summary": "Ryan is joined by Charity Majors, co-founder and CTO at Honeycomb, for a conversation about applying the concept of immutable infrastructure to software development to treat code like cattle instead of pets, shifting the paradigm of system specifications to accommodate the rapid ",
-      "publishedAt": "Fri, 30 Oct 2026 07:40:00 GMT",
-      "readingMinutes": 5,
-      "whyRead": "Ryan is joined by Charity Majors, co-founder and CTO at Honeycomb, for a conversation about applying the concept of immutable infrastructure to software development "
     },
     {
       "id": "27a77a190f0f4b",
@@ -77,18 +77,18 @@
       "whyRead": "Sometimes when I read a post, I get the growing feeling that I'm reading the output of an LLM. "
     },
     {
-      "id": "fallback-eng-1",
-      "title": "How to write a good software design document",
-      "url": "https://www.industrialempathy.com/posts/design-docs-at-google/",
-      "source": "Industrial Empathy",
-      "topic": "Architecture",
+      "id": "fallback-eng-2",
+      "title": "The twelve-factor app methodology remains useful",
+      "url": "https://12factor.net/",
+      "source": "12 Factor",
+      "topic": "Systems",
       "track": "engineering",
       "section": "evergreen",
-      "summary": "A practical structure for explaining context, goals, alternatives, trade-offs and implementation plans before code is written.",
+      "summary": "Review the durable principles behind portable, observable and operationally sound web services.",
       "publishedAt": null,
-      "readingMinutes": 8,
+      "readingMinutes": 7,
       "kind": "evergreen",
-      "whyRead": "A practical structure for explaining context, goals, alternatives, trade-offs and implementation plans before code is written."
+      "whyRead": "Review the durable principles behind portable, observable and operationally sound web services."
     }
   ]
 }

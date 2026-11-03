@@ -1,6 +1,100 @@
 {
-  "generatedAt": "2026-11-02T06:04:23.919Z",
+  "generatedAt": "2026-11-03T06:48:48.697Z",
   "editions": [
+    {
+      "editionDate": "2026-11-03",
+      "edition": "2026.307",
+      "generatedAt": "2026-11-03T06:48:48.697Z",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "9bbf33dc516e22",
+          "title": "Oh, your agents need OAuth2, too",
+          "url": "https://stackoverflow.blog/2026/11/03/oh-your-agents-need-oauth2-too/",
+          "source": "Stack Overflow Blog",
+          "topic": "Software",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Recorded at LDX3 by LeadDev, Ryan chats with Dan Moore, Senior Director of CIAM Strategy and Identity Standards at FusionAuth, about adapting established OAuth2 protocols for the agentic era, the security necessity of giving autonomous AI agents their own distinct identities, and",
+          "publishedAt": "Tue, 03 Nov 2026 08:40:00 GMT",
+          "readingMinutes": 5,
+          "whyRead": "Recorded at LDX3 by LeadDev, Ryan chats with Dan Moore, Senior Director of CIAM Strategy and Identity Standards at FusionAuth, about adapting established OAuth2 prot"
+        },
+        {
+          "id": "hn-50341462",
+          "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+          "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+          "source": "Hacker News",
+          "topic": "Community signal",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "428 points and 125 comments on Hacker News.",
+          "publishedAt": "2026-11-02T18:39:38.000Z",
+          "readingMinutes": 5,
+          "signal": 428,
+          "comments": 125,
+          "whyRead": "428 points and 125 comments make this an active technical discussion."
+        },
+        {
+          "id": "ed085158858773",
+          "title": "The road to opaque software is paved with good (engineering) intentions",
+          "url": "https://tomasp.net/longreads/closing/",
+          "source": "Lobsters",
+          "topic": "Programming",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Comments",
+          "publishedAt": "Mon, 02 Nov 2026 15:42:37 -0600",
+          "readingMinutes": 5,
+          "whyRead": "A fresh programming perspective from Lobsters."
+        },
+        {
+          "id": "27a77a190f0f4b",
+          "title": "Publish Visual Studio Marketplace extensions securely with Trusted Publishing",
+          "url": "https://devblogs.microsoft.com/blog/trusted-publishing-visual-studio-marketplace/",
+          "source": "Microsoft Dev Blogs",
+          "topic": "Developer tools",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Publish Visual Studio Code and Visual Studio extensions from GitHub Actions or Azure Pipelines without storing a long-lived personal access token. The post Publish Visual Studio Marketplace extensions securely with Trusted Publishing appeared first on Microsoft for Developers .",
+          "publishedAt": "Wed, 28 Oct 2026 16:59:00 +0000",
+          "readingMinutes": 5,
+          "whyRead": "Publish Visual Studio Code and Visual Studio extensions from GitHub Actions or Azure Pipelines without storing a long-lived personal access token. "
+        },
+        {
+          "id": "3c8639c8835361",
+          "title": "Bliki: LLM Voice",
+          "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+          "source": "Martin Fowler",
+          "topic": "Architecture",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Sometimes when I read a post, I get the growing feeling that I'm reading the output of an LLM. I can't necessarily define why, although there are the common tells (it's not the em-dashes, it's the load-bearing tapestries). As I do this my desire to read on atrophies, sometimes to",
+          "publishedAt": "2026-10-29T10:28:00-04:00",
+          "readingMinutes": 5,
+          "whyRead": "Sometimes when I read a post, I get the growing feeling that I'm reading the output of an LLM. "
+        },
+        {
+          "id": "fallback-eng-2",
+          "title": "The twelve-factor app methodology remains useful",
+          "url": "https://12factor.net/",
+          "source": "12 Factor",
+          "topic": "Systems",
+          "track": "engineering",
+          "section": "evergreen",
+          "summary": "Review the durable principles behind portable, observable and operationally sound web services.",
+          "publishedAt": null,
+          "readingMinutes": 7,
+          "kind": "evergreen",
+          "whyRead": "Review the durable principles behind portable, observable and operationally sound web services."
+        }
+      ]
+    },
     {
       "editionDate": "2026-11-02",
       "edition": "2026.306",
