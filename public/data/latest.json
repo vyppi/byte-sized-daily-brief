@@ -1,7 +1,7 @@
 {
-  "editionDate": "2026-11-03",
-  "edition": "2026.307",
-  "generatedAt": "2026-11-03T06:48:48.697Z",
+  "editionDate": "2026-11-04",
+  "edition": "2026.308",
+  "generatedAt": "2026-11-04T06:23:30.514Z",
   "sourceCount": 6,
   "items": [
     {
@@ -19,32 +19,32 @@
       "whyRead": "Recorded at LDX3 by LeadDev, Ryan chats with Dan Moore, Senior Director of CIAM Strategy and Identity Standards at FusionAuth, about adapting established OAuth2 prot"
     },
     {
-      "id": "hn-50341462",
-      "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
-      "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+      "id": "hn-50355251",
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
       "source": "Hacker News",
       "topic": "Community signal",
       "track": "engineering",
       "section": "brief",
       "kind": "current",
-      "summary": "428 points and 125 comments on Hacker News.",
-      "publishedAt": "2026-11-02T18:39:38.000Z",
+      "summary": "562 points and 172 comments on Hacker News.",
+      "publishedAt": "2026-11-03T17:40:00.000Z",
       "readingMinutes": 5,
-      "signal": 428,
-      "comments": 125,
-      "whyRead": "428 points and 125 comments make this an active technical discussion."
+      "signal": 562,
+      "comments": 172,
+      "whyRead": "562 points and 172 comments make this an active technical discussion."
     },
     {
-      "id": "ed085158858773",
-      "title": "The road to opaque software is paved with good (engineering) intentions",
-      "url": "https://tomasp.net/longreads/closing/",
+      "id": "272b21b4ac677c",
+      "title": "macOS 27 Golden Gate does not actually support CoreStorage volumes",
+      "url": "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
       "source": "Lobsters",
       "topic": "Programming",
       "track": "engineering",
       "section": "brief",
       "kind": "current",
       "summary": "Comments",
-      "publishedAt": "Mon, 02 Nov 2026 15:42:37 -0600",
+      "publishedAt": "Tue, 03 Nov 2026 15:37:11 -0600",
       "readingMinutes": 5,
       "whyRead": "A fresh programming perspective from Lobsters."
     },
@@ -77,18 +77,18 @@
       "whyRead": "Sometimes when I read a post, I get the growing feeling that I'm reading the output of an LLM. "
     },
     {
-      "id": "fallback-eng-2",
-      "title": "The twelve-factor app methodology remains useful",
-      "url": "https://12factor.net/",
-      "source": "12 Factor",
-      "topic": "Systems",
+      "id": "fallback-eng-3",
+      "title": "Latency numbers every programmer should know",
+      "url": "https://gist.github.com/jboner/2841832",
+      "source": "Jeff Dean notes",
+      "topic": "Performance",
       "track": "engineering",
       "section": "evergreen",
-      "summary": "Review the durable principles behind portable, observable and operationally sound web services.",
+      "summary": "A compact mental model for the relative cost of CPU, memory, networks and storage.",
       "publishedAt": null,
-      "readingMinutes": 7,
+      "readingMinutes": 4,
       "kind": "evergreen",
-      "whyRead": "Review the durable principles behind portable, observable and operationally sound web services."
+      "whyRead": "A compact mental model for the relative cost of CPU, memory, networks and storage."
     }
   ]
 }
