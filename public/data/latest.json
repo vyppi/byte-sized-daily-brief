@@ -1,24 +1,38 @@
 {
-  "editionDate": "2026-11-06",
-  "edition": "2026.310",
-  "generatedAt": "2026-11-06T06:47:15.486Z",
+  "editionDate": "2026-11-07",
+  "edition": "2026.311",
+  "generatedAt": "2026-11-07T05:58:53.896Z",
   "sourceCount": 6,
   "items": [
     {
-      "id": "hn-50384233",
-      "title": "MS Paint Remote Code Execution Vulnerability",
-      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "id": "hn-50397099",
+      "title": "GitHub's new Git storage architecture",
+      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
       "source": "Hacker News",
       "topic": "Community signal",
       "track": "engineering",
       "section": "brief",
       "kind": "current",
-      "summary": "448 points and 173 comments on Hacker News.",
-      "publishedAt": "2026-11-05T20:43:42.000Z",
+      "summary": "104 points and 20 comments on Hacker News.",
+      "publishedAt": "2026-11-06T19:24:21.000Z",
       "readingMinutes": 5,
-      "signal": 448,
-      "comments": 173,
-      "whyRead": "448 points and 173 comments make this an active technical discussion."
+      "signal": 104,
+      "comments": 20,
+      "whyRead": "104 points and 20 comments make this an active technical discussion."
+    },
+    {
+      "id": "12f78996fa502a",
+      "title": "Exploring Janet and the httpf web framework",
+      "url": "https://nick.gs/blog/2026-11/exploring-janet-and-the-httpf-web-framework/",
+      "source": "Lobsters",
+      "topic": "Programming",
+      "track": "engineering",
+      "section": "brief",
+      "kind": "current",
+      "summary": "Comments",
+      "publishedAt": "Fri, 06 Nov 2026 22:28:11 -0600",
+      "readingMinutes": 5,
+      "whyRead": "A fresh programming perspective from Lobsters."
     },
     {
       "id": "513a25c58dc02a",
@@ -33,20 +47,6 @@
       "publishedAt": "Fri, 06 Nov 2026 08:40:00 GMT",
       "readingMinutes": 5,
       "whyRead": "Ryan sits down with Rakesh Kumar, professor of computer engineering at the University of Illinois Urbana-Champaign, about the astounding complexity of manufacturing "
-    },
-    {
-      "id": "2daa30ad43181a",
-      "title": "Inside GitHub’s new Git storage architecture",
-      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
-      "source": "GitHub Engineering",
-      "topic": "Engineering",
-      "track": "engineering",
-      "section": "brief",
-      "kind": "current",
-      "summary": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub’s new Git storage architecture appeared first on The GitHub Blog .",
-      "publishedAt": "Thu, 05 Nov 2026 20:23:21 +0000",
-      "readingMinutes": 5,
-      "whyRead": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. "
     },
     {
       "id": "045c19daab9138",
@@ -77,18 +77,18 @@
       "whyRead": "Many organizations adopting data mesh and data products face a common challenge. "
     },
     {
-      "id": "fallback-eng-2",
-      "title": "The twelve-factor app methodology remains useful",
-      "url": "https://12factor.net/",
-      "source": "12 Factor",
-      "topic": "Systems",
+      "id": "fallback-eng-3",
+      "title": "Latency numbers every programmer should know",
+      "url": "https://gist.github.com/jboner/2841832",
+      "source": "Jeff Dean notes",
+      "topic": "Performance",
       "track": "engineering",
       "section": "evergreen",
-      "summary": "Review the durable principles behind portable, observable and operationally sound web services.",
+      "summary": "A compact mental model for the relative cost of CPU, memory, networks and storage.",
       "publishedAt": null,
-      "readingMinutes": 7,
+      "readingMinutes": 4,
       "kind": "evergreen",
-      "whyRead": "Review the durable principles behind portable, observable and operationally sound web services."
+      "whyRead": "A compact mental model for the relative cost of CPU, memory, networks and storage."
     }
   ]
 }
