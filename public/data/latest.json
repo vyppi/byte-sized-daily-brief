@@ -1,52 +1,52 @@
 {
-  "editionDate": "2026-11-08",
-  "edition": "2026.312",
-  "generatedAt": "2026-11-08T06:01:45.427Z",
+  "editionDate": "2026-11-09",
+  "edition": "2026.313",
+  "generatedAt": "2026-11-09T06:31:03.859Z",
   "sourceCount": 6,
   "items": [
     {
-      "id": "hn-50407882",
-      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "id": "hn-50418176",
+      "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+      "url": "https://ketchup3d.github.io/app/",
       "source": "Hacker News",
       "topic": "Community signal",
       "track": "engineering",
       "section": "brief",
       "kind": "current",
-      "summary": "298 points and 205 comments on Hacker News.",
-      "publishedAt": "2026-11-07T20:45:32.000Z",
+      "summary": "364 points and 96 comments on Hacker News.",
+      "publishedAt": "2026-11-08T22:35:35.000Z",
       "readingMinutes": 5,
-      "signal": 298,
-      "comments": 205,
-      "whyRead": "298 points and 205 comments make this an active technical discussion."
+      "signal": 364,
+      "comments": 96,
+      "whyRead": "364 points and 96 comments make this an active technical discussion."
     },
     {
-      "id": "cc4bbaa29bfb38",
-      "title": "I’m not a fan of Deno’s security model (2024)",
-      "url": "https://goldstein.lol/posts/deno-security/",
+      "id": "55dbc56908825d",
+      "title": "Who wants to crowdsource LLM scans of articles submitted to Lobste.rs?",
+      "url": "https://lobste.rs/s/jbdtim/who_wants_crowdsource_llm_scans_articles",
       "source": "Lobsters",
       "topic": "Programming",
       "track": "engineering",
       "section": "brief",
       "kind": "current",
-      "summary": "Comments",
-      "publishedAt": "Sat, 07 Nov 2026 17:19:53 -0600",
+      "summary": "Like many of us who value the human side of the web, I am looking for ways to keep slop at bay. It seems like LLM detection technology works reasonably well nowadays, with Pangram as the main provider. It is expensive, though! Assuming pangram scans are trustworthy, and it seems ",
+      "publishedAt": "Sun, 08 Nov 2026 10:36:17 -0600",
       "readingMinutes": 5,
-      "whyRead": "A fresh programming perspective from Lobsters."
+      "whyRead": "Like many of us who value the human side of the web, I am looking for ways to keep slop at bay. "
     },
     {
-      "id": "513a25c58dc02a",
-      "title": "Welcome to life in the chip age",
-      "url": "https://stackoverflow.blog/2026/11/06/welcome-to-life-in-the-chip-age/",
+      "id": "9bbf33dc516e22",
+      "title": "Oh, your agents need OAuth2, too",
+      "url": "https://stackoverflow.blog/2026/11/03/oh-your-agents-need-oauth2-too/",
       "source": "Stack Overflow Blog",
       "topic": "Software",
       "track": "engineering",
       "section": "brief",
       "kind": "current",
-      "summary": "Ryan sits down with Rakesh Kumar, professor of computer engineering at the University of Illinois Urbana-Champaign, about the astounding complexity of manufacturing modern semiconductors, the massive environmental and geopolitical footprint of AI data centers, and how AI models a",
-      "publishedAt": "Fri, 06 Nov 2026 08:40:00 GMT",
+      "summary": "Recorded at LDX3 by LeadDev, Ryan chats with Dan Moore, Senior Director of CIAM Strategy and Identity Standards at FusionAuth, about adapting established OAuth2 protocols for the agentic era, the security necessity of giving autonomous AI agents their own distinct identities, and",
+      "publishedAt": "Tue, 03 Nov 2026 08:40:00 GMT",
       "readingMinutes": 5,
-      "whyRead": "Ryan sits down with Rakesh Kumar, professor of computer engineering at the University of Illinois Urbana-Champaign, about the astounding complexity of manufacturing "
+      "whyRead": "Recorded at LDX3 by LeadDev, Ryan chats with Dan Moore, Senior Director of CIAM Strategy and Identity Standards at FusionAuth, about adapting established OAuth2 prot"
     },
     {
       "id": "2daa30ad43181a",
@@ -77,18 +77,18 @@
       "whyRead": "All five agent runs produced a working script, and nothing in the eval score looked wrong. "
     },
     {
-      "id": "fallback-eng-1",
-      "title": "How to write a good software design document",
-      "url": "https://www.industrialempathy.com/posts/design-docs-at-google/",
-      "source": "Industrial Empathy",
-      "topic": "Architecture",
+      "id": "fallback-eng-2",
+      "title": "The twelve-factor app methodology remains useful",
+      "url": "https://12factor.net/",
+      "source": "12 Factor",
+      "topic": "Systems",
       "track": "engineering",
       "section": "evergreen",
-      "summary": "A practical structure for explaining context, goals, alternatives, trade-offs and implementation plans before code is written.",
+      "summary": "Review the durable principles behind portable, observable and operationally sound web services.",
       "publishedAt": null,
-      "readingMinutes": 8,
+      "readingMinutes": 7,
       "kind": "evergreen",
-      "whyRead": "A practical structure for explaining context, goals, alternatives, trade-offs and implementation plans before code is written."
+      "whyRead": "Review the durable principles behind portable, observable and operationally sound web services."
     }
   ]
 }
