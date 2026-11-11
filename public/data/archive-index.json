@@ -1,6 +1,100 @@
 {
-  "generatedAt": "2026-11-10T07:19:09.365Z",
+  "generatedAt": "2026-11-11T06:22:22.835Z",
   "editions": [
+    {
+      "editionDate": "2026-11-11",
+      "edition": "2026.315",
+      "generatedAt": "2026-11-11T06:22:22.835Z",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "hn-50443812",
+          "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+          "url": "https://github.com/GoogleChrome/modern-web-guidance",
+          "source": "Hacker News",
+          "topic": "Community signal",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "328 points and 101 comments on Hacker News.",
+          "publishedAt": "2026-11-10T18:01:15.000Z",
+          "readingMinutes": 5,
+          "signal": 328,
+          "comments": 101,
+          "whyRead": "328 points and 101 comments make this an active technical discussion."
+        },
+        {
+          "id": "4d705093bda262",
+          "title": "Customer support is the gnarliest AI problem",
+          "url": "https://stackoverflow.blog/2026/11/10/customer-support-is-the-gnarliest-ai-problem/",
+          "source": "Stack Overflow Blog",
+          "topic": "Software",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Ryan chats with Ahmad Al-Dahle, CTO at Airbnb, about deploying multi-party AI agents to tackle the uniquely gnarly problem of customer support, how a moving target of rigorous evaluations helps engineers balance latency against accuracy, and the ways in which AI coding tools dema",
+          "publishedAt": "Tue, 10 Nov 2026 08:40:00 GMT",
+          "readingMinutes": 5,
+          "whyRead": "Ryan chats with Ahmad Al-Dahle, CTO at Airbnb, about deploying multi-party AI agents to tackle the uniquely gnarly problem of customer support, how a moving target o"
+        },
+        {
+          "id": "962dd8937d9e04",
+          "title": "Long-horizon agents and durable execution",
+          "url": "https://martinfowler.com/articles/durable-execution-agents.html",
+          "source": "Martin Fowler",
+          "topic": "Architecture",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Long-horizon agents can automate complex tasks that take days or weeks to complete and involve multiple exchanges with people and external systems. Many things can go wrong during this time, including process crashes, network failures, and unanticipated real-world behavior. Kiran",
+          "publishedAt": "2026-11-10T09:10:00-05:00",
+          "readingMinutes": 5,
+          "whyRead": "Long-horizon agents can automate complex tasks that take days or weeks to complete and involve multiple exchanges with people and external systems. "
+        },
+        {
+          "id": "f3df083f768f8d",
+          "title": "Modding Linux to use SIGKILL on every process",
+          "url": "https://vulpinecitrus.info/blog/what-if-you-could-handle-sigkill/",
+          "source": "Lobsters",
+          "topic": "Programming",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Comments",
+          "publishedAt": "Wed, 11 Nov 2026 00:14:34 -0600",
+          "readingMinutes": 5,
+          "whyRead": "A fresh programming perspective from Lobsters."
+        },
+        {
+          "id": "b58eaf620bc8ea",
+          "title": "Do AI coding agents care about SemVer?",
+          "url": "https://devblogs.microsoft.com/blog/do-ai-coding-agents-care-about-semver/",
+          "source": "Microsoft Dev Blogs",
+          "topic": "Developer tools",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "We gave AI coding agents the same breaking upgrade twice. Labeled 2.0.0, Claude Sonnet 5.5 checked it in all 10 runs. Labeled 1.4.3, it checked in two and often left the app broken. Nearly 1,000 runs show which agents still read your version numbers, and what a patch label talks ",
+          "publishedAt": "Mon, 09 Nov 2026 16:01:03 +0000",
+          "readingMinutes": 5,
+          "whyRead": "We gave AI coding agents the same breaking upgrade twice. "
+        },
+        {
+          "id": "fallback-eng-1",
+          "title": "How to write a good software design document",
+          "url": "https://www.industrialempathy.com/posts/design-docs-at-google/",
+          "source": "Industrial Empathy",
+          "topic": "Architecture",
+          "track": "engineering",
+          "section": "evergreen",
+          "summary": "A practical structure for explaining context, goals, alternatives, trade-offs and implementation plans before code is written.",
+          "publishedAt": null,
+          "readingMinutes": 8,
+          "kind": "evergreen",
+          "whyRead": "A practical structure for explaining context, goals, alternatives, trade-offs and implementation plans before code is written."
+        }
+      ]
+    },
     {
       "editionDate": "2026-11-10",
       "edition": "2026.314",

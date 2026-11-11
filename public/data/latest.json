@@ -1,9 +1,25 @@
 {
-  "editionDate": "2026-11-10",
-  "edition": "2026.314",
-  "generatedAt": "2026-11-10T07:19:09.365Z",
+  "editionDate": "2026-11-11",
+  "edition": "2026.315",
+  "generatedAt": "2026-11-11T06:22:22.835Z",
   "sourceCount": 6,
   "items": [
+    {
+      "id": "hn-50443812",
+      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance",
+      "source": "Hacker News",
+      "topic": "Community signal",
+      "track": "engineering",
+      "section": "brief",
+      "kind": "current",
+      "summary": "328 points and 101 comments on Hacker News.",
+      "publishedAt": "2026-11-10T18:01:15.000Z",
+      "readingMinutes": 5,
+      "signal": 328,
+      "comments": 101,
+      "whyRead": "328 points and 101 comments make this an active technical discussion."
+    },
     {
       "id": "4d705093bda262",
       "title": "Customer support is the gnarliest AI problem",
@@ -19,20 +35,32 @@
       "whyRead": "Ryan chats with Ahmad Al-Dahle, CTO at Airbnb, about deploying multi-party AI agents to tackle the uniquely gnarly problem of customer support, how a moving target o"
     },
     {
-      "id": "hn-50433541",
-      "title": "Exact – a new cross platform UI framework",
-      "url": "https://github.com/expo/exact",
-      "source": "Hacker News",
-      "topic": "Community signal",
+      "id": "962dd8937d9e04",
+      "title": "Long-horizon agents and durable execution",
+      "url": "https://martinfowler.com/articles/durable-execution-agents.html",
+      "source": "Martin Fowler",
+      "topic": "Architecture",
       "track": "engineering",
       "section": "brief",
       "kind": "current",
-      "summary": "110 points and 70 comments on Hacker News.",
-      "publishedAt": "2026-11-09T22:59:13.000Z",
+      "summary": "Long-horizon agents can automate complex tasks that take days or weeks to complete and involve multiple exchanges with people and external systems. Many things can go wrong during this time, including process crashes, network failures, and unanticipated real-world behavior. Kiran",
+      "publishedAt": "2026-11-10T09:10:00-05:00",
       "readingMinutes": 5,
-      "signal": 110,
-      "comments": 70,
-      "whyRead": "110 points and 70 comments make this an active technical discussion."
+      "whyRead": "Long-horizon agents can automate complex tasks that take days or weeks to complete and involve multiple exchanges with people and external systems. "
+    },
+    {
+      "id": "f3df083f768f8d",
+      "title": "Modding Linux to use SIGKILL on every process",
+      "url": "https://vulpinecitrus.info/blog/what-if-you-could-handle-sigkill/",
+      "source": "Lobsters",
+      "topic": "Programming",
+      "track": "engineering",
+      "section": "brief",
+      "kind": "current",
+      "summary": "Comments",
+      "publishedAt": "Wed, 11 Nov 2026 00:14:34 -0600",
+      "readingMinutes": 5,
+      "whyRead": "A fresh programming perspective from Lobsters."
     },
     {
       "id": "b58eaf620bc8ea",
@@ -49,46 +77,18 @@
       "whyRead": "We gave AI coding agents the same breaking upgrade twice. "
     },
     {
-      "id": "90f8739143a488",
-      "title": "PyPI's redesigned project pages with clearer security signals are now live",
-      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
-      "source": "Lobsters",
-      "topic": "Programming",
-      "track": "engineering",
-      "section": "brief",
-      "kind": "current",
-      "summary": "Comments",
-      "publishedAt": "Mon, 09 Nov 2026 15:45:49 -0600",
-      "readingMinutes": 5,
-      "whyRead": "A fresh programming perspective from Lobsters."
-    },
-    {
-      "id": "2daa30ad43181a",
-      "title": "Inside GitHub’s new Git storage architecture",
-      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
-      "source": "GitHub Engineering",
-      "topic": "Engineering",
-      "track": "engineering",
-      "section": "brief",
-      "kind": "current",
-      "summary": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub’s new Git storage architecture appeared first on The GitHub Blog .",
-      "publishedAt": "Thu, 05 Nov 2026 20:23:21 +0000",
-      "readingMinutes": 5,
-      "whyRead": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. "
-    },
-    {
-      "id": "fallback-eng-3",
-      "title": "Latency numbers every programmer should know",
-      "url": "https://gist.github.com/jboner/2841832",
-      "source": "Jeff Dean notes",
-      "topic": "Performance",
+      "id": "fallback-eng-1",
+      "title": "How to write a good software design document",
+      "url": "https://www.industrialempathy.com/posts/design-docs-at-google/",
+      "source": "Industrial Empathy",
+      "topic": "Architecture",
       "track": "engineering",
       "section": "evergreen",
-      "summary": "A compact mental model for the relative cost of CPU, memory, networks and storage.",
+      "summary": "A practical structure for explaining context, goals, alternatives, trade-offs and implementation plans before code is written.",
       "publishedAt": null,
-      "readingMinutes": 4,
+      "readingMinutes": 8,
       "kind": "evergreen",
-      "whyRead": "A compact mental model for the relative cost of CPU, memory, networks and storage."
+      "whyRead": "A practical structure for explaining context, goals, alternatives, trade-offs and implementation plans before code is written."
     }
   ]
 }
