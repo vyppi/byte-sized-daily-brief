@@ -1,6 +1,100 @@
 {
-  "generatedAt": "2026-11-11T06:22:22.835Z",
+  "generatedAt": "2026-11-12T07:11:46.781Z",
   "editions": [
+    {
+      "editionDate": "2026-11-12",
+      "edition": "2026.316",
+      "generatedAt": "2026-11-12T07:11:46.781Z",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "hn-50462177",
+          "title": "Critical RCE Vulnerability in Apache HTTP Server",
+          "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+          "source": "Hacker News",
+          "topic": "Community signal",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "127 points and 54 comments on Hacker News.",
+          "publishedAt": "2026-11-12T02:11:11.000Z",
+          "readingMinutes": 5,
+          "signal": 127,
+          "comments": 54,
+          "whyRead": "127 points and 54 comments make this an active technical discussion."
+        },
+        {
+          "id": "65e78de8b1df0a",
+          "title": "Tests as data: ensuring AI-generated code does what we want",
+          "url": "https://martinfowler.com/articles/tests-as-data.html",
+          "source": "Martin Fowler",
+          "topic": "Architecture",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Automated testing in the age of AI coding assistants is problematic: when AI agents write both production and test code, developers risk losing the assurance that automated tests protect against functional errors. Matteo Vaccari makes three claims: (1) when AI writes the code, de",
+          "publishedAt": "2026-11-11T10:17:00-05:00",
+          "readingMinutes": 5,
+          "whyRead": "Automated testing in the age of AI coding assistants is problematic: when AI agents write both production and test code, developers risk losing the assurance that au"
+        },
+        {
+          "id": "ab2482ab9deb80",
+          "title": "The Myth of Neutral Code",
+          "url": "https://foss.life/notes/2026/the-myth-of-neutral-code/",
+          "source": "Lobsters",
+          "topic": "Programming",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Comments",
+          "publishedAt": "Wed, 11 Nov 2026 17:59:09 -0600",
+          "readingMinutes": 5,
+          "whyRead": "A fresh programming perspective from Lobsters."
+        },
+        {
+          "id": "4d705093bda262",
+          "title": "Customer support is the gnarliest AI problem",
+          "url": "https://stackoverflow.blog/2026/11/10/customer-support-is-the-gnarliest-ai-problem/",
+          "source": "Stack Overflow Blog",
+          "topic": "Software",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Ryan chats with Ahmad Al-Dahle, CTO at Airbnb, about deploying multi-party AI agents to tackle the uniquely gnarly problem of customer support, how a moving target of rigorous evaluations helps engineers balance latency against accuracy, and the ways in which AI coding tools dema",
+          "publishedAt": "Tue, 10 Nov 2026 08:40:00 GMT",
+          "readingMinutes": 5,
+          "whyRead": "Ryan chats with Ahmad Al-Dahle, CTO at Airbnb, about deploying multi-party AI agents to tackle the uniquely gnarly problem of customer support, how a moving target o"
+        },
+        {
+          "id": "b58eaf620bc8ea",
+          "title": "Do AI coding agents care about SemVer?",
+          "url": "https://devblogs.microsoft.com/blog/do-ai-coding-agents-care-about-semver/",
+          "source": "Microsoft Dev Blogs",
+          "topic": "Developer tools",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "We gave AI coding agents the same breaking upgrade twice. Labeled 2.0.0, Claude Sonnet 5.5 checked it in all 10 runs. Labeled 1.4.3, it checked in two and often left the app broken. Nearly 1,000 runs show which agents still read your version numbers, and what a patch label talks ",
+          "publishedAt": "Mon, 09 Nov 2026 16:01:03 +0000",
+          "readingMinutes": 5,
+          "whyRead": "We gave AI coding agents the same breaking upgrade twice. "
+        },
+        {
+          "id": "fallback-eng-2",
+          "title": "The twelve-factor app methodology remains useful",
+          "url": "https://12factor.net/",
+          "source": "12 Factor",
+          "topic": "Systems",
+          "track": "engineering",
+          "section": "evergreen",
+          "summary": "Review the durable principles behind portable, observable and operationally sound web services.",
+          "publishedAt": null,
+          "readingMinutes": 7,
+          "kind": "evergreen",
+          "whyRead": "Review the durable principles behind portable, observable and operationally sound web services."
+        }
+      ]
+    },
     {
       "editionDate": "2026-11-11",
       "edition": "2026.315",
