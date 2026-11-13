@@ -1,6 +1,100 @@
 {
-  "generatedAt": "2026-11-12T07:11:46.781Z",
+  "generatedAt": "2026-11-13T06:46:23.880Z",
   "editions": [
+    {
+      "editionDate": "2026-11-13",
+      "edition": "2026.317",
+      "generatedAt": "2026-11-13T06:46:23.880Z",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "feea8c38ac5970",
+          "title": "Agentic search doesn&#x27;t find pages, it assembles answers",
+          "url": "https://stackoverflow.blog/2026/11/13/agentic-doesn-t-find-pages-it-assembles-answers/",
+          "source": "Stack Overflow Blog",
+          "topic": "Software",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Ryan sits down with Jeff Wang, co-founder at EXA, to talk about the huge scale required to support trillions of agentic searches, the technical complexities of building custom embeddings and performant vector databases from scratch, and the need to dedupe the massive amounts of r",
+          "publishedAt": "Fri, 13 Nov 2026 08:40:00 GMT",
+          "readingMinutes": 5,
+          "whyRead": "Ryan sits down with Jeff Wang, co-founder at EXA, to talk about the huge scale required to support trillions of agentic searches, the technical complexities of build"
+        },
+        {
+          "id": "hn-50474361",
+          "title": "Foundation Models framework",
+          "url": "https://developer.apple.com/foundation-models-framework/",
+          "source": "Hacker News",
+          "topic": "Community signal",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "183 points and 26 comments on Hacker News.",
+          "publishedAt": "2026-11-12T21:13:26.000Z",
+          "readingMinutes": 5,
+          "signal": 183,
+          "comments": 26,
+          "whyRead": "183 points and 26 comments make this an active technical discussion."
+        },
+        {
+          "id": "ee65b3ec3a91aa",
+          "title": "Bliki: Generated Glossary",
+          "url": "https://martinfowler.com/bliki/GeneratedGlossary.html",
+          "source": "Martin Fowler",
+          "topic": "Architecture",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "When we use LLMs in a specialized domain, such as the operations of any reasonably-large organization, there is a lot of specialized vocabulary. Such words and specialized meanings will be foreign to an LLM because they aren't in its training set, making it harder for the LLM to ",
+          "publishedAt": "2026-11-12T09:15:00-05:00",
+          "readingMinutes": 5,
+          "whyRead": "When we use LLMs in a specialized domain, such as the operations of any reasonably-large organization, there is a lot of specialized vocabulary. "
+        },
+        {
+          "id": "8efd1eee27354b",
+          "title": "SSA from bytecode: imperative pearl",
+          "url": "https://bernsteinbear.com/blog/ssa-bytecode/",
+          "source": "Lobsters",
+          "topic": "Programming",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Comments",
+          "publishedAt": "Fri, 13 Nov 2026 00:20:05 -0600",
+          "readingMinutes": 5,
+          "whyRead": "A fresh programming perspective from Lobsters."
+        },
+        {
+          "id": "2daa30ad43181a",
+          "title": "Inside GitHub’s new Git storage architecture",
+          "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+          "source": "GitHub Engineering",
+          "topic": "Engineering",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub’s new Git storage architecture appeared first on The GitHub Blog .",
+          "publishedAt": "Thu, 05 Nov 2026 20:23:21 +0000",
+          "readingMinutes": 5,
+          "whyRead": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. "
+        },
+        {
+          "id": "fallback-eng-3",
+          "title": "Latency numbers every programmer should know",
+          "url": "https://gist.github.com/jboner/2841832",
+          "source": "Jeff Dean notes",
+          "topic": "Performance",
+          "track": "engineering",
+          "section": "evergreen",
+          "summary": "A compact mental model for the relative cost of CPU, memory, networks and storage.",
+          "publishedAt": null,
+          "readingMinutes": 4,
+          "kind": "evergreen",
+          "whyRead": "A compact mental model for the relative cost of CPU, memory, networks and storage."
+        }
+      ]
+    },
     {
       "editionDate": "2026-11-12",
       "edition": "2026.316",
