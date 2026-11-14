@@ -1,38 +1,52 @@
 {
-  "editionDate": "2026-11-13",
-  "edition": "2026.317",
-  "generatedAt": "2026-11-13T06:46:23.880Z",
+  "editionDate": "2026-11-14",
+  "edition": "2026.318",
+  "generatedAt": "2026-11-14T06:23:45.379Z",
   "sourceCount": 6,
   "items": [
     {
-      "id": "feea8c38ac5970",
-      "title": "Agentic search doesn&#x27;t find pages, it assembles answers",
-      "url": "https://stackoverflow.blog/2026/11/13/agentic-doesn-t-find-pages-it-assembles-answers/",
+      "id": "894cd9c65426dc",
+      "title": "Your coding agent shouldn&#x27;t grade its own homework",
+      "url": "https://stackoverflow.blog/2026/11/13/your-coding-agent-shouldn-t-grade-its-own-homework/",
       "source": "Stack Overflow Blog",
       "topic": "Software",
       "track": "engineering",
       "section": "brief",
       "kind": "current",
-      "summary": "Ryan sits down with Jeff Wang, co-founder at EXA, to talk about the huge scale required to support trillions of agentic searches, the technical complexities of building custom embeddings and performant vector databases from scratch, and the need to dedupe the massive amounts of r",
-      "publishedAt": "Fri, 13 Nov 2026 08:40:00 GMT",
+      "summary": "AI coding agents can now write design docs, mock up frontends, and implement entire projects end to end. But can they be trusted to verify that their own code actually works?",
+      "publishedAt": "Fri, 13 Nov 2026 17:27:39 GMT",
       "readingMinutes": 5,
-      "whyRead": "Ryan sits down with Jeff Wang, co-founder at EXA, to talk about the huge scale required to support trillions of agentic searches, the technical complexities of build"
+      "whyRead": "AI coding agents can now write design docs, mock up frontends, and implement entire projects end to end. "
     },
     {
-      "id": "hn-50474361",
-      "title": "Foundation Models framework",
-      "url": "https://developer.apple.com/foundation-models-framework/",
+      "id": "hn-50492860",
+      "title": "Elephants found to be increasingly isolated leading to fractured social networks",
+      "url": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
       "source": "Hacker News",
       "topic": "Community signal",
       "track": "engineering",
       "section": "brief",
       "kind": "current",
-      "summary": "183 points and 26 comments on Hacker News.",
-      "publishedAt": "2026-11-12T21:13:26.000Z",
+      "summary": "102 points and 20 comments on Hacker News.",
+      "publishedAt": "2026-11-14T02:02:42.000Z",
       "readingMinutes": 5,
-      "signal": 183,
-      "comments": 26,
-      "whyRead": "183 points and 26 comments make this an active technical discussion."
+      "signal": 102,
+      "comments": 20,
+      "whyRead": "102 points and 20 comments make this an active technical discussion."
+    },
+    {
+      "id": "205c9afd416677",
+      "title": "Don't bother patching: multiple remote code execution vulnerabilities in Danfoss AK-SM800A",
+      "url": "https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a",
+      "source": "Lobsters",
+      "topic": "Programming",
+      "track": "engineering",
+      "section": "brief",
+      "kind": "current",
+      "summary": "Comments",
+      "publishedAt": "Fri, 13 Nov 2026 14:26:34 -0600",
+      "readingMinutes": 5,
+      "whyRead": "A fresh programming perspective from Lobsters."
     },
     {
       "id": "ee65b3ec3a91aa",
@@ -49,20 +63,6 @@
       "whyRead": "When we use LLMs in a specialized domain, such as the operations of any reasonably-large organization, there is a lot of specialized vocabulary. "
     },
     {
-      "id": "8efd1eee27354b",
-      "title": "SSA from bytecode: imperative pearl",
-      "url": "https://bernsteinbear.com/blog/ssa-bytecode/",
-      "source": "Lobsters",
-      "topic": "Programming",
-      "track": "engineering",
-      "section": "brief",
-      "kind": "current",
-      "summary": "Comments",
-      "publishedAt": "Fri, 13 Nov 2026 00:20:05 -0600",
-      "readingMinutes": 5,
-      "whyRead": "A fresh programming perspective from Lobsters."
-    },
-    {
       "id": "2daa30ad43181a",
       "title": "Inside GitHub’s new Git storage architecture",
       "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
@@ -77,18 +77,18 @@
       "whyRead": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. "
     },
     {
-      "id": "fallback-eng-3",
-      "title": "Latency numbers every programmer should know",
-      "url": "https://gist.github.com/jboner/2841832",
-      "source": "Jeff Dean notes",
-      "topic": "Performance",
+      "id": "fallback-eng-1",
+      "title": "How to write a good software design document",
+      "url": "https://www.industrialempathy.com/posts/design-docs-at-google/",
+      "source": "Industrial Empathy",
+      "topic": "Architecture",
       "track": "engineering",
       "section": "evergreen",
-      "summary": "A compact mental model for the relative cost of CPU, memory, networks and storage.",
+      "summary": "A practical structure for explaining context, goals, alternatives, trade-offs and implementation plans before code is written.",
       "publishedAt": null,
-      "readingMinutes": 4,
+      "readingMinutes": 8,
       "kind": "evergreen",
-      "whyRead": "A compact mental model for the relative cost of CPU, memory, networks and storage."
+      "whyRead": "A practical structure for explaining context, goals, alternatives, trade-offs and implementation plans before code is written."
     }
   ]
 }
