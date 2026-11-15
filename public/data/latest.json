@@ -1,9 +1,25 @@
 {
-  "editionDate": "2026-11-14",
-  "edition": "2026.318",
-  "generatedAt": "2026-11-14T06:23:45.379Z",
+  "editionDate": "2026-11-15",
+  "edition": "2026.319",
+  "generatedAt": "2026-11-15T06:33:16.790Z",
   "sourceCount": 6,
   "items": [
+    {
+      "id": "hn-50497132",
+      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+      "url": "https://gitlab.com/snipedbywifi/terminactory",
+      "source": "Hacker News",
+      "topic": "Community signal",
+      "track": "engineering",
+      "section": "brief",
+      "kind": "current",
+      "summary": "152 points and 37 comments on Hacker News.",
+      "publishedAt": "2026-11-14T14:05:54.000Z",
+      "readingMinutes": 5,
+      "signal": 152,
+      "comments": 37,
+      "whyRead": "152 points and 37 comments make this an active technical discussion."
+    },
     {
       "id": "894cd9c65426dc",
       "title": "Your coding agent shouldn&#x27;t grade its own homework",
@@ -19,32 +35,16 @@
       "whyRead": "AI coding agents can now write design docs, mock up frontends, and implement entire projects end to end. "
     },
     {
-      "id": "hn-50492860",
-      "title": "Elephants found to be increasingly isolated leading to fractured social networks",
-      "url": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
-      "source": "Hacker News",
-      "topic": "Community signal",
-      "track": "engineering",
-      "section": "brief",
-      "kind": "current",
-      "summary": "102 points and 20 comments on Hacker News.",
-      "publishedAt": "2026-11-14T02:02:42.000Z",
-      "readingMinutes": 5,
-      "signal": 102,
-      "comments": 20,
-      "whyRead": "102 points and 20 comments make this an active technical discussion."
-    },
-    {
-      "id": "205c9afd416677",
-      "title": "Don't bother patching: multiple remote code execution vulnerabilities in Danfoss AK-SM800A",
-      "url": "https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a",
+      "id": "6eac85e607b6fe",
+      "title": "Disk encryption on NetBSD achieving secrecy",
+      "url": "https://netbsd.org/~nia/disk-encrypt/",
       "source": "Lobsters",
       "topic": "Programming",
       "track": "engineering",
       "section": "brief",
       "kind": "current",
       "summary": "Comments",
-      "publishedAt": "Fri, 13 Nov 2026 14:26:34 -0600",
+      "publishedAt": "Sat, 14 Nov 2026 23:30:28 -0600",
       "readingMinutes": 5,
       "whyRead": "A fresh programming perspective from Lobsters."
     },
@@ -77,18 +77,18 @@
       "whyRead": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. "
     },
     {
-      "id": "fallback-eng-1",
-      "title": "How to write a good software design document",
-      "url": "https://www.industrialempathy.com/posts/design-docs-at-google/",
-      "source": "Industrial Empathy",
-      "topic": "Architecture",
+      "id": "fallback-eng-2",
+      "title": "The twelve-factor app methodology remains useful",
+      "url": "https://12factor.net/",
+      "source": "12 Factor",
+      "topic": "Systems",
       "track": "engineering",
       "section": "evergreen",
-      "summary": "A practical structure for explaining context, goals, alternatives, trade-offs and implementation plans before code is written.",
+      "summary": "Review the durable principles behind portable, observable and operationally sound web services.",
       "publishedAt": null,
-      "readingMinutes": 8,
+      "readingMinutes": 7,
       "kind": "evergreen",
-      "whyRead": "A practical structure for explaining context, goals, alternatives, trade-offs and implementation plans before code is written."
+      "whyRead": "Review the durable principles behind portable, observable and operationally sound web services."
     }
   ]
 }
