@@ -1,52 +1,52 @@
 {
-  "editionDate": "2026-11-16",
-  "edition": "2026.320",
-  "generatedAt": "2026-11-16T06:30:44.278Z",
+  "editionDate": "2026-11-17",
+  "edition": "2026.321",
+  "generatedAt": "2026-11-17T07:55:56.754Z",
   "sourceCount": 6,
   "items": [
     {
-      "id": "hn-50512441",
-      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
-      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+      "id": "d1c43f06c2ae23",
+      "title": "The pioneering coding tricks that built Doom and Quake",
+      "url": "https://stackoverflow.blog/2026/11/17/coding-tricks-that-built-doom-and-quake/",
+      "source": "Stack Overflow Blog",
+      "topic": "Software",
+      "track": "engineering",
+      "section": "brief",
+      "kind": "current",
+      "summary": "Ryan chats with John Romero, creator of the WAD file and the video game Doom, about the self-modifying code and blitting techniques that made Wolfenstein run so fast on early PCs, the mod-friendly architecture that turned Doom into a cultural phenomenon, and why the raw creative ",
+      "publishedAt": "Tue, 17 Nov 2026 08:40:00 GMT",
+      "readingMinutes": 5,
+      "whyRead": "Ryan chats with John Romero, creator of the WAD file and the video game Doom, about the self-modifying code and blitting techniques that made Wolfenstein run so fast"
+    },
+    {
+      "id": "hn-50524736",
+      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
       "source": "Hacker News",
       "topic": "Community signal",
       "track": "engineering",
       "section": "brief",
       "kind": "current",
-      "summary": "110 points and 25 comments on Hacker News.",
-      "publishedAt": "2026-11-16T00:21:54.000Z",
+      "summary": "530 points and 368 comments on Hacker News.",
+      "publishedAt": "2026-11-16T22:58:20.000Z",
       "readingMinutes": 5,
-      "signal": 110,
-      "comments": 25,
-      "whyRead": "110 points and 25 comments make this an active technical discussion."
+      "signal": 530,
+      "comments": 368,
+      "whyRead": "530 points and 368 comments make this an active technical discussion."
     },
     {
-      "id": "b0204f6d26059b",
-      "title": "Migrating from GitHub to Codeberg",
-      "url": "https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/",
+      "id": "e6bb53a1ba76cc",
+      "title": "How Rust Changed Me As A Developer",
+      "url": "https://blog.startifact.com/posts/how-rust-changed-me/",
       "source": "Lobsters",
       "topic": "Programming",
       "track": "engineering",
       "section": "brief",
       "kind": "current",
       "summary": "Comments",
-      "publishedAt": "Sun, 15 Nov 2026 23:10:34 -0600",
+      "publishedAt": "Mon, 16 Nov 2026 12:17:29 -0600",
       "readingMinutes": 5,
       "whyRead": "A fresh programming perspective from Lobsters."
-    },
-    {
-      "id": "894cd9c65426dc",
-      "title": "Your coding agent shouldn&#x27;t grade its own homework",
-      "url": "https://stackoverflow.blog/2026/11/13/your-coding-agent-shouldn-t-grade-its-own-homework/",
-      "source": "Stack Overflow Blog",
-      "topic": "Software",
-      "track": "engineering",
-      "section": "brief",
-      "kind": "current",
-      "summary": "AI coding agents can now write design docs, mock up frontends, and implement entire projects end to end. But can they be trusted to verify that their own code actually works?",
-      "publishedAt": "Fri, 13 Nov 2026 17:27:39 GMT",
-      "readingMinutes": 5,
-      "whyRead": "AI coding agents can now write design docs, mock up frontends, and implement entire projects end to end. "
     },
     {
       "id": "65e78de8b1df0a",
@@ -77,18 +77,18 @@
       "whyRead": "We gave AI coding agents the same breaking upgrade twice. "
     },
     {
-      "id": "fallback-eng-3",
-      "title": "Latency numbers every programmer should know",
-      "url": "https://gist.github.com/jboner/2841832",
-      "source": "Jeff Dean notes",
-      "topic": "Performance",
+      "id": "fallback-eng-1",
+      "title": "How to write a good software design document",
+      "url": "https://www.industrialempathy.com/posts/design-docs-at-google/",
+      "source": "Industrial Empathy",
+      "topic": "Architecture",
       "track": "engineering",
       "section": "evergreen",
-      "summary": "A compact mental model for the relative cost of CPU, memory, networks and storage.",
+      "summary": "A practical structure for explaining context, goals, alternatives, trade-offs and implementation plans before code is written.",
       "publishedAt": null,
-      "readingMinutes": 4,
+      "readingMinutes": 8,
       "kind": "evergreen",
-      "whyRead": "A compact mental model for the relative cost of CPU, memory, networks and storage."
+      "whyRead": "A practical structure for explaining context, goals, alternatives, trade-offs and implementation plans before code is written."
     }
   ]
 }
