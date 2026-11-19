@@ -1,6 +1,100 @@
 {
-  "generatedAt": "2026-11-18T07:29:35.920Z",
+  "generatedAt": "2026-11-19T07:27:18.885Z",
   "editions": [
+    {
+      "editionDate": "2026-11-19",
+      "edition": "2026.323",
+      "generatedAt": "2026-11-19T07:27:18.885Z",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "hn-50554038",
+          "title": "Multiple vulnerabilities in Regexp and String case conversion",
+          "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+          "source": "Hacker News",
+          "topic": "Community signal",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "202 points and 64 comments on Hacker News.",
+          "publishedAt": "2026-11-18T23:52:50.000Z",
+          "readingMinutes": 5,
+          "signal": 202,
+          "comments": 64,
+          "whyRead": "202 points and 64 comments make this an active technical discussion."
+        },
+        {
+          "id": "9be8cef9db1761",
+          "title": "Data Contracts",
+          "url": "https://martinfowler.com/articles/data-contracts.html",
+          "source": "Martin Fowler",
+          "topic": "Architecture",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Data contracts are a way to describe the contents and guarantees of datasets. Simon Harrer and Arif Wider describe in detail what they are and how to use them. They apply practices from API design to data by treating them as data-providing services - such as data products - whose",
+          "publishedAt": "2026-11-18T09:02:00-05:00",
+          "readingMinutes": 5,
+          "whyRead": "Data contracts are a way to describe the contents and guarantees of datasets. "
+        },
+        {
+          "id": "e751618b5e37c4",
+          "title": "Morty — Continue your AI agent from any browser",
+          "url": "https://morty.build/",
+          "source": "Lobsters",
+          "topic": "Programming",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "I built a small open-source tool to solve a specific annoyance: being able to keep using the AI agent running on my machine when I’m not sitting in front of it. Previously I used Tailscale + Moshi. It worked, but the experience was laggy and I had to run my own relay to make it t",
+          "publishedAt": "Thu, 19 Nov 2026 00:44:03 -0600",
+          "readingMinutes": 5,
+          "whyRead": "I built a small open-source tool to solve a specific annoyance: being able to keep using the AI agent running on my machine when I’m not sitting in front of it. "
+        },
+        {
+          "id": "e9e0081d2f3c70",
+          "title": "Building the Agent Host Protocol for sessions that continue across devices",
+          "url": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
+          "source": "GitHub Engineering",
+          "topic": "Engineering",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud. The post Building the Agent Host Protocol for sessions that continue across devices appeared first on The GitHub Blog .",
+          "publishedAt": "Tue, 17 Nov 2026 18:20:40 +0000",
+          "readingMinutes": 5,
+          "whyRead": "Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud. "
+        },
+        {
+          "id": "d1c43f06c2ae23",
+          "title": "The pioneering coding tricks that built Doom and Quake",
+          "url": "https://stackoverflow.blog/2026/11/17/coding-tricks-that-built-doom-and-quake/",
+          "source": "Stack Overflow Blog",
+          "topic": "Software",
+          "track": "engineering",
+          "section": "brief",
+          "kind": "current",
+          "summary": "Ryan chats with John Romero, creator of the WAD file and the video game Doom, about the self-modifying code and blitting techniques that made Wolfenstein run so fast on early PCs, the mod-friendly architecture that turned Doom into a cultural phenomenon, and why the raw creative ",
+          "publishedAt": "Tue, 17 Nov 2026 08:40:00 GMT",
+          "readingMinutes": 5,
+          "whyRead": "Ryan chats with John Romero, creator of the WAD file and the video game Doom, about the self-modifying code and blitting techniques that made Wolfenstein run so fast"
+        },
+        {
+          "id": "fallback-eng-3",
+          "title": "Latency numbers every programmer should know",
+          "url": "https://gist.github.com/jboner/2841832",
+          "source": "Jeff Dean notes",
+          "topic": "Performance",
+          "track": "engineering",
+          "section": "evergreen",
+          "summary": "A compact mental model for the relative cost of CPU, memory, networks and storage.",
+          "publishedAt": null,
+          "readingMinutes": 4,
+          "kind": "evergreen",
+          "whyRead": "A compact mental model for the relative cost of CPU, memory, networks and storage."
+        }
+      ]
+    },
     {
       "editionDate": "2026-11-18",
       "edition": "2026.322",
