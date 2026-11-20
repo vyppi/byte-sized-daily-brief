@@ -1,24 +1,52 @@
 {
-  "editionDate": "2026-11-19",
-  "edition": "2026.323",
-  "generatedAt": "2026-11-19T07:27:18.885Z",
+  "editionDate": "2026-11-20",
+  "edition": "2026.324",
+  "generatedAt": "2026-11-20T07:16:57.418Z",
   "sourceCount": 6,
   "items": [
     {
-      "id": "hn-50554038",
-      "title": "Multiple vulnerabilities in Regexp and String case conversion",
-      "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+      "id": "a3494803d3d075",
+      "title": "Trying to get our Arms around AI efficiency",
+      "url": "https://stackoverflow.blog/2026/11/20/trying-to-get-our-arms-around-ai-efficiency/",
+      "source": "Stack Overflow Blog",
+      "topic": "Software",
+      "track": "engineering",
+      "section": "brief",
+      "kind": "current",
+      "summary": "Ryan sits down with Alex Spinelli, Senior Vice President of AI and Developer Platforms at Arm, for a conversation about bringing ML capabilities to edge devices, adapting software tools to meet the unique demands of autonomous agents, and the critical importance of prioritizing f",
+      "publishedAt": "Fri, 20 Nov 2026 08:40:00 GMT",
+      "readingMinutes": 5,
+      "whyRead": "Ryan sits down with Alex Spinelli, Senior Vice President of AI and Developer Platforms at Arm, for a conversation about bringing ML capabilities to edge devices, ada"
+    },
+    {
+      "id": "hn-50562320",
+      "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+      "url": "https://github.com/onlook-dev/onlook/",
       "source": "Hacker News",
       "topic": "Community signal",
       "track": "engineering",
       "section": "brief",
       "kind": "current",
-      "summary": "202 points and 64 comments on Hacker News.",
-      "publishedAt": "2026-11-18T23:52:50.000Z",
+      "summary": "111 points and 75 comments on Hacker News.",
+      "publishedAt": "2026-11-19T16:34:04.000Z",
       "readingMinutes": 5,
-      "signal": 202,
-      "comments": 64,
-      "whyRead": "202 points and 64 comments make this an active technical discussion."
+      "signal": 111,
+      "comments": 75,
+      "whyRead": "111 points and 75 comments make this an active technical discussion."
+    },
+    {
+      "id": "f7443acbc19fd3",
+      "title": "Farcall, a terminal-ready Rust PC+DOS emulator",
+      "url": "https://www.dialup.net/farcall/",
+      "source": "Lobsters",
+      "topic": "Programming",
+      "track": "engineering",
+      "section": "brief",
+      "kind": "current",
+      "summary": "Comments",
+      "publishedAt": "Thu, 19 Nov 2026 20:12:07 -0600",
+      "readingMinutes": 5,
+      "whyRead": "A fresh programming perspective from Lobsters."
     },
     {
       "id": "9be8cef9db1761",
@@ -35,20 +63,6 @@
       "whyRead": "Data contracts are a way to describe the contents and guarantees of datasets. "
     },
     {
-      "id": "e751618b5e37c4",
-      "title": "Morty — Continue your AI agent from any browser",
-      "url": "https://morty.build/",
-      "source": "Lobsters",
-      "topic": "Programming",
-      "track": "engineering",
-      "section": "brief",
-      "kind": "current",
-      "summary": "I built a small open-source tool to solve a specific annoyance: being able to keep using the AI agent running on my machine when I’m not sitting in front of it. Previously I used Tailscale + Moshi. It worked, but the experience was laggy and I had to run my own relay to make it t",
-      "publishedAt": "Thu, 19 Nov 2026 00:44:03 -0600",
-      "readingMinutes": 5,
-      "whyRead": "I built a small open-source tool to solve a specific annoyance: being able to keep using the AI agent running on my machine when I’m not sitting in front of it. "
-    },
-    {
       "id": "e9e0081d2f3c70",
       "title": "Building the Agent Host Protocol for sessions that continue across devices",
       "url": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
@@ -63,32 +77,18 @@
       "whyRead": "Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud. "
     },
     {
-      "id": "d1c43f06c2ae23",
-      "title": "The pioneering coding tricks that built Doom and Quake",
-      "url": "https://stackoverflow.blog/2026/11/17/coding-tricks-that-built-doom-and-quake/",
-      "source": "Stack Overflow Blog",
-      "topic": "Software",
-      "track": "engineering",
-      "section": "brief",
-      "kind": "current",
-      "summary": "Ryan chats with John Romero, creator of the WAD file and the video game Doom, about the self-modifying code and blitting techniques that made Wolfenstein run so fast on early PCs, the mod-friendly architecture that turned Doom into a cultural phenomenon, and why the raw creative ",
-      "publishedAt": "Tue, 17 Nov 2026 08:40:00 GMT",
-      "readingMinutes": 5,
-      "whyRead": "Ryan chats with John Romero, creator of the WAD file and the video game Doom, about the self-modifying code and blitting techniques that made Wolfenstein run so fast"
-    },
-    {
-      "id": "fallback-eng-3",
-      "title": "Latency numbers every programmer should know",
-      "url": "https://gist.github.com/jboner/2841832",
-      "source": "Jeff Dean notes",
-      "topic": "Performance",
+      "id": "fallback-eng-1",
+      "title": "How to write a good software design document",
+      "url": "https://www.industrialempathy.com/posts/design-docs-at-google/",
+      "source": "Industrial Empathy",
+      "topic": "Architecture",
       "track": "engineering",
       "section": "evergreen",
-      "summary": "A compact mental model for the relative cost of CPU, memory, networks and storage.",
+      "summary": "A practical structure for explaining context, goals, alternatives, trade-offs and implementation plans before code is written.",
       "publishedAt": null,
-      "readingMinutes": 4,
+      "readingMinutes": 8,
       "kind": "evergreen",
-      "whyRead": "A compact mental model for the relative cost of CPU, memory, networks and storage."
+      "whyRead": "A practical structure for explaining context, goals, alternatives, trade-offs and implementation plans before code is written."
     }
   ]
 }
