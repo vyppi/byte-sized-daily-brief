@@ -1,24 +1,24 @@
 {
-  "editionDate": "2026-11-21",
-  "edition": "2026.325",
-  "generatedAt": "2026-11-21T07:09:14.741Z",
+  "editionDate": "2026-11-22",
+  "edition": "2026.326",
+  "generatedAt": "2026-11-22T06:49:07.360Z",
   "sourceCount": 6,
   "items": [
     {
-      "id": "hn-50581403",
-      "title": "Show HN: OpenComputer – an open source alternative to Devin",
-      "url": "https://github.com/diggerhq/opencomputer",
+      "id": "hn-50593737",
+      "title": "Advice for the next 100 Rust GUIs",
+      "url": "https://linebender.org/blog/next-100-guis/",
       "source": "Hacker News",
       "topic": "Community signal",
       "track": "engineering",
       "section": "brief",
       "kind": "current",
-      "summary": "100 points and 25 comments on Hacker News.",
-      "publishedAt": "2026-11-20T20:19:56.000Z",
+      "summary": "132 points and 36 comments on Hacker News.",
+      "publishedAt": "2026-11-21T21:17:53.000Z",
       "readingMinutes": 5,
-      "signal": 100,
-      "comments": 25,
-      "whyRead": "100 points and 25 comments make this an active technical discussion."
+      "signal": 132,
+      "comments": 36,
+      "whyRead": "132 points and 36 comments make this an active technical discussion."
     },
     {
       "id": "e39ea887ec6e41",
@@ -35,6 +35,20 @@
       "whyRead": "Marcus Borg recounts an experiment to investigate if healthy code was cheaper for agents to review . "
     },
     {
+      "id": "293da4aa909557",
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "source": "Lobsters",
+      "topic": "Programming",
+      "track": "engineering",
+      "section": "brief",
+      "kind": "current",
+      "summary": "Comments",
+      "publishedAt": "Sat, 21 Nov 2026 20:03:46 -0600",
+      "readingMinutes": 5,
+      "whyRead": "A fresh programming perspective from Lobsters."
+    },
+    {
       "id": "b529165023aea6",
       "title": "Dispatches from O&#x27;Reilly: Inside a software factory",
       "url": "https://stackoverflow.blog/2026/11/20/dispatches-from-o-reilly-inside-a-software-factory/",
@@ -47,20 +61,6 @@
       "publishedAt": "Fri, 20 Nov 2026 17:18:38 GMT",
       "readingMinutes": 5,
       "whyRead": "Go from vibe coding to generating clean, maintainable code"
-    },
-    {
-      "id": "f9404f335a9c93",
-      "title": "Scaling Git horizontally: how we moved beyond Multi-Raft",
-      "url": "https://enroute.sh/blog/scaling-horizontally-how-we-moved-beyond-multi-raft",
-      "source": "Lobsters",
-      "topic": "Programming",
-      "track": "engineering",
-      "section": "brief",
-      "kind": "current",
-      "summary": "Comments",
-      "publishedAt": "Fri, 20 Nov 2026 22:14:02 -0600",
-      "readingMinutes": 5,
-      "whyRead": "A fresh programming perspective from Lobsters."
     },
     {
       "id": "e9e0081d2f3c70",
@@ -77,18 +77,18 @@
       "whyRead": "Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud. "
     },
     {
-      "id": "fallback-eng-2",
-      "title": "The twelve-factor app methodology remains useful",
-      "url": "https://12factor.net/",
-      "source": "12 Factor",
-      "topic": "Systems",
+      "id": "fallback-eng-3",
+      "title": "Latency numbers every programmer should know",
+      "url": "https://gist.github.com/jboner/2841832",
+      "source": "Jeff Dean notes",
+      "topic": "Performance",
       "track": "engineering",
       "section": "evergreen",
-      "summary": "Review the durable principles behind portable, observable and operationally sound web services.",
+      "summary": "A compact mental model for the relative cost of CPU, memory, networks and storage.",
       "publishedAt": null,
-      "readingMinutes": 7,
+      "readingMinutes": 4,
       "kind": "evergreen",
-      "whyRead": "Review the durable principles behind portable, observable and operationally sound web services."
+      "whyRead": "A compact mental model for the relative cost of CPU, memory, networks and storage."
     }
   ]
 }
