@@ -1,24 +1,38 @@
 {
-  "editionDate": "2026-11-22",
-  "edition": "2026.326",
-  "generatedAt": "2026-11-22T06:49:07.360Z",
+  "editionDate": "2026-11-23",
+  "edition": "2026.327",
+  "generatedAt": "2026-11-23T07:40:08.712Z",
   "sourceCount": 6,
   "items": [
     {
-      "id": "hn-50593737",
-      "title": "Advice for the next 100 Rust GUIs",
-      "url": "https://linebender.org/blog/next-100-guis/",
+      "id": "hn-50607261",
+      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+      "url": "https://github.com/AFK-surf/xnulinux",
       "source": "Hacker News",
       "topic": "Community signal",
       "track": "engineering",
       "section": "brief",
       "kind": "current",
-      "summary": "132 points and 36 comments on Hacker News.",
-      "publishedAt": "2026-11-21T21:17:53.000Z",
+      "summary": "185 points and 79 comments on Hacker News.",
+      "publishedAt": "2026-11-23T03:49:24.000Z",
       "readingMinutes": 5,
-      "signal": 132,
-      "comments": 36,
-      "whyRead": "132 points and 36 comments make this an active technical discussion."
+      "signal": 185,
+      "comments": 79,
+      "whyRead": "185 points and 79 comments make this an active technical discussion."
+    },
+    {
+      "id": "bda6a04793ab74",
+      "title": "GitHub Actions accepts invalid YAML",
+      "url": "https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/",
+      "source": "Lobsters",
+      "topic": "Programming",
+      "track": "engineering",
+      "section": "brief",
+      "kind": "current",
+      "summary": "Comments",
+      "publishedAt": "Sun, 22 Nov 2026 15:49:18 -0600",
+      "readingMinutes": 5,
+      "whyRead": "A fresh programming perspective from Lobsters."
     },
     {
       "id": "e39ea887ec6e41",
@@ -33,20 +47,6 @@
       "publishedAt": "2026-11-20T13:38:00-05:00",
       "readingMinutes": 5,
       "whyRead": "Marcus Borg recounts an experiment to investigate if healthy code was cheaper for agents to review . "
-    },
-    {
-      "id": "293da4aa909557",
-      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
-      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-      "source": "Lobsters",
-      "topic": "Programming",
-      "track": "engineering",
-      "section": "brief",
-      "kind": "current",
-      "summary": "Comments",
-      "publishedAt": "Sat, 21 Nov 2026 20:03:46 -0600",
-      "readingMinutes": 5,
-      "whyRead": "A fresh programming perspective from Lobsters."
     },
     {
       "id": "b529165023aea6",
@@ -77,18 +77,18 @@
       "whyRead": "Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud. "
     },
     {
-      "id": "fallback-eng-3",
-      "title": "Latency numbers every programmer should know",
-      "url": "https://gist.github.com/jboner/2841832",
-      "source": "Jeff Dean notes",
-      "topic": "Performance",
+      "id": "fallback-eng-1",
+      "title": "How to write a good software design document",
+      "url": "https://www.industrialempathy.com/posts/design-docs-at-google/",
+      "source": "Industrial Empathy",
+      "topic": "Architecture",
       "track": "engineering",
       "section": "evergreen",
-      "summary": "A compact mental model for the relative cost of CPU, memory, networks and storage.",
+      "summary": "A practical structure for explaining context, goals, alternatives, trade-offs and implementation plans before code is written.",
       "publishedAt": null,
-      "readingMinutes": 4,
+      "readingMinutes": 8,
       "kind": "evergreen",
-      "whyRead": "A compact mental model for the relative cost of CPU, memory, networks and storage."
+      "whyRead": "A practical structure for explaining context, goals, alternatives, trade-offs and implementation plans before code is written."
     }
   ]
 }
