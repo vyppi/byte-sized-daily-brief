@@ -1,9 +1,25 @@
 {
-  "editionDate": "2026-11-24",
-  "edition": "2026.328",
-  "generatedAt": "2026-11-24T09:55:10.763Z",
+  "editionDate": "2026-11-25",
+  "edition": "2026.329",
+  "generatedAt": "2026-11-25T08:35:15.094Z",
   "sourceCount": 6,
   "items": [
+    {
+      "id": "hn-50637686",
+      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+      "source": "Hacker News",
+      "topic": "Community signal",
+      "track": "engineering",
+      "section": "brief",
+      "kind": "current",
+      "summary": "199 points and 76 comments on Hacker News.",
+      "publishedAt": "2026-11-25T02:34:21.000Z",
+      "readingMinutes": 5,
+      "signal": 199,
+      "comments": 76,
+      "whyRead": "199 points and 76 comments make this an active technical discussion."
+    },
     {
       "id": "b24b3d5882cf81",
       "title": "Agent swarms need more than a message board",
@@ -19,46 +35,30 @@
       "whyRead": "Agent swarms are really distributed systems problems in disguise."
     },
     {
-      "id": "hn-50624061",
-      "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
-      "url": "https://www.phoronix.com/review/amd-epyc-9006-7601",
-      "source": "Hacker News",
-      "topic": "Community signal",
-      "track": "engineering",
-      "section": "brief",
-      "kind": "current",
-      "summary": "78 points and 29 comments on Hacker News.",
-      "publishedAt": "2026-11-24T05:15:22.000Z",
-      "readingMinutes": 5,
-      "signal": 78,
-      "comments": 29,
-      "whyRead": "78 points and 29 comments make this an active technical discussion."
-    },
-    {
-      "id": "9d0404c9fb375f",
-      "title": "Do AI coding agents struggle with non-REST APIs?",
-      "url": "https://devblogs.microsoft.com/blog/do-ai-coding-agents-struggle-with-non-rest-apis/",
+      "id": "a4f19543477fab",
+      "title": "Is &#8220;sort by impact&#8221; just vibes?",
+      "url": "https://devblogs.microsoft.com/blog/is-sort-by-impact-just-vibes/",
       "source": "Microsoft Dev Blogs",
       "topic": "Developer tools",
       "track": "engineering",
       "section": "brief",
       "kind": "current",
-      "summary": "Should your next API be REST, or something else? And which one will AI coding agents handle best? We tested REST, POST-only and RPC-style APIs with six models across 1,356 runs, and what decided whether agents succeeded had nothing to do with API style. The post Do AI coding agen",
-      "publishedAt": "Mon, 23 Nov 2026 10:25:28 +0000",
+      "summary": "You ask an agent for your top five, sorted by impact, and it hands you a confident list. But you never said what impact means, so what did the agent actually sort by? We ran four models through the same lists 1,500 times to find out, and what we found should change how you ask fo",
+      "publishedAt": "Tue, 24 Nov 2026 15:23:13 +0000",
       "readingMinutes": 5,
-      "whyRead": "Should your next API be REST, or something else? "
+      "whyRead": "You ask an agent for your top five, sorted by impact, and it hands you a confident list. "
     },
     {
-      "id": "a6366866e7ddc0",
-      "title": "There's no reason for software to be slow anymore",
-      "url": "https://danluu.com/no-slow/",
+      "id": "4d0d6ece7c5ae6",
+      "title": "Beyond Linux: A Journey Through the Open Source Ecosystem",
+      "url": "https://it-notes.dragas.net/2026/11/17/beyond-linux-a-journey-through-the-open-source-ecosystem/",
       "source": "Lobsters",
       "topic": "Programming",
       "track": "engineering",
       "section": "brief",
       "kind": "current",
       "summary": "Comments",
-      "publishedAt": "Tue, 24 Nov 2026 02:39:33 -0600",
+      "publishedAt": "Tue, 24 Nov 2026 11:45:29 -0600",
       "readingMinutes": 5,
       "whyRead": "A fresh programming perspective from Lobsters."
     },
@@ -77,18 +77,18 @@
       "whyRead": "Distributed systems are hard to test because partial failures overlap with live traffic and the same fault can produce different execution traces on different runs. "
     },
     {
-      "id": "fallback-eng-2",
-      "title": "The twelve-factor app methodology remains useful",
-      "url": "https://12factor.net/",
-      "source": "12 Factor",
-      "topic": "Systems",
+      "id": "fallback-eng-3",
+      "title": "Latency numbers every programmer should know",
+      "url": "https://gist.github.com/jboner/2841832",
+      "source": "Jeff Dean notes",
+      "topic": "Performance",
       "track": "engineering",
       "section": "evergreen",
-      "summary": "Review the durable principles behind portable, observable and operationally sound web services.",
+      "summary": "A compact mental model for the relative cost of CPU, memory, networks and storage.",
       "publishedAt": null,
-      "readingMinutes": 7,
+      "readingMinutes": 4,
       "kind": "evergreen",
-      "whyRead": "Review the durable principles behind portable, observable and operationally sound web services."
+      "whyRead": "A compact mental model for the relative cost of CPU, memory, networks and storage."
     }
   ]
 }
