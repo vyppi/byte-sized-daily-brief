@@ -1,66 +1,66 @@
 {
-  "editionDate": "2026-11-25",
-  "edition": "2026.329",
-  "generatedAt": "2026-11-25T08:35:15.094Z",
+  "editionDate": "2026-11-26",
+  "edition": "2026.330",
+  "generatedAt": "2026-11-26T08:18:17.451Z",
   "sourceCount": 6,
   "items": [
     {
-      "id": "hn-50637686",
-      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+      "id": "hn-50647161",
+      "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+      "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
       "source": "Hacker News",
       "topic": "Community signal",
       "track": "engineering",
       "section": "brief",
       "kind": "current",
-      "summary": "199 points and 76 comments on Hacker News.",
-      "publishedAt": "2026-11-25T02:34:21.000Z",
+      "summary": "131 points and 46 comments on Hacker News.",
+      "publishedAt": "2026-11-25T20:35:50.000Z",
       "readingMinutes": 5,
-      "signal": 199,
-      "comments": 76,
-      "whyRead": "199 points and 76 comments make this an active technical discussion."
+      "signal": 131,
+      "comments": 46,
+      "whyRead": "131 points and 46 comments make this an active technical discussion."
     },
     {
-      "id": "b24b3d5882cf81",
-      "title": "Agent swarms need more than a message board",
-      "url": "https://stackoverflow.blog/2026/11/24/agent-swarms-need-more-than-a-message-board/",
+      "id": "ed3a21b1d40d96",
+      "title": "When AI Writes the Code, What Counts as Evidence?",
+      "url": "https://stackoverflow.blog/2026/11/25/when-ai-writes-the-code-what-counts-as-evidence/",
       "source": "Stack Overflow Blog",
       "topic": "Software",
       "track": "engineering",
       "section": "brief",
       "kind": "current",
-      "summary": "Agent swarms are really distributed systems problems in disguise.",
-      "publishedAt": "Tue, 24 Nov 2026 08:40:00 GMT",
+      "summary": "",
+      "publishedAt": "Wed, 25 Nov 2026 15:59:41 GMT",
       "readingMinutes": 5,
-      "whyRead": "Agent swarms are really distributed systems problems in disguise."
+      "whyRead": "A fresh software perspective from Stack Overflow Blog."
     },
     {
-      "id": "a4f19543477fab",
-      "title": "Is &#8220;sort by impact&#8221; just vibes?",
-      "url": "https://devblogs.microsoft.com/blog/is-sort-by-impact-just-vibes/",
+      "id": "ba5a00ac8ecd11",
+      "title": "Do inconsistent docs hurt AI coding agents?",
+      "url": "https://devblogs.microsoft.com/blog/do-inconsistent-docs-hurt-ai-coding-agents/",
       "source": "Microsoft Dev Blogs",
       "topic": "Developer tools",
       "track": "engineering",
       "section": "brief",
       "kind": "current",
-      "summary": "You ask an agent for your top five, sorted by impact, and it hands you a confident list. But you never said what impact means, so what did the agent actually sort by? We ran four models through the same lists 1,500 times to find out, and what we found should change how you ask fo",
-      "publishedAt": "Tue, 24 Nov 2026 15:23:13 +0000",
+      "summary": "Somewhere in your docs, two pages disagree. Coding agents often notice, follow the wrong page anyway, and pay for it in extra tokens or a broken build. The post Do inconsistent docs hurt AI coding agents? appeared first on Microsoft for Developers .",
+      "publishedAt": "Wed, 25 Nov 2026 11:46:06 +0000",
       "readingMinutes": 5,
-      "whyRead": "You ask an agent for your top five, sorted by impact, and it hands you a confident list. "
+      "whyRead": "Somewhere in your docs, two pages disagree. "
     },
     {
-      "id": "4d0d6ece7c5ae6",
-      "title": "Beyond Linux: A Journey Through the Open Source Ecosystem",
-      "url": "https://it-notes.dragas.net/2026/11/17/beyond-linux-a-journey-through-the-open-source-ecosystem/",
+      "id": "0f3bba5238e16c",
+      "title": "Meaningful Human-in-the-Loop Checking of GenAI Synthesis for Restricted Languages",
+      "url": "https://www.siddharthaprasad.com/papers/pafk-pick.pdf",
       "source": "Lobsters",
       "topic": "Programming",
       "track": "engineering",
       "section": "brief",
       "kind": "current",
-      "summary": "Comments",
-      "publishedAt": "Tue, 24 Nov 2026 11:45:29 -0600",
+      "summary": "Abstract: Developers routinely use GenAI tools (large language models enriched in various ways) to generate useful components of programs, such as regular expressions. While pleasant and often effective, this can easily lead to subtle bugs. The developer may have been unclear in ",
+      "publishedAt": "Thu, 26 Nov 2026 00:35:12 -0600",
       "readingMinutes": 5,
-      "whyRead": "A fresh programming perspective from Lobsters."
+      "whyRead": "Abstract: Developers routinely use GenAI tools (large language models enriched in various ways) to generate useful components of programs, such as regular expression"
     },
     {
       "id": "0c9b976733e918",
@@ -77,18 +77,18 @@
       "whyRead": "Distributed systems are hard to test because partial failures overlap with live traffic and the same fault can produce different execution traces on different runs. "
     },
     {
-      "id": "fallback-eng-3",
-      "title": "Latency numbers every programmer should know",
-      "url": "https://gist.github.com/jboner/2841832",
-      "source": "Jeff Dean notes",
-      "topic": "Performance",
+      "id": "fallback-eng-1",
+      "title": "How to write a good software design document",
+      "url": "https://www.industrialempathy.com/posts/design-docs-at-google/",
+      "source": "Industrial Empathy",
+      "topic": "Architecture",
       "track": "engineering",
       "section": "evergreen",
-      "summary": "A compact mental model for the relative cost of CPU, memory, networks and storage.",
+      "summary": "A practical structure for explaining context, goals, alternatives, trade-offs and implementation plans before code is written.",
       "publishedAt": null,
-      "readingMinutes": 4,
+      "readingMinutes": 8,
       "kind": "evergreen",
-      "whyRead": "A compact mental model for the relative cost of CPU, memory, networks and storage."
+      "whyRead": "A practical structure for explaining context, goals, alternatives, trade-offs and implementation plans before code is written."
     }
   ]
 }
