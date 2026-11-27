@@ -1,38 +1,52 @@
 {
-  "editionDate": "2026-11-26",
-  "edition": "2026.330",
-  "generatedAt": "2026-11-26T08:18:17.451Z",
+  "editionDate": "2026-11-27",
+  "edition": "2026.331",
+  "generatedAt": "2026-11-27T08:34:54.616Z",
   "sourceCount": 6,
   "items": [
     {
-      "id": "hn-50647161",
-      "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
-      "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+      "id": "hn-50663089",
+      "title": "The need for a formally verifiable mainstream programming language",
+      "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
       "source": "Hacker News",
       "topic": "Community signal",
       "track": "engineering",
       "section": "brief",
       "kind": "current",
-      "summary": "131 points and 46 comments on Hacker News.",
-      "publishedAt": "2026-11-25T20:35:50.000Z",
+      "summary": "126 points and 94 comments on Hacker News.",
+      "publishedAt": "2026-11-27T05:22:06.000Z",
       "readingMinutes": 5,
-      "signal": 131,
-      "comments": 46,
-      "whyRead": "131 points and 46 comments make this an active technical discussion."
+      "signal": 126,
+      "comments": 94,
+      "whyRead": "126 points and 94 comments make this an active technical discussion."
     },
     {
-      "id": "ed3a21b1d40d96",
-      "title": "When AI Writes the Code, What Counts as Evidence?",
-      "url": "https://stackoverflow.blog/2026/11/25/when-ai-writes-the-code-what-counts-as-evidence/",
+      "id": "ab27bc567fd047",
+      "title": "Sandboxes, secure inference, and keeping agents from going rogue",
+      "url": "https://stackoverflow.blog/2026/11/27/sandboxes-secure-inference-and-rogue-agents/",
       "source": "Stack Overflow Blog",
       "topic": "Software",
       "track": "engineering",
       "section": "brief",
       "kind": "current",
-      "summary": "",
-      "publishedAt": "Wed, 25 Nov 2026 15:59:41 GMT",
+      "summary": "At We Are Developers, Ryan talks with Daytona CEO and cofounder Ivan Burazin about agent sandboxes and Blackbox AI CTO and cofounder Richard Risk about encrypted inference.",
+      "publishedAt": "Fri, 27 Nov 2026 08:40:00 GMT",
       "readingMinutes": 5,
-      "whyRead": "A fresh software perspective from Stack Overflow Blog."
+      "whyRead": "At We Are Developers, Ryan talks with Daytona CEO and cofounder Ivan Burazin about agent sandboxes and Blackbox AI CTO and cofounder Richard Risk about encrypted inf"
+    },
+    {
+      "id": "a6fa3223f2bc52",
+      "title": "The race for Officve: an open-source office suite in one month",
+      "url": "https://officve.madskristiansen.com/blog/race-for-officve",
+      "source": "Lobsters",
+      "topic": "Programming",
+      "track": "engineering",
+      "section": "brief",
+      "kind": "current",
+      "summary": "Comments",
+      "publishedAt": "Fri, 27 Nov 2026 02:22:59 -0600",
+      "readingMinutes": 5,
+      "whyRead": "A fresh programming perspective from Lobsters."
     },
     {
       "id": "ba5a00ac8ecd11",
@@ -49,20 +63,6 @@
       "whyRead": "Somewhere in your docs, two pages disagree. "
     },
     {
-      "id": "0f3bba5238e16c",
-      "title": "Meaningful Human-in-the-Loop Checking of GenAI Synthesis for Restricted Languages",
-      "url": "https://www.siddharthaprasad.com/papers/pafk-pick.pdf",
-      "source": "Lobsters",
-      "topic": "Programming",
-      "track": "engineering",
-      "section": "brief",
-      "kind": "current",
-      "summary": "Abstract: Developers routinely use GenAI tools (large language models enriched in various ways) to generate useful components of programs, such as regular expressions. While pleasant and often effective, this can easily lead to subtle bugs. The developer may have been unclear in ",
-      "publishedAt": "Thu, 26 Nov 2026 00:35:12 -0600",
-      "readingMinutes": 5,
-      "whyRead": "Abstract: Developers routinely use GenAI tools (large language models enriched in various ways) to generate useful components of programs, such as regular expression"
-    },
-    {
       "id": "0c9b976733e918",
       "title": "Deterministic Simulation Testing",
       "url": "https://martinfowler.com/articles/deterministic-simulation-testing.html",
@@ -77,18 +77,18 @@
       "whyRead": "Distributed systems are hard to test because partial failures overlap with live traffic and the same fault can produce different execution traces on different runs. "
     },
     {
-      "id": "fallback-eng-1",
-      "title": "How to write a good software design document",
-      "url": "https://www.industrialempathy.com/posts/design-docs-at-google/",
-      "source": "Industrial Empathy",
-      "topic": "Architecture",
+      "id": "fallback-eng-2",
+      "title": "The twelve-factor app methodology remains useful",
+      "url": "https://12factor.net/",
+      "source": "12 Factor",
+      "topic": "Systems",
       "track": "engineering",
       "section": "evergreen",
-      "summary": "A practical structure for explaining context, goals, alternatives, trade-offs and implementation plans before code is written.",
+      "summary": "Review the durable principles behind portable, observable and operationally sound web services.",
       "publishedAt": null,
-      "readingMinutes": 8,
+      "readingMinutes": 7,
       "kind": "evergreen",
-      "whyRead": "A practical structure for explaining context, goals, alternatives, trade-offs and implementation plans before code is written."
+      "whyRead": "Review the durable principles behind portable, observable and operationally sound web services."
     }
   ]
 }
